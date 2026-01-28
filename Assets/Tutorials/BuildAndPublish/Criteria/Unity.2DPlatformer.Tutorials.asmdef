@@ -1,7 +1,9 @@
 {
     "name": "Unity.2DPlatformer.Tutorials",
+    "rootNamespace": "",
     "references": [
-        "GUID:149cad238efed4f53ac932b1e9555356"
+        "GUID:149cad238efed4f53ac932b1e9555356",
+        "GUID:b66e341f615c0f04a955503d582f827d"
     ],
     "includePlatforms": [
         "Editor"

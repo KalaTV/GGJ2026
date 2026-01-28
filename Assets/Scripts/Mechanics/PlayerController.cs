@@ -1,5 +1,6 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
+using MaskSystem.Runtime;
 using UnityEngine;
 using Platformer.Gameplay;
 using static Platformer.Core.Simulation;
@@ -35,19 +36,25 @@ namespace Platformer.Mechanics
         public Health health;
         public bool controlEnabled = true;
 
-        bool jump;
+        public bool jump;
         Vector2 move;
         SpriteRenderer spriteRenderer;
         internal Animator animator;
         readonly PlatformerModel model = Simulation.GetModel<PlatformerModel>();
 
         private InputAction m_MoveAction;
-        private InputAction m_JumpAction;
+        public InputAction m_JumpAction;
+        
+        [Header("Double Jump Settings")]
+        public int jumpsMade = 0;
+        public int maxJumps = 1; // Par défaut 1 (saut normal)
+        private MaskSystem.Runtime.MaskAbilityManager maskManager;
 
         public Bounds Bounds => collider2d.bounds;
 
         void Awake()
         {
+            maskManager = GetComponent<MaskSystem.Runtime.MaskAbilityManager>();
             health = GetComponent<Health>();
             audioSource = GetComponent<AudioSource>();
             collider2d = GetComponent<Collider2D>();
@@ -65,9 +72,27 @@ namespace Platformer.Mechanics
         {
             if (controlEnabled)
             {
+                if (maskManager != null && maskManager.activeMask != null && maskManager.activeMask.pouvoir == MaskData.TypePouvoir.DoubleSaut)
+                    maxJumps = 2;
+                else
+                    maxJumps = 1;
+                
                 move.x = m_MoveAction.ReadValue<Vector2>().x;
-                if (jumpState == JumpState.Grounded && m_JumpAction.WasPressedThisFrame())
-                    jumpState = JumpState.PrepareToJump;
+
+
+                if (m_JumpAction.WasPressedThisFrame())
+                {
+                    if (jumpState == JumpState.Grounded)
+                    {
+                        jumpState = JumpState.PrepareToJump;
+                        jumpsMade = 1;
+                    }
+                    else if (jumpsMade < maxJumps)
+                    {
+                        jumpState = JumpState.PrepareToJump;
+                        jumpsMade++;
+                    }
+                }
                 else if (m_JumpAction.WasReleasedThisFrame())
                 {
                     stopJump = true;
@@ -104,6 +129,7 @@ namespace Platformer.Mechanics
                     {
                         Schedule<PlayerLanded>().player = this;
                         jumpState = JumpState.Landed;
+                        jumpsMade = 0; // RESET ICI
                     }
                     break;
                 case JumpState.Landed:
@@ -114,7 +140,7 @@ namespace Platformer.Mechanics
 
         protected override void ComputeVelocity()
         {
-            if (jump && IsGrounded)
+            if (jump)
             {
                 velocity.y = jumpTakeOffSpeed * model.jumpModifier;
                 jump = false;
