@@ -6,6 +6,7 @@ using Platformer.Gameplay;
 using static Platformer.Core.Simulation;
 using Platformer.Model;
 using Platformer.Core;
+using Unity.VisualScripting;
 using UnityEngine.InputSystem;
 
 namespace Platformer.Mechanics
@@ -47,9 +48,9 @@ namespace Platformer.Mechanics
         
         [Header("Double Jump Settings")]
         public int jumpsMade = 0;
-        public int maxJumps = 1; // Par défaut 1 (saut normal)
+        public int maxJumps = 1;
         private MaskSystem.Runtime.MaskAbilityManager maskManager;
-
+        
         public Bounds Bounds => collider2d.bounds;
 
         void Awake()
@@ -106,7 +107,7 @@ namespace Platformer.Mechanics
             UpdateJumpState();
             base.Update();
         }
-
+        
         void UpdateJumpState()
         {
             jump = false;
