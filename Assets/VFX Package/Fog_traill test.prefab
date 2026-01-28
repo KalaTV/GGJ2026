@@ -116,8 +116,8 @@ ParticleSystem:
     startLifetime:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 1.2
-      minScalar: 0.9
+      scalar: 1.17
+      minScalar: 0.46
       maxCurve:
         serializedVersion: 2
         m_Curve:
@@ -222,8 +222,8 @@ ParticleSystem:
     startColor:
       serializedVersion: 2
       minMaxState: 2
-      minColor: {r: 0.59607846, g: 0.59607846, b: 0.59607846, a: 0.039215688}
-      maxColor: {r: 1, g: 0.9334955, b: 0.73018867, a: 0.44313726}
+      minColor: {r: 0.59607846, g: 0.59607846, b: 0.59607846, a: 0.6313726}
+      maxColor: {r: 1, g: 0.9334955, b: 0.73018867, a: 0.6745098}
       maxGradient:
         serializedVersion: 2
         key0: {r: 1, g: 1, b: 1, a: 1}
@@ -603,8 +603,8 @@ ParticleSystem:
         m_PostInfinity: 2
         m_RotationOrder: 4
     randomizeRotationDirection: 0
-    gravitySource: 0
-    maxNumParticles: 50
+    gravitySource: 1
+    maxNumParticles: 69
     customEmitterVelocity: {x: 0, y: 0, z: 0}
     size3D: 0
     rotation3D: 0
@@ -670,8 +670,8 @@ ParticleSystem:
     boxThickness: {x: 0, y: 0, z: 0}
     radiusThickness: 1
     donutRadius: 0.2
-    m_Position: {x: 0, y: 0, z: 0}
-    m_Rotation: {x: 180, y: 0, z: 0}
+    m_Position: {x: -1.78, y: 0, z: 0}
+    m_Rotation: {x: 90.12, y: 0, z: 180.1}
     m_Scale: {x: 3.93, y: 1, z: 5.1}
     placementMode: 0
     m_MeshMaterialIndex: 0
@@ -751,8 +751,8 @@ ParticleSystem:
     sphericalDirectionAmount: 0
     randomPositionAmount: 0
     radius:
-      value: 0.5
-      mode: 0
+      value: 0.43
+      mode: 1
       spread: 0
       speed:
         serializedVersion: 2
@@ -870,7 +870,7 @@ ParticleSystem:
     rateOverTime:
       serializedVersion: 2
       minMaxState: 0
-      scalar: 5
+      scalar: 10.13
       minScalar: 10
       maxCurve:
         serializedVersion: 2
@@ -1487,7 +1487,8 @@ ParticleSystem:
     uvChannelMask: -1
     rowMode: 1
     sprites:
-    - sprite: {fileID: 2828077047651648745, guid: 2a5ad19097f8e034d9931cf6c86c4b2b, type: 3}
+    - sprite: {fileID: 2828077047651648745, guid: 2a5ad19097f8e034d9931cf6c86c4b2b,
+        type: 3}
     flipU: 0
     flipV: 0
   VelocityModule:
@@ -4801,9 +4802,9 @@ ParticleSystemRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 499656115
-  m_SortingLayer: 1
-  m_SortingOrder: 4
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+  m_SortingOrder: 0
   m_RenderMode: 0
   m_MeshDistribution: 0
   m_SortMode: 0
