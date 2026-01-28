@@ -14,7 +14,8 @@ namespace MaskSystem.Runtime
         {
             if (other.CompareTag("Player"))
             {
-                abilityManager.activeMask = inventory.availableMasks[mask];
+                inventory.EquipMask(mask);
+                
             }
         }
     }

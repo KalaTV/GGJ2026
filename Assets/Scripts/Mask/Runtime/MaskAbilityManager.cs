@@ -3,6 +3,7 @@ using System.Collections;
 using UnityEngine;
 using UnityEngine.InputSystem; 
 using Platformer.Mechanics;
+using Unity.VisualScripting;
 
 namespace MaskSystem.Runtime
 {
@@ -19,6 +20,8 @@ namespace MaskSystem.Runtime
         [Header("Réglages Dash")]
         public float dashForce = 25f;
         public float dashDuration = 0.2f;
+        [SerializeField] ParticleSystem dashParticles;
+        private Vector2 startParticlePos;
         
         [Header ("Réglages Cooldown")]
         public float cooldownDuration = 5f;
@@ -33,6 +36,11 @@ namespace MaskSystem.Runtime
             movement = GetComponent<PlayerController>();
             playerInput = GetComponent<PlayerInput>();
             sr = GetComponent<SpriteRenderer>();
+        }
+
+        private void Start()
+        {
+            startParticlePos = dashParticles.transform.localPosition;
         }
 
         private void Update()
@@ -84,12 +92,20 @@ namespace MaskSystem.Runtime
         
         IEnumerator DashRoutine() 
         {
+            dashParticles.Play();
             float originalGravity = rb.gravityScale;
             rb.gravityScale = 0.1f; 
             
             Vector2 input = playerInput.actions["Move"].ReadValue<Vector2>();
             float directionX = (Mathf.Abs(input.x) > 0.1f) ? Mathf.Sign(input.x) : (sr.flipX ? -1 : 1);
-            
+            if (sr.flipX)
+            {
+                 dashParticles.transform.localScale = new Vector3(-2f, -2f, -2f);
+            }
+            else
+            {
+                dashParticles.transform.localScale = new Vector3(2f, 2f, 2f);
+            }
             float timer = 0;
             while (timer < dashDuration)
             {
@@ -101,6 +117,11 @@ namespace MaskSystem.Runtime
             
             rb.linearVelocity = Vector2.zero;
             rb.gravityScale = originalGravity;
+        }
+
+        public void SetMask(MaskData mask)
+        {
+            activeMask = mask;
         }
     }
 }

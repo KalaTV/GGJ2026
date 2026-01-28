@@ -8,7 +8,6 @@ namespace MaskSystem.Runtime
     public class MaskInventory : MonoBehaviour
     {
         public List<MaskData> availableMasks = new List<MaskData>();
-        public int currentMask = 0;
         private MaskAbilityManager abilityManager;
 
         private void Start()
@@ -18,7 +17,9 @@ namespace MaskSystem.Runtime
 
         public void EquipMask(int index)
         {
-            currentMask = index;
+            if(index < 0 || index >= availableMasks.Count)
+                return;
+            
             abilityManager.activeMask = availableMasks[index];
         }
     }
