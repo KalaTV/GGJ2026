@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fcde501fed7b4dff824b60984952fce4, type: 3}
   m_Name: DoubleJumpMAsk
   m_EditorClassIdentifier: Assembly-CSharp::MaskSystem.Runtime.MaskData
-  nom: 
-  pouvoir: 0
+  nom: Animal
+  pouvoir: 2
