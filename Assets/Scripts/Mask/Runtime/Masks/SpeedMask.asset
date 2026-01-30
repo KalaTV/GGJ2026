@@ -13,4 +13,5 @@ MonoBehaviour:
   m_Name: SpeedMask
   m_EditorClassIdentifier: Assembly-CSharp::MaskSystem.Runtime.MaskData
   nom: Sonic Mask
+  sprite: {fileID: 21300000, guid: 0440f865f7a6dfc49a38f8369d977f81, type: 3}
   pouvoir: 3

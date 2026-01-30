@@ -6,6 +6,7 @@ namespace MaskSystem.Runtime
     public class MaskData : ScriptableObject
     {
         public string nom;
+        public Sprite sprite;
         public enum TypePouvoir { Aucun, Dash, DoubleSaut, Vitesse, SuperSaut, TraverserMur, VisionGaz, VisionNoir, Soin }
         public TypePouvoir pouvoir;
     }
