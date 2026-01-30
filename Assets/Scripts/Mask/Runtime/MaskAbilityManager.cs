@@ -17,6 +17,9 @@ namespace MaskSystem.Runtime
         private PlayerInput playerInput; 
         private SpriteRenderer sr;       
 
+        [SerializeField] private MaskData baseMask;
+        
+        
         [Header("Réglages Dash")]
         public float dashForce = 25f;
         public float dashDuration = 0.2f;
@@ -51,6 +54,14 @@ namespace MaskSystem.Runtime
             {
                 movement.maxSpeed = 6f;
             }
+
+            if (activeMask.pouvoir == MaskData.TypePouvoir.Soin)
+            {
+                if (health.IsAlive) health.Increment();
+                activeMask = baseMask;
+            }
+                
+            
         }
 
         void OnSpecialAbility(InputValue value)
@@ -72,9 +83,6 @@ namespace MaskSystem.Runtime
                         StartCoroutine(DashRoutine());
                         StartCoroutine(StartCooldown());
                     }
-                    break;
-                case MaskData.TypePouvoir.Soin:
-                    if (health.IsAlive) health.Increment();
                     break;
             }
         }
