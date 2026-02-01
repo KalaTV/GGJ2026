@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 9a6c6e856a8de764aa7c00bf5b0d9234
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2693272713229508242
+    second: "Lumi\xE8re_De_Lumin\xE8re_0"
+  - first:
+      213: -4251003528856493255
+    second: "Lumi\xE8re_De_Lumin\xE8re_1"
+  - first:
+      213: -6671354111308225000
+    second: "Lumi\xE8re_De_Lumin\xE8re_2"
+  - first:
+      213: -4251421881448486739
+    second: "Lumi\xE8re_De_Lumin\xE8re_3"
+  - first:
+      213: -3830636197860705644
+    second: "Lumi\xE8re_De_Lumin\xE8re_4"
+  - first:
+      213: 7981783757149627004
+    second: "Lumi\xE8re_De_Lumin\xE8re_5"
+  - first:
+      213: -6241823262347278985
+    second: "Lumi\xE8re_De_Lumin\xE8re_6"
+  - first:
+      213: 8678918256317562027
+    second: "Lumi\xE8re_De_Lumin\xE8re_7"
+  - first:
+      213: 3041477138183404649
+    second: "Lumi\xE8re_De_Lumin\xE8re_8"
+  - first:
+      213: -8267603675534018606
+    second: "Lumi\xE8re_De_Lumin\xE8re_9"
+  - first:
+      213: 7316728748323463653
+    second: "Lumi\xE8re_De_Lumin\xE8re_10"
+  - first:
+      213: 6640719364674120375
+    second: "Lumi\xE8re_De_Lumin\xE8re_11"
+  - first:
+      213: 8207083503800731162
+    second: "Lumi\xE8re_De_Lumin\xE8re_12"
+  - first:
+      213: 3122976170244517118
+    second: "Lumi\xE8re_De_Lumin\xE8re_13"
+  - first:
+      213: 3455630434449848206
+    second: "Lumi\xE8re_De_Lumin\xE8re_14"
+  - first:
+      213: -2426158714012726310
+    second: "Lumi\xE8re_De_Lumin\xE8re_15"
+  - first:
+      213: 727786665552660962
+    second: "Lumi\xE8re_De_Lumin\xE8re_16"
+  - first:
+      213: -4365923041520854282
+    second: "Lumi\xE8re_De_Lumin\xE8re_17"
+  - first:
+      213: -793340879632471697
+    second: "Lumi\xE8re_De_Lumin\xE8re_18"
+  - first:
+      213: -4882804236106353797
+    second: "Lumi\xE8re_De_Lumin\xE8re_19"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_0"
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 1909
+        width: 554
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e1c4b534d606520800000000000000
+      internalID: 2693272713229508242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_1"
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1980
+        width: 295
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933a39330d66105c0800000000000000
+      internalID: -4251003528856493255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_2"
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 1413
+        width: 761
+        height: 631
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816a1a838c69a63a0800000000000000
+      internalID: -6671354111308225000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_3"
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 1863
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a0f5e25aeff4c0800000000000000
+      internalID: -4251421881448486739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_4"
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 1853
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49a72c27ca8d6dac0800000000000000
+      internalID: -3830636197860705644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_5"
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 1874
+        width: 31
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72e2eea90ef4ce60800000000000000
+      internalID: 7981783757149627004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_6"
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1809
+        width: 177
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775450140d69069a0800000000000000
+      internalID: -6241823262347278985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_7"
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1844
+        width: 58
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bacf576db26b17870800000000000000
+      internalID: 8678918256317562027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_8"
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1860
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96cb4edb75f753a20800000000000000
+      internalID: 3041477138183404649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_9"
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 1721
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7b410c242934d80800000000000000
+      internalID: -8267603675534018606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_10"
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1747
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e165b9e70e3a8560800000000000000
+      internalID: 7316728748323463653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_11"
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1239
+        width: 130
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba65700413982c50800000000000000
+      internalID: 6640719364674120375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_12"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1238
+        width: 371
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16c206b6fa65e170800000000000000
+      internalID: 8207083503800731162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_13"
+      rect:
+        serializedVersion: 2
+        x: 1852
+        y: 1239
+        width: 65
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc2f65d74a075b20800000000000000
+      internalID: 3122976170244517118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_14"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1035
+        width: 120
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e877968429dd4ff20800000000000000
+      internalID: 3455630434449848206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_15"
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 473
+        width: 1575
+        height: 720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb8d82018d845ed0800000000000000
+      internalID: -2426158714012726310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_16"
+      rect:
+        serializedVersion: 2
+        x: 1911
+        y: 1181
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e94888cd1e991a00800000000000000
+      internalID: 727786665552660962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_17"
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 1054
+        width: 62
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad47910202963c0800000000000000
+      internalID: -4365923041520854282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_18"
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 781
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69e5bb5cac7df4f0800000000000000
+      internalID: -793340879632471697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Lumi\xE8re_De_Lumin\xE8re_19"
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 787
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b73bb1fda6bcc3cb0800000000000000
+      internalID: -4882804236106353797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Lumi\xE8re_De_Lumin\xE8re_0": 2693272713229508242
+      "Lumi\xE8re_De_Lumin\xE8re_1": -4251003528856493255
+      "Lumi\xE8re_De_Lumin\xE8re_10": 7316728748323463653
+      "Lumi\xE8re_De_Lumin\xE8re_11": 6640719364674120375
+      "Lumi\xE8re_De_Lumin\xE8re_12": 8207083503800731162
+      "Lumi\xE8re_De_Lumin\xE8re_13": 3122976170244517118
+      "Lumi\xE8re_De_Lumin\xE8re_14": 3455630434449848206
+      "Lumi\xE8re_De_Lumin\xE8re_15": -2426158714012726310
+      "Lumi\xE8re_De_Lumin\xE8re_16": 727786665552660962
+      "Lumi\xE8re_De_Lumin\xE8re_17": -4365923041520854282
+      "Lumi\xE8re_De_Lumin\xE8re_18": -793340879632471697
+      "Lumi\xE8re_De_Lumin\xE8re_19": -4882804236106353797
+      "Lumi\xE8re_De_Lumin\xE8re_2": -6671354111308225000
+      "Lumi\xE8re_De_Lumin\xE8re_3": -4251421881448486739
+      "Lumi\xE8re_De_Lumin\xE8re_4": -3830636197860705644
+      "Lumi\xE8re_De_Lumin\xE8re_5": 7981783757149627004
+      "Lumi\xE8re_De_Lumin\xE8re_6": -6241823262347278985
+      "Lumi\xE8re_De_Lumin\xE8re_7": 8678918256317562027
+      "Lumi\xE8re_De_Lumin\xE8re_8": 3041477138183404649
+      "Lumi\xE8re_De_Lumin\xE8re_9": -8267603675534018606
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

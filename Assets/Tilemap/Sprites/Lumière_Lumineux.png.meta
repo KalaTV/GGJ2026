@@ -1,0 +1,207 @@
+fileFormatVersion: 2
+guid: 8a368fa977bed234cba3378ab46fa498
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4854649414218573793
+    second: "Lumi\xE8re_Lumineux_0"
+  - first:
+      213: -8356477063638773017
+    second: "Lumi\xE8re_Lumineux_1"
+  - first:
+      213: -5878272835425982498
+    second: "Lumi\xE8re_Lumineux_2"
+  - first:
+      213: 6364157724674621561
+    second: "Lumi\xE8re_Lumineux_3"
+  - first:
+      213: 6627316341094954222
+    second: "Lumi\xE8re_Lumineux_4"
+  - first:
+      213: -8142963587900375961
+    second: "Lumi\xE8re_Lumineux_5"
+  - first:
+      213: -7626488946458140187
+    second: "Lumi\xE8re_Lumineux_6"
+  - first:
+      213: -6280758809099313948
+    second: "Lumi\xE8re_Lumineux_7"
+  - first:
+      213: -1145667903279501989
+    second: "Lumi\xE8re_Lumineux_8"
+  - first:
+      213: -5612436059316496559
+    second: "Lumi\xE8re_Lumineux_9"
+  - first:
+      213: 1934081825398497963
+    second: "Lumi\xE8re_Lumineux_10"
+  - first:
+      213: 3289293805721183087
+    second: "Lumi\xE8re_Lumineux_11"
+  - first:
+      213: -2946827711830783891
+    second: "Lumi\xE8re_Lumineux_12"
+  - first:
+      213: 4747009626178023539
+    second: "Lumi\xE8re_Lumineux_13"
+  - first:
+      213: -9140360444222065388
+    second: "Lumi\xE8re_Lumineux_14"
+  - first:
+      213: 912472434746104802
+    second: "Lumi\xE8re_Lumineux_15"
+  - first:
+      213: -5072340597754162991
+    second: "Lumi\xE8re_Lumineux_16"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 4
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Lumi\xE8re_Lumineux_10"
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 945
+        width: 294
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba2aa694c2d37da10800000000000000
+      internalID: 1934081825398497963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5bd03661704e2f4408555ce4a2ad2ed1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Lumi\xE8re_Lumineux_0": 4854649414218573793
+      "Lumi\xE8re_Lumineux_1": -8356477063638773017
+      "Lumi\xE8re_Lumineux_10": 1934081825398497963
+      "Lumi\xE8re_Lumineux_11": 3289293805721183087
+      "Lumi\xE8re_Lumineux_12": -2946827711830783891
+      "Lumi\xE8re_Lumineux_13": 4747009626178023539
+      "Lumi\xE8re_Lumineux_14": -9140360444222065388
+      "Lumi\xE8re_Lumineux_15": 912472434746104802
+      "Lumi\xE8re_Lumineux_16": -5072340597754162991
+      "Lumi\xE8re_Lumineux_2": -5878272835425982498
+      "Lumi\xE8re_Lumineux_3": 6364157724674621561
+      "Lumi\xE8re_Lumineux_4": 6627316341094954222
+      "Lumi\xE8re_Lumineux_5": -8142963587900375961
+      "Lumi\xE8re_Lumineux_6": -7626488946458140187
+      "Lumi\xE8re_Lumineux_7": -6280758809099313948
+      "Lumi\xE8re_Lumineux_8": -1145667903279501989
+      "Lumi\xE8re_Lumineux_9": -5612436059316496559
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
