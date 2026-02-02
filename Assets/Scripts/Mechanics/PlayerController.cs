@@ -20,7 +20,6 @@ namespace Platformer.Mechanics
         public AudioClip jumpAudio;
         public AudioClip respawnAudio;
         public AudioClip ouchAudio;
-
         /// <summary>
         /// Max horizontal speed of the player.
         /// </summary>
@@ -85,11 +84,13 @@ namespace Platformer.Mechanics
                 {
                     if (jumpState == JumpState.Grounded)
                     {
+                        SoundManager.Instance.PlaySound2D("Jump");
                         jumpState = JumpState.PrepareToJump;
                         jumpsMade = 1;
                     }
                     else if (jumpsMade < maxJumps)
                     {
+                        SoundManager.Instance.PlaySound2D("Jump");
                         jumpState = JumpState.PrepareToJump;
                         jumpsMade++;
                     }
