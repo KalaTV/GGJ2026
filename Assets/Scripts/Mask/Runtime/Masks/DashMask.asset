@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: DashMask
   m_EditorClassIdentifier: Assembly-CSharp::MaskSystem.Runtime.MasqueData
   nom: Shogun
-  sprite: {fileID: 21300000, guid: 4818f33f1596dba42819f243b7be0e43, type: 3}
+  sprite: {fileID: 21300000, guid: c4790648a38647d44ae0e40bd3b4ec93, type: 3}
   pouvoir: 1

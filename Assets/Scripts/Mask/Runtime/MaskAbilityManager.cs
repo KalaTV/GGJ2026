@@ -17,6 +17,7 @@ namespace MaskSystem.Runtime
         private PlayerInput playerInput; 
         private SpriteRenderer sr;       
 
+        [SerializeField] private Animator animator;
         [SerializeField] private MaskData baseMask;
         
         
@@ -101,6 +102,7 @@ namespace MaskSystem.Runtime
         IEnumerator DashRoutine() 
         {
             dashParticles.Play();
+            animator.SetBool("Dash", true);
             float originalGravity = rb.gravityScale;
             rb.gravityScale = 0.1f; 
             
@@ -122,7 +124,7 @@ namespace MaskSystem.Runtime
                 timer += Time.deltaTime;
                 yield return null;
             }
-            
+            animator.SetBool("Dash", false);
             rb.linearVelocity = Vector2.zero;
             rb.gravityScale = originalGravity;
         }
