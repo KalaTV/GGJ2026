@@ -102,6 +102,7 @@ namespace MaskSystem.Runtime
         IEnumerator DashRoutine() 
         {
             dashParticles.Play();
+            SoundManager.Instance.PlaySound2D("Dash");
             animator.SetBool("Dash", true);
             float originalGravity = rb.gravityScale;
             rb.gravityScale = 0.1f; 
