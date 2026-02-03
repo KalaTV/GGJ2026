@@ -102,6 +102,8 @@ namespace MaskSystem.Runtime
         IEnumerator DashRoutine() 
         {
             dashParticles.Play();
+            movement.controlEnabled = false;
+            rb.bodyType = RigidbodyType2D.Dynamic;
             SoundManager.Instance.PlaySound2D("Dash");
             animator.SetBool("Dash", true);
             float originalGravity = rb.gravityScale;
@@ -128,6 +130,8 @@ namespace MaskSystem.Runtime
             animator.SetBool("Dash", false);
             rb.linearVelocity = Vector2.zero;
             rb.gravityScale = originalGravity;
+            movement.controlEnabled = true;
+            rb.bodyType = RigidbodyType2D.Kinematic;
         }
 
         public void SetMask(MaskData mask)
