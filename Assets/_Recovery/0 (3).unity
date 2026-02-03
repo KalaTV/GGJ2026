@@ -4538,7 +4538,7 @@ TilemapRenderer:
   m_SortingLayer: 0
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
-  m_ChunkCullingBounds: {x: 2.28, y: 1.6300001, z: 0}
+  m_ChunkCullingBounds: {x: 2.28, y: 2.63, z: 0}
   m_MaxChunkCount: 16
   m_MaxFrameAge: 16
   m_SortOrder: 0
@@ -6934,6 +6934,16 @@ Tilemap:
       m_TileObjectToInstantiateIndex: 65535
       dummyAlignment: 0
       m_AllTileFlags: 1073741825
+  - first: {x: -4, y: 3, z: 0}
+    second:
+      serializedVersion: 2
+      m_TileIndex: 7
+      m_TileSpriteIndex: 7
+      m_TileMatrixIndex: 1
+      m_TileColorIndex: 0
+      m_TileObjectToInstantiateIndex: 65535
+      dummyAlignment: 0
+      m_AllTileFlags: 1073741825
   m_AnimatedTiles: {}
   m_TileAssetArray:
   - m_RefCount: 31
@@ -6950,8 +6960,8 @@ Tilemap:
     m_Data: {fileID: 11400000, guid: a368b680f8dec754b8ba49e64bbe9abb, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: 8f5d3727eaa26184085b98fdce6dc81f, type: 2}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 11400000, guid: f3f1bbe745b6dd24e9b4c226c34f1c03, type: 2}
   - m_RefCount: 1
     m_Data: {fileID: 11400000, guid: c6f9d660703d9154b90a7fb22741f54a, type: 2}
   - m_RefCount: 1
@@ -6976,8 +6986,9 @@ Tilemap:
   - m_RefCount: 1
     m_Data: {fileID: 6750064882888312989, guid: 716d0ebe39cc6884698134f29b77f6f0,
       type: 3}
-  - m_RefCount: 0
-    m_Data: {fileID: 0}
+  - m_RefCount: 1
+    m_Data: {fileID: 1934081825398497963, guid: 8a368fa977bed234cba3378ab46fa498,
+      type: 3}
   - m_RefCount: 1
     m_Data: {fileID: -2830071645898275730, guid: 0763e85ea109c1c498473925697bb702,
       type: 3}
@@ -7009,7 +7020,7 @@ Tilemap:
       e31: 0
       e32: 0
       e33: 1
-  - m_RefCount: 237
+  - m_RefCount: 238
     m_Data:
       e00: 1
       e01: 0
@@ -7028,7 +7039,7 @@ Tilemap:
       e32: 0
       e33: 1
   m_TileColorArray:
-  - m_RefCount: 238
+  - m_RefCount: 239
     m_Data: {r: 1, g: 1, b: 1, a: 1}
   m_TileObjectToInstantiateArray: []
   m_AnimationFrameRate: 1
