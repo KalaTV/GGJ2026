@@ -12,8 +12,7 @@ public class MenuParallax : MonoBehaviour
     {
         startPosition = transform.position;
     }
-
-    // Update is called once per frame
+    
     void Update()
     {
         Vector2 mousePos = Mouse.current.position.ReadValue();
