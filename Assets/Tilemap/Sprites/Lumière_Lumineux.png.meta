@@ -151,10 +151,10 @@ TextureImporter:
       name: "Lumi\xE8re_Lumineux_10"
       rect:
         serializedVersion: 2
-        x: 876
-        y: 945
-        width: 294
-        height: 626
+        x: 506
+        y: 232
+        width: 1140
+        height: 1339
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
