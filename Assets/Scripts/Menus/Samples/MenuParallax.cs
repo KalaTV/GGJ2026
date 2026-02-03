@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.InputSystem;
 
 public class MenuParallax : MonoBehaviour
 {
@@ -15,7 +16,8 @@ public class MenuParallax : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector2 offset = Camera.main.ScreenToViewportPoint(Input.mousePosition);
+        Vector2 mousePos = Mouse.current.position.ReadValue();
+        Vector2 offset = Camera.main.ScreenToViewportPoint(mousePos);
         transform.position = Vector3.SmoothDamp(transform.position, startPosition + (offset * offsetMultiplier), ref velocity, smoothTime);
     }
 }
