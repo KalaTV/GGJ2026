@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: DoubleJumpMask
   m_EditorClassIdentifier: Assembly-CSharp::MaskSystem.Runtime.MaskData
   nom: Animal
-  sprite: {fileID: 21300000, guid: 2570439c15d6200449de9cfa036c3de4, type: 3}
+  sprite: {fileID: 21300000, guid: 3d07b1dbe62de0449acf6b4c51a92372, type: 3}
   pouvoir: 2
