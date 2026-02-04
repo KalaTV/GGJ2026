@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 7c447038131452e4cbb0aa3066d565fd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4715433213976285286
+    second: saut_shogun_part1_V2_0
+  - first:
+      213: 1767782577917108298
+    second: saut_shogun_part1_V2_1
+  - first:
+      213: -6121984677398804384
+    second: saut_shogun_part1_V2_2
+  - first:
+      213: -475534819309928103
+    second: saut_shogun_part1_V2_3
+  - first:
+      213: -148647872897532222
+    second: saut_shogun_part1_V2_4
+  - first:
+      213: -8133007577037369400
+    second: saut_shogun_part1_V2_5
+  - first:
+      213: 2390011043768774177
+    second: saut_shogun_part1_V2_6
+  - first:
+      213: 1210937729923426547
+    second: saut_shogun_part1_V2_7
+  - first:
+      213: -7155090909347868109
+    second: saut_shogun_part1_V2_8
+  - first:
+      213: 5506007829060142596
+    second: saut_shogun_part1_V2_9
+  - first:
+      213: 8585745696598521240
+    second: saut_shogun_part1_V2_10
+  - first:
+      213: 4140334225581804176
+    second: saut_shogun_part1_V2_11
+  - first:
+      213: -5596126439769464548
+    second: saut_shogun_part1_V2_12
+  - first:
+      213: 4057502308635089615
+    second: saut_shogun_part1_V2_13
+  - first:
+      213: 4497387496906971528
+    second: saut_shogun_part1_V2_14
+  - first:
+      213: -2964138143785341892
+    second: saut_shogun_part1_V2_15
+  - first:
+      213: 4023640600467712091
+    second: saut_shogun_part1_V2_16
+  - first:
+      213: 2138729196183334362
+    second: saut_shogun_part1_V2_17
+  - first:
+      213: -3018342943066281510
+    second: saut_shogun_part1_V2_18
+  - first:
+      213: 7317319253746731451
+    second: saut_shogun_part1_V2_19
+  - first:
+      213: 1776771948593827092
+    second: saut_shogun_part1_V2_20
+  - first:
+      213: -5312024773716096146
+    second: saut_shogun_part1_V2_21
+  - first:
+      213: 4064263486707960030
+    second: saut_shogun_part1_V2_22
+  - first:
+      213: -8666951505433742359
+    second: saut_shogun_part1_V2_23
+  - first:
+      213: -2960907273563513535
+    second: saut_shogun_part1_V2_24
+  - first:
+      213: 8674201786299592937
+    second: saut_shogun_part1_V2_25
+  - first:
+      213: 3883736187702077414
+    second: saut_shogun_part1_V2_26
+  - first:
+      213: 3164676170135154030
+    second: saut_shogun_part1_V2_27
+  - first:
+      213: -4410919696076148709
+    second: saut_shogun_part1_V2_28
+  - first:
+      213: -1523511380998275943
+    second: saut_shogun_part1_V2_29
+  - first:
+      213: -8100937576390184872
+    second: saut_shogun_part1_V2_30
+  - first:
+      213: -3265542095733383535
+    second: saut_shogun_part1_V2_31
+  - first:
+      213: -7834309391671590618
+    second: saut_shogun_part1_V2_32
+  - first:
+      213: -6902419425479777911
+    second: saut_shogun_part1_V2_33
+  - first:
+      213: -9088298586536163103
+    second: saut_shogun_part1_V2_34
+  - first:
+      213: 2248236288605450132
+    second: saut_shogun_part1_V2_35
+  - first:
+      213: 4875430816842619320
+    second: saut_shogun_part1_V2_36
+  - first:
+      213: -1968452584183136134
+    second: saut_shogun_part1_V2_37
+  - first:
+      213: -9103240087753669492
+    second: saut_shogun_part1_V2_38
+  - first:
+      213: -1936985070124472716
+    second: saut_shogun_part1_V2_39
+  - first:
+      213: -7957323619193400421
+    second: saut_shogun_part1_V2_40
+  - first:
+      213: 7997184131431085016
+    second: saut_shogun_part1_V2_41
+  - first:
+      213: -2297998305372607264
+    second: saut_shogun_part1_V2_42
+  - first:
+      213: 4443093319090380600
+    second: saut_shogun_part1_V2_43
+  - first:
+      213: -3018546008678454892
+    second: saut_shogun_part1_V2_44
+  - first:
+      213: -6406863414028006658
+    second: saut_shogun_part1_V2_45
+  - first:
+      213: -4112340157168868140
+    second: saut_shogun_part1_V2_46
+  - first:
+      213: -1799854488080158788
+    second: saut_shogun_part1_V2_47
+  - first:
+      213: 9133649866013943797
+    second: saut_shogun_part1_V2_48
+  - first:
+      213: -3482416660584744970
+    second: saut_shogun_part1_V2_49
+  - first:
+      213: 7088228918799034240
+    second: saut_shogun_part1_V2_50
+  - first:
+      213: 1333661795126311490
+    second: saut_shogun_part1_V2_51
+  - first:
+      213: -2915517845792894071
+    second: saut_shogun_part1_V2_52
+  - first:
+      213: 6897213231242042682
+    second: saut_shogun_part1_V2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8237
+        width: 484
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9f6ddea97a6f8eb0800000000000000
+      internalID: -4715433213976285286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_1
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 8238
+        width: 528
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a40afd473ec688810800000000000000
+      internalID: 1767782577917108298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_2
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 8239
+        width: 640
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068824f1f575a0ba0800000000000000
+      internalID: -6121984677398804384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_3
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 8240
+        width: 785
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c3b0f99f8669f0800000000000000
+      internalID: -475534819309928103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_4
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 8241
+        width: 733
+        height: 1792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce33531c85efedf0800000000000000
+      internalID: -148647872897532222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_5
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 8243
+        width: 702
+        height: 1737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf802ff2b0c12f80800000000000000
+      internalID: -8133007577037369400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_6
+      rect:
+        serializedVersion: 2
+        x: 13022
+        y: 8244
+        width: 740
+        height: 1682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2919a1660b2120800000000000000
+      internalID: 2390011043768774177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_7
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 8245
+        width: 779
+        height: 1628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f82435137d1ec010800000000000000
+      internalID: 1210937729923426547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_8
+      rect:
+        serializedVersion: 2
+        x: 17136
+        y: 8245
+        width: 785
+        height: 1668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33291bc2ab204bc90800000000000000
+      internalID: -7155090909347868109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_9
+      rect:
+        serializedVersion: 2
+        x: 19226
+        y: 8244
+        width: 803
+        height: 1709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40646adc2f4496c40800000000000000
+      internalID: 5506007829060142596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_10
+      rect:
+        serializedVersion: 2
+        x: 21316
+        y: 8243
+        width: 746
+        height: 1749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895f799c832b62770800000000000000
+      internalID: 8585745696598521240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_11
+      rect:
+        serializedVersion: 2
+        x: 23339
+        y: 8242
+        width: 756
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09a023faa0c657930800000000000000
+      internalID: 4140334225581804176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6193
+        width: 764
+        height: 1830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11ae5f07a09652b0800000000000000
+      internalID: -5596126439769464548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_13
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 6192
+        width: 789
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fca95852ad42f4830800000000000000
+      internalID: 4057502308635089615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_14
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 6197
+        width: 805
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8895c6aa91ee96e30800000000000000
+      internalID: 4497387496906971528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_15
+      rect:
+        serializedVersion: 2
+        x: 6899
+        y: 6201
+        width: 816
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c2d7a10144dd6d0800000000000000
+      internalID: -2964138143785341892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_16
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 6206
+        width: 822
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58a7b6dec7d6d730800000000000000
+      internalID: 4023640600467712091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_17
+      rect:
+        serializedVersion: 2
+        x: 10988
+        y: 6211
+        width: 824
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adda3495fda4ead10800000000000000
+      internalID: 2138729196183334362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_18
+      rect:
+        serializedVersion: 2
+        x: 13033
+        y: 6216
+        width: 825
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad92a3cc511bc16d0800000000000000
+      internalID: -3018342943066281510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_19
+      rect:
+        serializedVersion: 2
+        x: 15078
+        y: 6221
+        width: 826
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb943bba7175c8560800000000000000
+      internalID: 7317319253746731451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_20
+      rect:
+        serializedVersion: 2
+        x: 17122
+        y: 6225
+        width: 828
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d40da6cac58a810800000000000000
+      internalID: 1776771948593827092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_21
+      rect:
+        serializedVersion: 2
+        x: 19167
+        y: 6230
+        width: 829
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bc394dc95e746b0800000000000000
+      internalID: -5312024773716096146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_22
+      rect:
+        serializedVersion: 2
+        x: 21211
+        y: 6235
+        width: 831
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed881d69b1a276830800000000000000
+      internalID: 4064263486707960030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_23
+      rect:
+        serializedVersion: 2
+        x: 23256
+        y: 6240
+        width: 832
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e3b519768dc8b780800000000000000
+      internalID: -8666951505433742359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4196
+        width: 833
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d5062b58eb8e6d0800000000000000
+      internalID: -2960907273563513535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_25
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 4201
+        width: 835
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e032761194f06870800000000000000
+      internalID: 8674201786299592937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_26
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 4206
+        width: 835
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ef4d5c7dc5e530800000000000000
+      internalID: 3883736187702077414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_27
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 4211
+        width: 837
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6dac06a5303beb20800000000000000
+      internalID: 3164676170135154030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_28
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b107b9e08e349c2c0800000000000000
+      internalID: -4410919696076148709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_29
+      rect:
+        serializedVersion: 2
+        x: 10951
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c355c88766bdae0800000000000000
+      internalID: -1523511380998275943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_30
+      rect:
+        serializedVersion: 2
+        x: 12999
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85036a3e130b39f80800000000000000
+      internalID: -8100937576390184872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_31
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19e1ab8f3c67ea2d0800000000000000
+      internalID: -3265542095733383535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_32
+      rect:
+        serializedVersion: 2
+        x: 17095
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62188e0cd11f64390800000000000000
+      internalID: -7834309391671590618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_33
+      rect:
+        serializedVersion: 2
+        x: 19143
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 981a5856a1ea530a0800000000000000
+      internalID: -6902419425479777911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_34
+      rect:
+        serializedVersion: 2
+        x: 21191
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e8c3d06690efd180800000000000000
+      internalID: -9088298586536163103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_35
+      rect:
+        serializedVersion: 2
+        x: 23239
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f68792ef6533f10800000000000000
+      internalID: 2248236288605450132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_36
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b995ec2f7209a340800000000000000
+      internalID: 4875430816842619320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_37
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a708092ddc6aea4e0800000000000000
+      internalID: -1968452584183136134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_38
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84c8580f5bcaa180800000000000000
+      internalID: -9103240087753669492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_39
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476eeff57527e15e0800000000000000
+      internalID: -1936985070124472716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_40
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93d62bf358e19190800000000000000
+      internalID: -7957323619193400421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_41
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d3375db894bbfe60800000000000000
+      internalID: 7997184131431085016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_42
+      rect:
+        serializedVersion: 2
+        x: 12996
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ece0d177bedb10e0800000000000000
+      internalID: -2297998305372607264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_43
+      rect:
+        serializedVersion: 2
+        x: 15044
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f1b4c45d909ad30800000000000000
+      internalID: 4443093319090380600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_44
+      rect:
+        serializedVersion: 2
+        x: 17092
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4992c86e568fb16d0800000000000000
+      internalID: -3018546008678454892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_45
+      rect:
+        serializedVersion: 2
+        x: 19140
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa0a628baf3617a0800000000000000
+      internalID: -6406863414028006658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_46
+      rect:
+        serializedVersion: 2
+        x: 21188
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d420684a680ee6c0800000000000000
+      internalID: -4112340157168868140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_47
+      rect:
+        serializedVersion: 2
+        x: 23236
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfe69e01e1a507e0800000000000000
+      internalID: -1799854488080158788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f72e86392e31ce70800000000000000
+      internalID: 9133649866013943797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7b1f17f78fbafc0800000000000000
+      internalID: -3482416660584744970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_50
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087eaa785a27e5260800000000000000
+      internalID: 7088228918799034240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_51
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a730d265e128210800000000000000
+      internalID: 1333661795126311490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_52
+      rect:
+        serializedVersion: 2
+        x: 8900
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983d33167fff987d0800000000000000
+      internalID: -2915517845792894071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_shogun_part1_V2_53
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3d5e4c04e2d7bf50800000000000000
+      internalID: 6897213231242042682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      saut_shogun_part1_V2_0: -4715433213976285286
+      saut_shogun_part1_V2_1: 1767782577917108298
+      saut_shogun_part1_V2_10: 8585745696598521240
+      saut_shogun_part1_V2_11: 4140334225581804176
+      saut_shogun_part1_V2_12: -5596126439769464548
+      saut_shogun_part1_V2_13: 4057502308635089615
+      saut_shogun_part1_V2_14: 4497387496906971528
+      saut_shogun_part1_V2_15: -2964138143785341892
+      saut_shogun_part1_V2_16: 4023640600467712091
+      saut_shogun_part1_V2_17: 2138729196183334362
+      saut_shogun_part1_V2_18: -3018342943066281510
+      saut_shogun_part1_V2_19: 7317319253746731451
+      saut_shogun_part1_V2_2: -6121984677398804384
+      saut_shogun_part1_V2_20: 1776771948593827092
+      saut_shogun_part1_V2_21: -5312024773716096146
+      saut_shogun_part1_V2_22: 4064263486707960030
+      saut_shogun_part1_V2_23: -8666951505433742359
+      saut_shogun_part1_V2_24: -2960907273563513535
+      saut_shogun_part1_V2_25: 8674201786299592937
+      saut_shogun_part1_V2_26: 3883736187702077414
+      saut_shogun_part1_V2_27: 3164676170135154030
+      saut_shogun_part1_V2_28: -4410919696076148709
+      saut_shogun_part1_V2_29: -1523511380998275943
+      saut_shogun_part1_V2_3: -475534819309928103
+      saut_shogun_part1_V2_30: -8100937576390184872
+      saut_shogun_part1_V2_31: -3265542095733383535
+      saut_shogun_part1_V2_32: -7834309391671590618
+      saut_shogun_part1_V2_33: -6902419425479777911
+      saut_shogun_part1_V2_34: -9088298586536163103
+      saut_shogun_part1_V2_35: 2248236288605450132
+      saut_shogun_part1_V2_36: 4875430816842619320
+      saut_shogun_part1_V2_37: -1968452584183136134
+      saut_shogun_part1_V2_38: -9103240087753669492
+      saut_shogun_part1_V2_39: -1936985070124472716
+      saut_shogun_part1_V2_4: -148647872897532222
+      saut_shogun_part1_V2_40: -7957323619193400421
+      saut_shogun_part1_V2_41: 7997184131431085016
+      saut_shogun_part1_V2_42: -2297998305372607264
+      saut_shogun_part1_V2_43: 4443093319090380600
+      saut_shogun_part1_V2_44: -3018546008678454892
+      saut_shogun_part1_V2_45: -6406863414028006658
+      saut_shogun_part1_V2_46: -4112340157168868140
+      saut_shogun_part1_V2_47: -1799854488080158788
+      saut_shogun_part1_V2_48: 9133649866013943797
+      saut_shogun_part1_V2_49: -3482416660584744970
+      saut_shogun_part1_V2_5: -8133007577037369400
+      saut_shogun_part1_V2_50: 7088228918799034240
+      saut_shogun_part1_V2_51: 1333661795126311490
+      saut_shogun_part1_V2_52: -2915517845792894071
+      saut_shogun_part1_V2_53: 6897213231242042682
+      saut_shogun_part1_V2_6: 2390011043768774177
+      saut_shogun_part1_V2_7: 1210937729923426547
+      saut_shogun_part1_V2_8: -7155090909347868109
+      saut_shogun_part1_V2_9: 5506007829060142596
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

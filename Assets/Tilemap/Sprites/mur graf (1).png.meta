@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 4110a62ff85418040b7b201b634f0e3b
+guid: 9315c5087ea363e4c81e315cfc188614
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3717336435258124038
-    second: mur2_0
+      213: -8101907756353250534
+    second: mur graf (1)_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -46,12 +46,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 1
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 74
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -74,7 +74,7 @@ TextureImporter:
     buildTarget: DefaultTexturePlatform
     maxTextureSize: 2048
     resizeAlgorithm: 0
-    textureFormat: 4
+    textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: mur2_0
+      name: mur graf (1)_0
       rect:
         serializedVersion: 2
         x: 667
-        y: 684
-        width: 714
-        height: 679
+        y: 686
+        width: 713
+        height: 676
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: af892d9153e596cc0800000000000000
-      internalID: -3717336435258124038
+      spriteID: a1b159342dd309f80800000000000000
+      internalID: -8101907756353250534
       vertices: []
       indices: 
       edges: []
@@ -135,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      mur2_0: -3717336435258124038
+      mur graf (1)_0: -8101907756353250534
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

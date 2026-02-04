@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 12514fa9fa0ec7c4184e473f1c3d2a38
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1516210875440072176
+    second: idle_shogun_0
+  - first:
+      213: 6891265401313198570
+    second: idle_shogun_1
+  - first:
+      213: -931509250703735004
+    second: idle_shogun_2
+  - first:
+      213: -4005923429118494720
+    second: idle_shogun_3
+  - first:
+      213: 1051110988398080597
+    second: idle_shogun_4
+  - first:
+      213: -1331727911517171451
+    second: idle_shogun_5
+  - first:
+      213: 2317889654548963890
+    second: idle_shogun_6
+  - first:
+      213: 7100894381469116164
+    second: idle_shogun_7
+  - first:
+      213: -1506039368696553641
+    second: idle_shogun_8
+  - first:
+      213: 1334679460510427198
+    second: idle_shogun_9
+  - first:
+      213: -4732203999723766957
+    second: idle_shogun_10
+  - first:
+      213: -3268047311474769640
+    second: idle_shogun_11
+  - first:
+      213: 2343489623088064360
+    second: idle_shogun_12
+  - first:
+      213: 1720074330166232289
+    second: idle_shogun_13
+  - first:
+      213: 7026893939239160646
+    second: idle_shogun_14
+  - first:
+      213: 102375962232697917
+    second: idle_shogun_15
+  - first:
+      213: 7368979540733637183
+    second: idle_shogun_16
+  - first:
+      213: 7504714725024511383
+    second: idle_shogun_17
+  - first:
+      213: 5814432856907873055
+    second: idle_shogun_18
+  - first:
+      213: -1012005559304595382
+    second: idle_shogun_19
+  - first:
+      213: 8172848857879637881
+    second: idle_shogun_20
+  - first:
+      213: -6152920313260259679
+    second: idle_shogun_21
+  - first:
+      213: -8381833615201808014
+    second: idle_shogun_22
+  - first:
+      213: -2022417598348411219
+    second: idle_shogun_23
+  - first:
+      213: 1454909191461051683
+    second: idle_shogun_24
+  - first:
+      213: -7723784377284737388
+    second: idle_shogun_25
+  - first:
+      213: 1253575969426716955
+    second: idle_shogun_26
+  - first:
+      213: -1405055320813534421
+    second: idle_shogun_27
+  - first:
+      213: 6237809633802848144
+    second: idle_shogun_28
+  - first:
+      213: -426718742074208849
+    second: idle_shogun_29
+  - first:
+      213: 8319526962813730764
+    second: idle_shogun_30
+  - first:
+      213: -8004728675557822602
+    second: idle_shogun_31
+  - first:
+      213: 146118569680191465
+    second: idle_shogun_32
+  - first:
+      213: 8683713294433465190
+    second: idle_shogun_33
+  - first:
+      213: 4101500853171021550
+    second: idle_shogun_34
+  - first:
+      213: 578743031429729181
+    second: idle_shogun_35
+  - first:
+      213: 4197816498752852914
+    second: idle_shogun_36
+  - first:
+      213: 8122870068408572054
+    second: idle_shogun_37
+  - first:
+      213: -7909286576146983257
+    second: idle_shogun_38
+  - first:
+      213: 4071329288837903423
+    second: idle_shogun_39
+  - first:
+      213: -7534388274346767874
+    second: idle_shogun_40
+  - first:
+      213: -3982987033399236322
+    second: idle_shogun_41
+  - first:
+      213: 9005666523937328753
+    second: idle_shogun_42
+  - first:
+      213: -2893292947940117820
+    second: idle_shogun_43
+  - first:
+      213: 4516327657939972713
+    second: idle_shogun_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_shogun_0
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6189
+        width: 517
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a7fc4fd3655fae0800000000000000
+      internalID: -1516210875440072176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_1
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 6188
+        width: 516
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae1863afe51b2af50800000000000000
+      internalID: 6891265401313198570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_2
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 6188
+        width: 515
+        height: 1894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42740d6954d9213f0800000000000000
+      internalID: -931509250703735004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_3
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 6188
+        width: 515
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0083af19dd91868c0800000000000000
+      internalID: -4005923429118494720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_4
+      rect:
+        serializedVersion: 2
+        x: 9007
+        y: 6188
+        width: 515
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5523afaffdb469e00800000000000000
+      internalID: 1051110988398080597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_5
+      rect:
+        serializedVersion: 2
+        x: 11056
+        y: 6188
+        width: 514
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 501db803580c48de0800000000000000
+      internalID: -1331727911517171451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_6
+      rect:
+        serializedVersion: 2
+        x: 13104
+        y: 6188
+        width: 514
+        height: 1886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232a1ff2c5cca2020800000000000000
+      internalID: 2317889654548963890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_7
+      rect:
+        serializedVersion: 2
+        x: 15152
+        y: 6188
+        width: 514
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407a80b51d17b8260800000000000000
+      internalID: 7100894381469116164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_8
+      rect:
+        serializedVersion: 2
+        x: 17201
+        y: 6188
+        width: 513
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f961b6c29791be0800000000000000
+      internalID: -1506039368696553641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_9
+      rect:
+        serializedVersion: 2
+        x: 19249
+        y: 6188
+        width: 513
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38ebbcd5ebb58210800000000000000
+      internalID: 1334679460510427198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_10
+      rect:
+        serializedVersion: 2
+        x: 21297
+        y: 6188
+        width: 513
+        height: 1878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b38c7d885d35eb0800000000000000
+      internalID: -4732203999723766957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_11
+      rect:
+        serializedVersion: 2
+        x: 23345
+        y: 6188
+        width: 513
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811406af84095a2d0800000000000000
+      internalID: -3268047311474769640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_12
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 4140
+        width: 513
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676af6556fb58020800000000000000
+      internalID: 2343489623088064360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_13
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 4140
+        width: 514
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e483dc6d7eeed710800000000000000
+      internalID: 1720074330166232289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_14
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 4140
+        width: 514
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64b02b2ceca848160800000000000000
+      internalID: 7026893939239160646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_15
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 4140
+        width: 513
+        height: 1867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d343b6e2566bb6100800000000000000
+      internalID: 102375962232697917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_16
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 4140
+        width: 513
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32bc8a89dfd34660800000000000000
+      internalID: 7368979540733637183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_17
+      rect:
+        serializedVersion: 2
+        x: 11058
+        y: 4140
+        width: 513
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795babdd74a162860800000000000000
+      internalID: 7504714725024511383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_18
+      rect:
+        serializedVersion: 2
+        x: 13106
+        y: 4140
+        width: 513
+        height: 1861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b7a5e80e301b050800000000000000
+      internalID: 5814432856907873055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_19
+      rect:
+        serializedVersion: 2
+        x: 15154
+        y: 4140
+        width: 513
+        height: 1859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ddee3e42a4f1f0800000000000000
+      internalID: -1012005559304595382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_20
+      rect:
+        serializedVersion: 2
+        x: 17202
+        y: 4140
+        width: 513
+        height: 1857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f6fd01cbacb6170800000000000000
+      internalID: 8172848857879637881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_21
+      rect:
+        serializedVersion: 2
+        x: 19250
+        y: 4140
+        width: 513
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a646dc139f6c9aa0800000000000000
+      internalID: -6152920313260259679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_22
+      rect:
+        serializedVersion: 2
+        x: 21298
+        y: 4140
+        width: 513
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 271d77f5cbebdab80800000000000000
+      internalID: -8381833615201808014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_23
+      rect:
+        serializedVersion: 2
+        x: 23346
+        y: 4140
+        width: 514
+        height: 1850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daeb1f6d8edeee3e0800000000000000
+      internalID: -2022417598348411219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2092
+        width: 514
+        height: 1848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d9c718330e03410800000000000000
+      internalID: 1454909191461051683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_25
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 2092
+        width: 514
+        height: 1851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4964b3ef70b9fc490800000000000000
+      internalID: -7723784377284737388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_26
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2092
+        width: 513
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1935a4d3b8956110800000000000000
+      internalID: 1253575969426716955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_27
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 2092
+        width: 513
+        height: 1855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23032941ad308ce0800000000000000
+      internalID: -1405055320813534421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_28
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 2092
+        width: 513
+        height: 1858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097045700d6219650800000000000000
+      internalID: 6237809633802848144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_29
+      rect:
+        serializedVersion: 2
+        x: 11058
+        y: 2092
+        width: 513
+        height: 1860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad4aaf909df31af0800000000000000
+      internalID: -426718742074208849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_30
+      rect:
+        serializedVersion: 2
+        x: 13106
+        y: 2092
+        width: 513
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccffbc5a1b5e47370800000000000000
+      internalID: 8319526962813730764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_31
+      rect:
+        serializedVersion: 2
+        x: 15154
+        y: 2092
+        width: 513
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f2ef13ead79e090800000000000000
+      internalID: -8004728675557822602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_32
+      rect:
+        serializedVersion: 2
+        x: 17202
+        y: 2092
+        width: 513
+        height: 1867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef30e0a01e170200800000000000000
+      internalID: 146118569680191465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_33
+      rect:
+        serializedVersion: 2
+        x: 19249
+        y: 2092
+        width: 514
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6633b06ab3fb28870800000000000000
+      internalID: 8683713294433465190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_34
+      rect:
+        serializedVersion: 2
+        x: 21297
+        y: 2092
+        width: 514
+        height: 1872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee668379b457be830800000000000000
+      internalID: 4101500853171021550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_35
+      rect:
+        serializedVersion: 2
+        x: 23345
+        y: 2092
+        width: 513
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b0a9488bb180800800000000000000
+      internalID: 578743031429729181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 44
+        width: 513
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b310785dd3a14a30800000000000000
+      internalID: 4197816498752852914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_37
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 44
+        width: 513
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69855285a4b3ab070800000000000000
+      internalID: 8122870068408572054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_38
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 44
+        width: 513
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a65ef1a3c19c3290800000000000000
+      internalID: -7909286576146983257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_39
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 44
+        width: 514
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f34b3d8da64408830800000000000000
+      internalID: 4071329288837903423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_40
+      rect:
+        serializedVersion: 2
+        x: 9008
+        y: 44
+        width: 514
+        height: 1887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef941bb88c9707790800000000000000
+      internalID: -7534388274346767874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_41
+      rect:
+        serializedVersion: 2
+        x: 11056
+        y: 44
+        width: 514
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e196049556699b8c0800000000000000
+      internalID: -3982987033399236322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_42
+      rect:
+        serializedVersion: 2
+        x: 13103
+        y: 44
+        width: 515
+        height: 1891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17e49ec4dfd8afc70800000000000000
+      internalID: 9005666523937328753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_43
+      rect:
+        serializedVersion: 2
+        x: 15151
+        y: 44
+        width: 515
+        height: 1894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2f2e6a465f8d7d0800000000000000
+      internalID: -2893292947940117820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_shogun_44
+      rect:
+        serializedVersion: 2
+        x: 17199
+        y: 44
+        width: 515
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962b8cc83183dae30800000000000000
+      internalID: 4516327657939972713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_shogun_0: -1516210875440072176
+      idle_shogun_1: 6891265401313198570
+      idle_shogun_10: -4732203999723766957
+      idle_shogun_11: -3268047311474769640
+      idle_shogun_12: 2343489623088064360
+      idle_shogun_13: 1720074330166232289
+      idle_shogun_14: 7026893939239160646
+      idle_shogun_15: 102375962232697917
+      idle_shogun_16: 7368979540733637183
+      idle_shogun_17: 7504714725024511383
+      idle_shogun_18: 5814432856907873055
+      idle_shogun_19: -1012005559304595382
+      idle_shogun_2: -931509250703735004
+      idle_shogun_20: 8172848857879637881
+      idle_shogun_21: -6152920313260259679
+      idle_shogun_22: -8381833615201808014
+      idle_shogun_23: -2022417598348411219
+      idle_shogun_24: 1454909191461051683
+      idle_shogun_25: -7723784377284737388
+      idle_shogun_26: 1253575969426716955
+      idle_shogun_27: -1405055320813534421
+      idle_shogun_28: 6237809633802848144
+      idle_shogun_29: -426718742074208849
+      idle_shogun_3: -4005923429118494720
+      idle_shogun_30: 8319526962813730764
+      idle_shogun_31: -8004728675557822602
+      idle_shogun_32: 146118569680191465
+      idle_shogun_33: 8683713294433465190
+      idle_shogun_34: 4101500853171021550
+      idle_shogun_35: 578743031429729181
+      idle_shogun_36: 4197816498752852914
+      idle_shogun_37: 8122870068408572054
+      idle_shogun_38: -7909286576146983257
+      idle_shogun_39: 4071329288837903423
+      idle_shogun_4: 1051110988398080597
+      idle_shogun_40: -7534388274346767874
+      idle_shogun_41: -3982987033399236322
+      idle_shogun_42: 9005666523937328753
+      idle_shogun_43: -2893292947940117820
+      idle_shogun_44: 4516327657939972713
+      idle_shogun_5: -1331727911517171451
+      idle_shogun_6: 2317889654548963890
+      idle_shogun_7: 7100894381469116164
+      idle_shogun_8: -1506039368696553641
+      idle_shogun_9: 1334679460510427198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

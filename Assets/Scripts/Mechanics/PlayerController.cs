@@ -7,7 +7,6 @@ using static Platformer.Core.Simulation;
 using Platformer.Model;
 using Platformer.Core;
 using Unity.VisualScripting;
-using UnityEditor.Rendering;
 using UnityEngine.InputSystem;
 
 namespace Platformer.Mechanics

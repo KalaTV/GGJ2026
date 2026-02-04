@@ -16,7 +16,7 @@ public class MenuParallax : MonoBehaviour
     void Update()
     {
         Vector2 mousePos = Mouse.current.position.ReadValue();
-        Vector2 offset = Camera.main.ScreenToViewportPoint(mousePos);
+        Vector2 offset = Camera.main.ScreenToViewportPoint(-mousePos);
         transform.position = Vector3.SmoothDamp(transform.position, startPosition + (offset * offsetMultiplier), ref velocity, smoothTime);
     }
 }
