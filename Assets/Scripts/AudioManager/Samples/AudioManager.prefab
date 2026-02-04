@@ -41,7 +41,8 @@ AudioSource:
   m_GameObject: {fileID: 2238595593644027813}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 3783785201984826298, guid: 3bbe15136124d5c4ca627c8bc0e6f6ab,
+    type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 0
@@ -170,7 +171,8 @@ AudioSource:
   m_GameObject: {fileID: 2806254907515899147}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: -4622974133924380469, guid: 3bbe15136124d5c4ca627c8bc0e6f6ab,
+    type: 2}
   m_audioClip: {fileID: 0}
   m_Resource: {fileID: 0}
   m_PlayOnAwake: 1
@@ -328,6 +330,16 @@ MonoBehaviour:
   - groupID: Click
     clips:
     - {fileID: 8300000, guid: aef1a4caa41020a4e9cace6acdeb9e7e, type: 3}
+  - groupID: Jump
+    clips:
+    - {fileID: 8300000, guid: 80002132d00c22841b2399d25c0ff1e4, type: 3}
+    - {fileID: 8300000, guid: bc13a9f10a1a5474da41374ab8a871f1, type: 3}
+    - {fileID: 8300000, guid: a32acfae6df64584988272a5b495e48d, type: 3}
+    - {fileID: 8300000, guid: 57750dacb5e46974ba96bdd22c939317, type: 3}
+  - groupID: Dash
+    clips:
+    - {fileID: 8300000, guid: c81ed2ff2d1e012439cb4b6437fa6def, type: 3}
+    - {fileID: 8300000, guid: 22cf9994edc5d284cbabbf1ddc6524bb, type: 3}
 --- !u!114 &119645474626266707
 MonoBehaviour:
   m_ObjectHideFlags: 0
