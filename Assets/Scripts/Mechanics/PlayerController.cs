@@ -7,6 +7,7 @@ using static Platformer.Core.Simulation;
 using Platformer.Model;
 using Platformer.Core;
 using Unity.VisualScripting;
+using UnityEditor.Rendering;
 using UnityEngine.InputSystem;
 
 namespace Platformer.Mechanics
@@ -50,6 +51,10 @@ namespace Platformer.Mechanics
         public int maxJumps = 1;
         private MaskSystem.Runtime.MaskAbilityManager maskManager;
         
+        [Header("Audio Walk")]
+        public float stepRate = 0.35f; // Temps entre deux bruits de pas
+        private float stepTimer;
+        
         public Bounds Bounds => collider2d.bounds;
 
         void Awake()
@@ -67,6 +72,7 @@ namespace Platformer.Mechanics
             m_MoveAction.Enable();
             m_JumpAction.Enable();
         }
+        
 
         protected override void Update()
         {
@@ -78,7 +84,6 @@ namespace Platformer.Mechanics
                     maxJumps = 1;
                 
                 move.x = m_MoveAction.ReadValue<Vector2>().x;
-
 
                 if (m_JumpAction.WasPressedThisFrame())
                 {
@@ -174,6 +179,14 @@ namespace Platformer.Mechanics
             Jumping,
             InFlight,
             Landed
+        }
+        
+        public void PlayFootstepSound()
+        {
+            if (IsGrounded)
+            {
+                SoundManager.Instance.PlaySound2D("Walk");
+            }
         }
     }
 }
