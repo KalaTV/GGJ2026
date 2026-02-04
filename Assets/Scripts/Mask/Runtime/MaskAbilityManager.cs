@@ -1,5 +1,6 @@
 using System;
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.InputSystem; 
 using Platformer.Mechanics;
@@ -26,15 +27,19 @@ namespace MaskSystem.Runtime
         public float dashDuration = 0.2f;
         [SerializeField] ParticleSystem dashParticles;
         private Vector2 startParticlePos;
+        public AnimatorOverrideController shogunAnimator;
         
         [Header ("Réglages Cooldown")]
         public float cooldownDuration = 5f;
         private bool isCooldown;
 
         
+        [SerializeField] AnimatorOverrideController baseAnimator;
+        
         
         void Awake()
         {
+            GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
             rb = GetComponent<Rigidbody2D>();
             health = GetComponent<Health>();
             movement = GetComponent<PlayerController>();
@@ -60,6 +65,15 @@ namespace MaskSystem.Runtime
             {
                 if (health.IsAlive) health.Increment();
                 activeMask = baseMask;
+            }
+
+            if (activeMask.pouvoir == MaskData.TypePouvoir.Dash)
+            {
+                GetComponent<Animator>().runtimeAnimatorController = shogunAnimator;
+            }
+            else
+            {
+               GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
             }
                 
             

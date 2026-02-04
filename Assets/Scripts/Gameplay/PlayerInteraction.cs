@@ -10,17 +10,15 @@ namespace Platformer.Gameplay
     public class PlayerInteraction : MonoBehaviour
     {
         private bool isNearDoor = false; 
-         private EnterStoreCollider currentDoor = null; 
          private PlayerController movement;
         void Awake()
         {
             movement = GetComponent<PlayerController>();
         }
-
         void OnInteract(InputValue value)
         {
             
-            if (value.isPressed && isNearDoor && currentDoor != null)
+            if (value.isPressed && isNearDoor)
             {
                 
                 StartCoroutine(EnterRoomSequence());
@@ -33,7 +31,7 @@ namespace Platformer.Gameplay
             
             yield return new WaitForSeconds(0.5f);
             
-            Debug.Log("Le joueur est entré dans la pièce !");
+            Debug.Log("entré madame");
         }
         
         private void OnTriggerEnter2D(Collider2D other)
@@ -41,7 +39,7 @@ namespace Platformer.Gameplay
             if (other.CompareTag("Door"))
             {
                 isNearDoor = true;
-                currentDoor = other.GetComponent<EnterStoreCollider>();
+                Debug.Log("jsuis dans la porte");
             }
         }
 
@@ -50,7 +48,6 @@ namespace Platformer.Gameplay
             if (other.CompareTag("Door"))
             {
                 isNearDoor = false;
-                currentDoor = null;
             }
         }
     }

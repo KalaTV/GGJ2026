@@ -1,10 +1,79 @@
 fileFormatVersion: 2
-guid: 9ea95bd48abf25643ac83535be6c6a7d
+guid: 5ef1baae021ca6a4a9a209e0e58eadee
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 4818379019674847647
-    second: gaz_1_0
+      213: 7451664881118534297
+    second: course_shogun_0
+  - first:
+      213: -5918575208532415594
+    second: course_shogun_1
+  - first:
+      213: -1393664922622098132
+    second: course_shogun_2
+  - first:
+      213: 7471336116706052893
+    second: course_shogun_3
+  - first:
+      213: -3582476520215980781
+    second: course_shogun_4
+  - first:
+      213: 1225567224957696913
+    second: course_shogun_5
+  - first:
+      213: 886884009326276887
+    second: course_shogun_6
+  - first:
+      213: 6435766367171782718
+    second: course_shogun_7
+  - first:
+      213: -6492362100857833363
+    second: course_shogun_8
+  - first:
+      213: -3151751916300419751
+    second: course_shogun_9
+  - first:
+      213: 3126705198879203814
+    second: course_shogun_10
+  - first:
+      213: 6625505511727227018
+    second: course_shogun_11
+  - first:
+      213: 6458901308515069066
+    second: course_shogun_12
+  - first:
+      213: 6336172193370440721
+    second: course_shogun_13
+  - first:
+      213: -5814256662005098320
+    second: course_shogun_14
+  - first:
+      213: 8138940532605368911
+    second: course_shogun_15
+  - first:
+      213: -3055280357174297819
+    second: course_shogun_16
+  - first:
+      213: 7352896438973961570
+    second: course_shogun_17
+  - first:
+      213: 7148394474805306380
+    second: course_shogun_18
+  - first:
+      213: 4084709491289188123
+    second: course_shogun_19
+  - first:
+      213: -1030156332168286222
+    second: course_shogun_20
+  - first:
+      213: -646359367680552032
+    second: course_shogun_21
+  - first:
+      213: -4744382774056561549
+    second: course_shogun_22
+  - first:
+      213: 2098648713584411028
+    second: course_shogun_23
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,7 +106,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -51,7 +120,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 1000
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -77,7 +146,7 @@ TextureImporter:
     textureFormat: -1
     textureCompression: 1
     compressionQuality: 50
-    crunchedCompression: 1
+    crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
     ignorePlatformSupport: 0
@@ -100,529 +169,529 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: gaz_1_0
+      name: course_shogun_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 820
-        width: 204
-        height: 204
+        x: 479
+        y: 2103
+        width: 1004
+        height: 1864
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f990ae480325ed240800000000000000
-      internalID: 4818379019674847647
+      spriteID: 99ad2509ab1a96760800000000000000
+      internalID: 7451664881118534297
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_1
+      name: course_shogun_1
       rect:
         serializedVersion: 2
-        x: 204
-        y: 820
-        width: 204
-        height: 204
+        x: 2561
+        y: 2104
+        width: 934
+        height: 1845
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 01bec541885efee47823a83a5213d1df
-      internalID: 934955606
+      spriteID: 69bedfea43ffcdda0800000000000000
+      internalID: -5918575208532415594
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_2
+      name: course_shogun_2
       rect:
         serializedVersion: 2
-        x: 408
-        y: 820
-        width: 204
-        height: 204
+        x: 4643
+        y: 2104
+        width: 864
+        height: 1826
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: e57f31c0468bfa14a90888f0e0071fe9
-      internalID: -1176696018
+      spriteID: c2500370325b8ace0800000000000000
+      internalID: -1393664922622098132
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_3
+      name: course_shogun_3
       rect:
         serializedVersion: 2
-        x: 612
-        y: 820
-        width: 204
-        height: 204
+        x: 6728
+        y: 2103
+        width: 806
+        height: 1851
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0ef8f5dd6f154c446baee30d28c404f7
-      internalID: 270731146
+      spriteID: d1b8fc10d948fa760800000000000000
+      internalID: 7471336116706052893
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_4
+      name: course_shogun_4
       rect:
         serializedVersion: 2
-        x: 816
-        y: 820
-        width: 204
-        height: 204
+        x: 8813
+        y: 2103
+        width: 757
+        height: 1875
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6cb8d48639f765342b6a7a5abe905502
-      internalID: -296495836
+      spriteID: 315595ce59c784ec0800000000000000
+      internalID: -3582476520215980781
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_5
+      name: course_shogun_5
       rect:
         serializedVersion: 2
-        x: 0
-        y: 616
-        width: 204
-        height: 204
+        x: 10994
+        y: 2102
+        width: 582
+        height: 1893
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 9fb51f8a00f656b47b17f27f3db98e35
-      internalID: -2078078451
+      spriteID: 19bf6f3d5e6120110800000000000000
+      internalID: 1225567224957696913
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_6
+      name: course_shogun_6
       rect:
         serializedVersion: 2
-        x: 204
-        y: 616
-        width: 204
-        height: 204
+        x: 12978
+        y: 2102
+        width: 669
+        height: 1910
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cf44e9190d3da4348ac4ee106daa0d37
-      internalID: 1803411746
+      spriteID: 711fddcbe48de4c00800000000000000
+      internalID: 886884009326276887
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_7
+      name: course_shogun_7
       rect:
         serializedVersion: 2
-        x: 408
-        y: 616
-        width: 204
-        height: 204
+        x: 14969
+        y: 2110
+        width: 755
+        height: 1909
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 121c735dc14e2264f84cd3adfa525fca
-      internalID: -1130485147
+      spriteID: e382eaca96f605950800000000000000
+      internalID: 6435766367171782718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_8
+      name: course_shogun_8
       rect:
         serializedVersion: 2
-        x: 612
-        y: 616
-        width: 204
-        height: 204
+        x: 16961
+        y: 2118
+        width: 849
+        height: 1907
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 5850a672d04d06a48b3463a489c37e51
-      internalID: -1655424372
+      spriteID: d68f829311f76e5a0800000000000000
+      internalID: -6492362100857833363
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_9
+      name: course_shogun_9
       rect:
         serializedVersion: 2
-        x: 816
-        y: 616
-        width: 204
-        height: 204
+        x: 19042
+        y: 2240
+        width: 846
+        height: 1786
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 31c184b942f20d24b83340bcc0d9a38a
-      internalID: 1177127680
+      spriteID: 95db1c0b45ab244d0800000000000000
+      internalID: -3151751916300419751
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_10
+      name: course_shogun_10
       rect:
         serializedVersion: 2
-        x: 0
-        y: 412
-        width: 204
-        height: 204
+        x: 21073
+        y: 2257
+        width: 895
+        height: 1771
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 197e385b00425e3458131733509e7f9e
-      internalID: 1080679433
+      spriteID: 6e1ef88ffc9446b20800000000000000
+      internalID: 3126705198879203814
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_11
+      name: course_shogun_11
       rect:
         serializedVersion: 2
-        x: 204
-        y: 412
-        width: 204
-        height: 204
+        x: 23066
+        y: 2183
+        width: 974
+        height: 1832
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 6b5bd7d0e274bc1489e181e868e2473d
-      internalID: 2136719150
+      spriteID: a80e4e3d82682fb50800000000000000
+      internalID: 6625505511727227018
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_12
+      name: course_shogun_12
       rect:
         serializedVersion: 2
-        x: 408
-        y: 412
-        width: 204
-        height: 204
+        x: 483
+        y: 61
+        width: 1055
+        height: 1893
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 4616cbd6010b0f2439b0de8156244a29
-      internalID: -456289890
+      spriteID: a8ca855f480a2a950800000000000000
+      internalID: 6458901308515069066
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_13
+      name: course_shogun_13
       rect:
         serializedVersion: 2
-        x: 612
-        y: 412
-        width: 204
-        height: 204
+        x: 2574
+        y: 57
+        width: 986
+        height: 1875
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 95ffb52aec3ef65429cf208c4aabd2ad
-      internalID: 608839325
+      spriteID: 1148d851a0b9ee750800000000000000
+      internalID: 6336172193370440721
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_14
+      name: course_shogun_14
       rect:
         serializedVersion: 2
-        x: 816
-        y: 412
-        width: 204
-        height: 204
+        x: 4666
+        y: 52
+        width: 918
+        height: 1859
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cacdc4cbf358fde42a085a6829745e99
-      internalID: 934547411
+      spriteID: 0b8dc340f5c9f4fa0800000000000000
+      internalID: -5814256662005098320
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_15
+      name: course_shogun_15
       rect:
         serializedVersion: 2
-        x: 0
-        y: 208
-        width: 204
-        height: 204
+        x: 6750
+        y: 56
+        width: 850
+        height: 1846
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: c22677270ce46ae4ca619472a5cdd0f5
-      internalID: 807069882
+      spriteID: f4ab8fdda4353f070800000000000000
+      internalID: 8138940532605368911
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_16
+      name: course_shogun_16
       rect:
         serializedVersion: 2
-        x: 204
-        y: 208
-        width: 204
-        height: 204
+        x: 8834
+        y: 60
+        width: 784
+        height: 1834
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: cd4410491f804a7418d6d8d31f37d027
-      internalID: -1411858647
+      spriteID: 52bb565e3b67995d0800000000000000
+      internalID: -3055280357174297819
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_17
+      name: course_shogun_17
       rect:
         serializedVersion: 2
-        x: 408
-        y: 208
-        width: 204
-        height: 204
+        x: 11022
+        y: 62
+        width: 623
+        height: 1856
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 2b68c8b5ae6ca5641963208dbd1b5b15
-      internalID: -1137931418
+      spriteID: 265174b9a5cba0660800000000000000
+      internalID: 7352896438973961570
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_18
+      name: course_shogun_18
       rect:
         serializedVersion: 2
-        x: 612
-        y: 208
-        width: 204
-        height: 204
+        x: 13010
+        y: 64
+        width: 676
+        height: 1878
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 38a397b8fe3a8674aa4fcfd05b1b9eff
-      internalID: 2016919599
+      spriteID: c04a229a6e2343360800000000000000
+      internalID: 7148394474805306380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_19
+      name: course_shogun_19
       rect:
         serializedVersion: 2
-        x: 816
-        y: 208
-        width: 204
-        height: 204
+        x: 15001
+        y: 77
+        width: 702
+        height: 1877
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 10ca2d4637fd53b48b304ca1470a2bc6
-      internalID: 661893554
+      spriteID: b1765fef3adcfa830800000000000000
+      internalID: 4084709491289188123
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_20
+      name: course_shogun_20
       rect:
         serializedVersion: 2
-        x: 204
-        y: 4
-        width: 204
-        height: 204
+        x: 16993
+        y: 90
+        width: 762
+        height: 1877
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: a14f6618c4e23954a89e6a5b7ebbbe55
-      internalID: -601906053
+      spriteID: 2ff6dfd164624b1f0800000000000000
+      internalID: -1030156332168286222
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_21
+      name: course_shogun_21
       rect:
         serializedVersion: 2
-        x: 408
-        y: 4
-        width: 204
-        height: 204
+        x: 19039
+        y: 203
+        width: 793
+        height: 1754
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 46e284dc26c39164ba8a96292b8db8eb
-      internalID: 1445795427
+      spriteID: 0a39724649ba707f0800000000000000
+      internalID: -646359367680552032
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_22
+      name: course_shogun_22
       rect:
         serializedVersion: 2
-        x: 612
-        y: 4
-        width: 204
-        height: 204
+        x: 21034
+        y: 209
+        width: 883
+        height: 1739
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 0db3010eef566aa4f9331330b5ba3e86
-      internalID: -1093050962
+      spriteID: 37450e9f001982eb0800000000000000
+      internalID: -4744382774056561549
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: gaz_1_23
+      name: course_shogun_23
       rect:
         serializedVersion: 2
-        x: 816
-        y: 4
-        width: 204
-        height: 204
+        x: 23058
+        y: 133
+        width: 930
+        height: 1801
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
-      tessellationDetail: 0
+      tessellationDetail: -1
       bones: []
-      spriteID: 86d58ac0bb38cd5428b6c661489eed8b
-      internalID: 2135378005
+      spriteID: 4918789c2e5ef1d10800000000000000
+      internalID: 2098648713584411028
       vertices: []
       indices: 
       edges: []
@@ -631,7 +700,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 7dc33feea5e42854fb9dc5eec24d6c72
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -639,34 +708,32 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries:
-      - key: SpriteEditor.SliceSettings
-        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":204.0,"y":204.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+      entries: []
     nameFileIdTable:
-      gaz_1_0: 4818379019674847647
-      gaz_1_1: 934955606
-      gaz_1_10: 1080679433
-      gaz_1_11: 2136719150
-      gaz_1_12: -456289890
-      gaz_1_13: 608839325
-      gaz_1_14: 934547411
-      gaz_1_15: 807069882
-      gaz_1_16: -1411858647
-      gaz_1_17: -1137931418
-      gaz_1_18: 2016919599
-      gaz_1_19: 661893554
-      gaz_1_2: -1176696018
-      gaz_1_20: -601906053
-      gaz_1_21: 1445795427
-      gaz_1_22: -1093050962
-      gaz_1_23: 2135378005
-      gaz_1_3: 270731146
-      gaz_1_4: -296495836
-      gaz_1_5: -2078078451
-      gaz_1_6: 1803411746
-      gaz_1_7: -1130485147
-      gaz_1_8: -1655424372
-      gaz_1_9: 1177127680
+      course_shogun_0: 7451664881118534297
+      course_shogun_1: -5918575208532415594
+      course_shogun_10: 3126705198879203814
+      course_shogun_11: 6625505511727227018
+      course_shogun_12: 6458901308515069066
+      course_shogun_13: 6336172193370440721
+      course_shogun_14: -5814256662005098320
+      course_shogun_15: 8138940532605368911
+      course_shogun_16: -3055280357174297819
+      course_shogun_17: 7352896438973961570
+      course_shogun_18: 7148394474805306380
+      course_shogun_19: 4084709491289188123
+      course_shogun_2: -1393664922622098132
+      course_shogun_20: -1030156332168286222
+      course_shogun_21: -646359367680552032
+      course_shogun_22: -4744382774056561549
+      course_shogun_23: 2098648713584411028
+      course_shogun_3: 7471336116706052893
+      course_shogun_4: -3582476520215980781
+      course_shogun_5: 1225567224957696913
+      course_shogun_6: 886884009326276887
+      course_shogun_7: 6435766367171782718
+      course_shogun_8: -6492362100857833363
+      course_shogun_9: -3151751916300419751
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
