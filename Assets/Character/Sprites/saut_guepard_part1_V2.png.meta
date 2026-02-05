@@ -1,0 +1,1521 @@
+fileFormatVersion: 2
+guid: 8cadf75105e18e04091ace74680d20b5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9050514755205953991
+    second: saut_guepard_part1_V2_0
+  - first:
+      213: 9199653645627846483
+    second: saut_guepard_part1_V2_1
+  - first:
+      213: 3217062325627931894
+    second: saut_guepard_part1_V2_2
+  - first:
+      213: 3270699911457782418
+    second: saut_guepard_part1_V2_3
+  - first:
+      213: -3881001486041003865
+    second: saut_guepard_part1_V2_4
+  - first:
+      213: 5794337003657343884
+    second: saut_guepard_part1_V2_5
+  - first:
+      213: 8545190210482154682
+    second: saut_guepard_part1_V2_6
+  - first:
+      213: -6777227891508829036
+    second: saut_guepard_part1_V2_7
+  - first:
+      213: -4729060500562748367
+    second: saut_guepard_part1_V2_8
+  - first:
+      213: 6365116135256074234
+    second: saut_guepard_part1_V2_9
+  - first:
+      213: 5731722009554476279
+    second: saut_guepard_part1_V2_10
+  - first:
+      213: -883610297081971926
+    second: saut_guepard_part1_V2_11
+  - first:
+      213: 8942111842382087367
+    second: saut_guepard_part1_V2_12
+  - first:
+      213: -880863408437163546
+    second: saut_guepard_part1_V2_13
+  - first:
+      213: 7979461439021680358
+    second: saut_guepard_part1_V2_14
+  - first:
+      213: -7327859119370939488
+    second: saut_guepard_part1_V2_15
+  - first:
+      213: -8318774728124376419
+    second: saut_guepard_part1_V2_16
+  - first:
+      213: 8811896580448312929
+    second: saut_guepard_part1_V2_17
+  - first:
+      213: 6425121504346504918
+    second: saut_guepard_part1_V2_18
+  - first:
+      213: -3134254790970149641
+    second: saut_guepard_part1_V2_19
+  - first:
+      213: -4388833221843055282
+    second: saut_guepard_part1_V2_20
+  - first:
+      213: 825535458050334176
+    second: saut_guepard_part1_V2_21
+  - first:
+      213: -9162202944353008488
+    second: saut_guepard_part1_V2_22
+  - first:
+      213: -3593503197546829150
+    second: saut_guepard_part1_V2_23
+  - first:
+      213: -1691531460218029747
+    second: saut_guepard_part1_V2_24
+  - first:
+      213: -4545007152144394251
+    second: saut_guepard_part1_V2_25
+  - first:
+      213: -1265368011930059500
+    second: saut_guepard_part1_V2_26
+  - first:
+      213: -1527622724720499332
+    second: saut_guepard_part1_V2_27
+  - first:
+      213: 2189561362506863184
+    second: saut_guepard_part1_V2_28
+  - first:
+      213: -2683266452298697831
+    second: saut_guepard_part1_V2_29
+  - first:
+      213: -7356636274101407743
+    second: saut_guepard_part1_V2_30
+  - first:
+      213: -5829880459961989028
+    second: saut_guepard_part1_V2_31
+  - first:
+      213: 7989914669844570204
+    second: saut_guepard_part1_V2_32
+  - first:
+      213: -4789956698331474878
+    second: saut_guepard_part1_V2_33
+  - first:
+      213: 1309026823598171555
+    second: saut_guepard_part1_V2_34
+  - first:
+      213: 2807354020626476361
+    second: saut_guepard_part1_V2_35
+  - first:
+      213: -6830277446580668459
+    second: saut_guepard_part1_V2_36
+  - first:
+      213: -3198896272487497605
+    second: saut_guepard_part1_V2_37
+  - first:
+      213: 7280362148159570941
+    second: saut_guepard_part1_V2_38
+  - first:
+      213: -3823464683505366371
+    second: saut_guepard_part1_V2_39
+  - first:
+      213: -881860883338291449
+    second: saut_guepard_part1_V2_40
+  - first:
+      213: -5534132011359092555
+    second: saut_guepard_part1_V2_41
+  - first:
+      213: 3781295730525733427
+    second: saut_guepard_part1_V2_42
+  - first:
+      213: 6165014597755902215
+    second: saut_guepard_part1_V2_43
+  - first:
+      213: 8972511325477328368
+    second: saut_guepard_part1_V2_44
+  - first:
+      213: -8083848270435155022
+    second: saut_guepard_part1_V2_45
+  - first:
+      213: -6792085077772309002
+    second: saut_guepard_part1_V2_46
+  - first:
+      213: 6414408482411791043
+    second: saut_guepard_part1_V2_47
+  - first:
+      213: -2115992471256455959
+    second: saut_guepard_part1_V2_48
+  - first:
+      213: -8041436442174321751
+    second: saut_guepard_part1_V2_49
+  - first:
+      213: -3251961370652875381
+    second: saut_guepard_part1_V2_50
+  - first:
+      213: -7330573085287198643
+    second: saut_guepard_part1_V2_51
+  - first:
+      213: 378468161077311194
+    second: saut_guepard_part1_V2_52
+  - first:
+      213: 8666922742127958484
+    second: saut_guepard_part1_V2_53
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8237
+        width: 489
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 936848528cc166280800000000000000
+      internalID: -9050514755205953991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_1
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 8238
+        width: 535
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6644bf3cbbaf70800000000000000
+      internalID: 9199653645627846483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_2
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 8239
+        width: 640
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc4853f32d45ac20800000000000000
+      internalID: 3217062325627931894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_3
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 8240
+        width: 785
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ab7559d3cd36d20800000000000000
+      internalID: 3270699911457782418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_4
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 8241
+        width: 733
+        height: 1792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a843cbf5b9e32ac0800000000000000
+      internalID: -3881001486041003865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_5
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 8243
+        width: 702
+        height: 1737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c83b5eb1ece996050800000000000000
+      internalID: 5794337003657343884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_6
+      rect:
+        serializedVersion: 2
+        x: 13022
+        y: 8244
+        width: 740
+        height: 1682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc2fe9d83d969670800000000000000
+      internalID: 8545190210482154682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_7
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 8245
+        width: 779
+        height: 1628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4942fb4d32372f1a0800000000000000
+      internalID: -6777227891508829036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_8
+      rect:
+        serializedVersion: 2
+        x: 17136
+        y: 8245
+        width: 785
+        height: 1668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c50a6c7800f5eb0800000000000000
+      internalID: -4729060500562748367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_9
+      rect:
+        serializedVersion: 2
+        x: 19226
+        y: 8244
+        width: 803
+        height: 1709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7ab04b66f655850800000000000000
+      internalID: 6365116135256074234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_10
+      rect:
+        serializedVersion: 2
+        x: 21316
+        y: 8243
+        width: 746
+        height: 1749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc58cabcca2b8f40800000000000000
+      internalID: 5731722009554476279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_11
+      rect:
+        serializedVersion: 2
+        x: 23339
+        y: 8242
+        width: 756
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b3d8acd19ccb3f0800000000000000
+      internalID: -883610297081971926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6193
+        width: 764
+        height: 1830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c48ff2e753c81c70800000000000000
+      internalID: 8942111842382087367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_13
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 6192
+        width: 789
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e98674a56b86c3f0800000000000000
+      internalID: -880863408437163546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_14
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 6197
+        width: 805
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e680dbd6edbcbe60800000000000000
+      internalID: 7979461439021680358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_15
+      rect:
+        serializedVersion: 2
+        x: 6899
+        y: 6201
+        width: 816
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3d9c1a4f63e4a90800000000000000
+      internalID: -7327859119370939488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_16
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 6206
+        width: 822
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a56a3a576cd8c80800000000000000
+      internalID: -8318774728124376419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_17
+      rect:
+        serializedVersion: 2
+        x: 10988
+        y: 6211
+        width: 824
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ed913a0452a4a70800000000000000
+      internalID: 8811896580448312929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_18
+      rect:
+        serializedVersion: 2
+        x: 13033
+        y: 6216
+        width: 825
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6defb4967fd9a2950800000000000000
+      internalID: 6425121504346504918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_19
+      rect:
+        serializedVersion: 2
+        x: 15078
+        y: 6221
+        width: 826
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f478a4afd3e084d0800000000000000
+      internalID: -3134254790970149641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_20
+      rect:
+        serializedVersion: 2
+        x: 17122
+        y: 6225
+        width: 828
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d8c91107bb713c0800000000000000
+      internalID: -4388833221843055282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_21
+      rect:
+        serializedVersion: 2
+        x: 19167
+        y: 6230
+        width: 829
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed549e0024e47b00800000000000000
+      internalID: 825535458050334176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_22
+      rect:
+        serializedVersion: 2
+        x: 21211
+        y: 6235
+        width: 831
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940dcd27f059d080800000000000000
+      internalID: -9162202944353008488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_23
+      rect:
+        serializedVersion: 2
+        x: 23256
+        y: 6240
+        width: 832
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaadfa81ef412ec0800000000000000
+      internalID: -3593503197546829150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4196
+        width: 833
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d497e4b59197688e0800000000000000
+      internalID: -1691531460218029747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_25
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 4201
+        width: 835
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f7d2da5314ece0c0800000000000000
+      internalID: -4545007152144394251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_26
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 4206
+        width: 835
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41d34c25f72807ee0800000000000000
+      internalID: -1265368011930059500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_27
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 4211
+        width: 837
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75683eb93bcccae0800000000000000
+      internalID: -1527622724720499332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_28
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052542a5572e26e10800000000000000
+      internalID: 2189561362506863184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_29
+      rect:
+        serializedVersion: 2
+        x: 10951
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9937301d06f13cad0800000000000000
+      internalID: -2683266452298697831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_30
+      rect:
+        serializedVersion: 2
+        x: 12999
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 100be6c294af7e990800000000000000
+      internalID: -7356636274101407743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_31
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5889f41c9a181fa0800000000000000
+      internalID: -5829880459961989028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_32
+      rect:
+        serializedVersion: 2
+        x: 17095
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50a4c15f01e1ee60800000000000000
+      internalID: 7989914669844570204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_33
+      rect:
+        serializedVersion: 2
+        x: 19143
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244137ad2c7a68db0800000000000000
+      internalID: -4789956698331474878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_34
+      rect:
+        serializedVersion: 2
+        x: 21191
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a5e606e5f89a2210800000000000000
+      internalID: 1309026823598171555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_35
+      rect:
+        serializedVersion: 2
+        x: 23239
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94da4369b99b5f620800000000000000
+      internalID: 2807354020626476361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_36
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d77237c9daf531a0800000000000000
+      internalID: -6830277446580668459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_37
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70cf05e9cc3b93d0800000000000000
+      internalID: -3198896272487497605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_38
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3404dfcca090560800000000000000
+      internalID: 7280362148159570941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_39
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a4960c02350fac0800000000000000
+      internalID: -3823464683505366371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_40
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7071f4be23003c3f0800000000000000
+      internalID: -881860883338291449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_41
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b0c2dab140d233b0800000000000000
+      internalID: -5534132011359092555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_42
+      rect:
+        serializedVersion: 2
+        x: 12996
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33200b8ce6cd97430800000000000000
+      internalID: 3781295730525733427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_43
+      rect:
+        serializedVersion: 2
+        x: 15044
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709965eec188e8550800000000000000
+      internalID: 6165014597755902215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_44
+      rect:
+        serializedVersion: 2
+        x: 17092
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5de3a1383c48c70800000000000000
+      internalID: 8972511325477328368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_45
+      rect:
+        serializedVersion: 2
+        x: 19140
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b38e8ef3d660df80800000000000000
+      internalID: -8083848270435155022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_46
+      rect:
+        serializedVersion: 2
+        x: 21188
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd66279b9aadb1a0800000000000000
+      internalID: -6792085077772309002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_47
+      rect:
+        serializedVersion: 2
+        x: 23236
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2486e978e840950800000000000000
+      internalID: 6414408482411791043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_48
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4ab53fe0c72a2e0800000000000000
+      internalID: -2115992471256455959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_49
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab81544924176090800000000000000
+      internalID: -8041436442174321751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_50
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8561feec56bed2d0800000000000000
+      internalID: -3251961370652875381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_51
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40da633e92944a90800000000000000
+      internalID: -7330573085287198643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_52
+      rect:
+        serializedVersion: 2
+        x: 8900
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6fecb89c6904500800000000000000
+      internalID: 378468161077311194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_guepard_part1_V2_53
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d99a4c8058174870800000000000000
+      internalID: 8666922742127958484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      saut_guepard_part1_V2_0: -9050514755205953991
+      saut_guepard_part1_V2_1: 9199653645627846483
+      saut_guepard_part1_V2_10: 5731722009554476279
+      saut_guepard_part1_V2_11: -883610297081971926
+      saut_guepard_part1_V2_12: 8942111842382087367
+      saut_guepard_part1_V2_13: -880863408437163546
+      saut_guepard_part1_V2_14: 7979461439021680358
+      saut_guepard_part1_V2_15: -7327859119370939488
+      saut_guepard_part1_V2_16: -8318774728124376419
+      saut_guepard_part1_V2_17: 8811896580448312929
+      saut_guepard_part1_V2_18: 6425121504346504918
+      saut_guepard_part1_V2_19: -3134254790970149641
+      saut_guepard_part1_V2_2: 3217062325627931894
+      saut_guepard_part1_V2_20: -4388833221843055282
+      saut_guepard_part1_V2_21: 825535458050334176
+      saut_guepard_part1_V2_22: -9162202944353008488
+      saut_guepard_part1_V2_23: -3593503197546829150
+      saut_guepard_part1_V2_24: -1691531460218029747
+      saut_guepard_part1_V2_25: -4545007152144394251
+      saut_guepard_part1_V2_26: -1265368011930059500
+      saut_guepard_part1_V2_27: -1527622724720499332
+      saut_guepard_part1_V2_28: 2189561362506863184
+      saut_guepard_part1_V2_29: -2683266452298697831
+      saut_guepard_part1_V2_3: 3270699911457782418
+      saut_guepard_part1_V2_30: -7356636274101407743
+      saut_guepard_part1_V2_31: -5829880459961989028
+      saut_guepard_part1_V2_32: 7989914669844570204
+      saut_guepard_part1_V2_33: -4789956698331474878
+      saut_guepard_part1_V2_34: 1309026823598171555
+      saut_guepard_part1_V2_35: 2807354020626476361
+      saut_guepard_part1_V2_36: -6830277446580668459
+      saut_guepard_part1_V2_37: -3198896272487497605
+      saut_guepard_part1_V2_38: 7280362148159570941
+      saut_guepard_part1_V2_39: -3823464683505366371
+      saut_guepard_part1_V2_4: -3881001486041003865
+      saut_guepard_part1_V2_40: -881860883338291449
+      saut_guepard_part1_V2_41: -5534132011359092555
+      saut_guepard_part1_V2_42: 3781295730525733427
+      saut_guepard_part1_V2_43: 6165014597755902215
+      saut_guepard_part1_V2_44: 8972511325477328368
+      saut_guepard_part1_V2_45: -8083848270435155022
+      saut_guepard_part1_V2_46: -6792085077772309002
+      saut_guepard_part1_V2_47: 6414408482411791043
+      saut_guepard_part1_V2_48: -2115992471256455959
+      saut_guepard_part1_V2_49: -8041436442174321751
+      saut_guepard_part1_V2_5: 5794337003657343884
+      saut_guepard_part1_V2_50: -3251961370652875381
+      saut_guepard_part1_V2_51: -7330573085287198643
+      saut_guepard_part1_V2_52: 378468161077311194
+      saut_guepard_part1_V2_53: 8666922742127958484
+      saut_guepard_part1_V2_6: 8545190210482154682
+      saut_guepard_part1_V2_7: -6777227891508829036
+      saut_guepard_part1_V2_8: -4729060500562748367
+      saut_guepard_part1_V2_9: 6365116135256074234
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

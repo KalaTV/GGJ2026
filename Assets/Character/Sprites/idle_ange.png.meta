@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 7dde70f7e255cde4681c492ee68b97e6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -422328735409081387
+    second: idle_ange_0
+  - first:
+      213: -5166828914733501145
+    second: idle_ange_1
+  - first:
+      213: -3683411848204340216
+    second: idle_ange_2
+  - first:
+      213: 5488557856937786
+    second: idle_ange_3
+  - first:
+      213: 4389951510793308015
+    second: idle_ange_4
+  - first:
+      213: 8141952135396696147
+    second: idle_ange_5
+  - first:
+      213: 8380689273497641147
+    second: idle_ange_6
+  - first:
+      213: -6295965860388652554
+    second: idle_ange_7
+  - first:
+      213: -3127799160814514631
+    second: idle_ange_8
+  - first:
+      213: 3140102310431646084
+    second: idle_ange_9
+  - first:
+      213: 849316481962223503
+    second: idle_ange_10
+  - first:
+      213: -2330390857838780629
+    second: idle_ange_11
+  - first:
+      213: 3231780969660111733
+    second: idle_ange_12
+  - first:
+      213: -94309778607486758
+    second: idle_ange_13
+  - first:
+      213: -1558914832313002745
+    second: idle_ange_14
+  - first:
+      213: -4037521572926064371
+    second: idle_ange_15
+  - first:
+      213: 3528869109241561225
+    second: idle_ange_16
+  - first:
+      213: 8752279903500685211
+    second: idle_ange_17
+  - first:
+      213: 646887434081742147
+    second: idle_ange_18
+  - first:
+      213: -5401060178307778282
+    second: idle_ange_19
+  - first:
+      213: -5532865727915304427
+    second: idle_ange_20
+  - first:
+      213: 4215536853005437586
+    second: idle_ange_21
+  - first:
+      213: 7800216855687141034
+    second: idle_ange_22
+  - first:
+      213: -2747329551543935171
+    second: idle_ange_23
+  - first:
+      213: 2700187300836704755
+    second: idle_ange_24
+  - first:
+      213: -6174694588947529907
+    second: idle_ange_25
+  - first:
+      213: 1430756957045282131
+    second: idle_ange_26
+  - first:
+      213: 639214579839993652
+    second: idle_ange_27
+  - first:
+      213: 1365925511538418451
+    second: idle_ange_28
+  - first:
+      213: 165598972803813044
+    second: idle_ange_29
+  - first:
+      213: 597123020144112498
+    second: idle_ange_30
+  - first:
+      213: 3488466563605117068
+    second: idle_ange_31
+  - first:
+      213: -3390063595004857242
+    second: idle_ange_32
+  - first:
+      213: 5440167109260716346
+    second: idle_ange_33
+  - first:
+      213: 5800673327163877984
+    second: idle_ange_34
+  - first:
+      213: -5808070018376570253
+    second: idle_ange_35
+  - first:
+      213: -1266349894508879905
+    second: idle_ange_36
+  - first:
+      213: -4632468103483382751
+    second: idle_ange_37
+  - first:
+      213: 2234109382777521936
+    second: idle_ange_38
+  - first:
+      213: 6621360375066421760
+    second: idle_ange_39
+  - first:
+      213: -7816625011864264257
+    second: idle_ange_40
+  - first:
+      213: 1132721862679001550
+    second: idle_ange_41
+  - first:
+      213: -1094391132969285132
+    second: idle_ange_42
+  - first:
+      213: -5821200042976140563
+    second: idle_ange_43
+  - first:
+      213: -6089520686200935194
+    second: idle_ange_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_ange_0
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6189
+        width: 625
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d37083b046932af0800000000000000
+      internalID: -422328735409081387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_1
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 6188
+        width: 623
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 725b7122a7cbb48b0800000000000000
+      internalID: -5166828914733501145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_2
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 6188
+        width: 621
+        height: 1894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804b05a8074e1ecc0800000000000000
+      internalID: -3683411848204340216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_3
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 6188
+        width: 621
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37546570df731000800000000000000
+      internalID: 5488557856937786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_4
+      rect:
+        serializedVersion: 2
+        x: 9007
+        y: 6188
+        width: 620
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67460ed3ad3cec30800000000000000
+      internalID: 4389951510793308015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_5
+      rect:
+        serializedVersion: 2
+        x: 11056
+        y: 6188
+        width: 618
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350ad8844560ef070800000000000000
+      internalID: 8141952135396696147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_6
+      rect:
+        serializedVersion: 2
+        x: 13104
+        y: 6188
+        width: 618
+        height: 1886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb0e0cfcd703e4470800000000000000
+      internalID: 8380689273497641147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_7
+      rect:
+        serializedVersion: 2
+        x: 15152
+        y: 6188
+        width: 617
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f93c8d486c30a8a0800000000000000
+      internalID: -6295965860388652554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_8
+      rect:
+        serializedVersion: 2
+        x: 17201
+        y: 6188
+        width: 616
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93ec2ea2c33d794d0800000000000000
+      internalID: -3127799160814514631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_9
+      rect:
+        serializedVersion: 2
+        x: 19249
+        y: 6188
+        width: 615
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48169a31a62e39b20800000000000000
+      internalID: 3140102310431646084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_10
+      rect:
+        serializedVersion: 2
+        x: 21297
+        y: 6188
+        width: 615
+        height: 1878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f872e3927d069cb00800000000000000
+      internalID: 849316481962223503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_11
+      rect:
+        serializedVersion: 2
+        x: 23345
+        y: 6188
+        width: 614
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2f93ba9cd9c8afd0800000000000000
+      internalID: -2330390857838780629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_12
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 4140
+        width: 614
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b55705ba799dc20800000000000000
+      internalID: 3231780969660111733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_13
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 4140
+        width: 614
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad8414b81c1f0bef0800000000000000
+      internalID: -94309778607486758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_14
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 4140
+        width: 614
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70555e0383f9d5ae0800000000000000
+      internalID: -1558914832313002745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_15
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 4140
+        width: 613
+        height: 1867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d09f3c86587d7f7c0800000000000000
+      internalID: -4037521572926064371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_16
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 4140
+        width: 613
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 980413312cf09f030800000000000000
+      internalID: 3528869109241561225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_17
+      rect:
+        serializedVersion: 2
+        x: 11058
+        y: 4140
+        width: 613
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fc2fe5338567970800000000000000
+      internalID: 8752279903500685211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_18
+      rect:
+        serializedVersion: 2
+        x: 13106
+        y: 4140
+        width: 613
+        height: 1861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d2b16a1b43af800800000000000000
+      internalID: 646887434081742147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_19
+      rect:
+        serializedVersion: 2
+        x: 15154
+        y: 4140
+        width: 613
+        height: 1859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 619f47542649b05b0800000000000000
+      internalID: -5401060178307778282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_20
+      rect:
+        serializedVersion: 2
+        x: 17202
+        y: 4140
+        width: 613
+        height: 1857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51adca15fef4733b0800000000000000
+      internalID: -5532865727915304427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_21
+      rect:
+        serializedVersion: 2
+        x: 19250
+        y: 4140
+        width: 613
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a05f4de68908a30800000000000000
+      internalID: 4215536853005437586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_22
+      rect:
+        serializedVersion: 2
+        x: 21298
+        y: 4140
+        width: 613
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa61f3627efef3c60800000000000000
+      internalID: 7800216855687141034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_23
+      rect:
+        serializedVersion: 2
+        x: 23346
+        y: 4140
+        width: 613
+        height: 1850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f5a4f24568fd9d0800000000000000
+      internalID: -2747329551543935171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2092
+        width: 613
+        height: 1848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1846d3b0ef87520800000000000000
+      internalID: 2700187300836704755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_25
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 2092
+        width: 613
+        height: 1851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4f714d7cf31f4aa0800000000000000
+      internalID: -6174694588947529907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_26
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2092
+        width: 613
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3555a983fd11bd310800000000000000
+      internalID: 1430756957045282131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_27
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 2092
+        width: 613
+        height: 1855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4370d9e0642fed800800000000000000
+      internalID: 639214579839993652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_28
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 2092
+        width: 613
+        height: 1858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31324e8040eb4f210800000000000000
+      internalID: 1365925511538418451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_29
+      rect:
+        serializedVersion: 2
+        x: 11058
+        y: 2092
+        width: 613
+        height: 1860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be042d63635c4200800000000000000
+      internalID: 165598972803813044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_30
+      rect:
+        serializedVersion: 2
+        x: 13106
+        y: 2092
+        width: 613
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 273f5ee1938694800800000000000000
+      internalID: 597123020144112498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_31
+      rect:
+        serializedVersion: 2
+        x: 15154
+        y: 2092
+        width: 613
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88b28e5bd5896030800000000000000
+      internalID: 3488466563605117068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_32
+      rect:
+        serializedVersion: 2
+        x: 17202
+        y: 2092
+        width: 613
+        height: 1867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66470c52f1314f0d0800000000000000
+      internalID: -3390063595004857242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_33
+      rect:
+        serializedVersion: 2
+        x: 19249
+        y: 2092
+        width: 614
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a39af32a92b5f7b40800000000000000
+      internalID: 5440167109260716346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_34
+      rect:
+        serializedVersion: 2
+        x: 21297
+        y: 2092
+        width: 614
+        height: 1872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06aafa368a1208050800000000000000
+      internalID: 5800673327163877984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_35
+      rect:
+        serializedVersion: 2
+        x: 23345
+        y: 2092
+        width: 614
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a611c3717956fa0800000000000000
+      internalID: -5808070018376570253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 44
+        width: 615
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdfd178fa750d6ee0800000000000000
+      internalID: -1266349894508879905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_37
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 44
+        width: 615
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124ab82cdca26bfb0800000000000000
+      internalID: -4632468103483382751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_38
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 44
+        width: 616
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01742d595a6210f10800000000000000
+      internalID: 2234109382777521936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_39
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 44
+        width: 617
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a6eadfd2cc3eb50800000000000000
+      internalID: 6621360375066421760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_40
+      rect:
+        serializedVersion: 2
+        x: 9008
+        y: 44
+        width: 618
+        height: 1887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1a56947f4c58390800000000000000
+      internalID: -7816625011864264257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_41
+      rect:
+        serializedVersion: 2
+        x: 11056
+        y: 44
+        width: 619
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9fc4e588c38bf00800000000000000
+      internalID: 1132721862679001550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_42
+      rect:
+        serializedVersion: 2
+        x: 13103
+        y: 44
+        width: 620
+        height: 1891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9470a1011ffc0f0800000000000000
+      internalID: -1094391132969285132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_43
+      rect:
+        serializedVersion: 2
+        x: 15151
+        y: 44
+        width: 621
+        height: 1894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de22be72761f63fa0800000000000000
+      internalID: -5821200042976140563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_ange_44
+      rect:
+        serializedVersion: 2
+        x: 17199
+        y: 44
+        width: 622
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eca996133dad7ba0800000000000000
+      internalID: -6089520686200935194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_ange_0: -422328735409081387
+      idle_ange_1: -5166828914733501145
+      idle_ange_10: 849316481962223503
+      idle_ange_11: -2330390857838780629
+      idle_ange_12: 3231780969660111733
+      idle_ange_13: -94309778607486758
+      idle_ange_14: -1558914832313002745
+      idle_ange_15: -4037521572926064371
+      idle_ange_16: 3528869109241561225
+      idle_ange_17: 8752279903500685211
+      idle_ange_18: 646887434081742147
+      idle_ange_19: -5401060178307778282
+      idle_ange_2: -3683411848204340216
+      idle_ange_20: -5532865727915304427
+      idle_ange_21: 4215536853005437586
+      idle_ange_22: 7800216855687141034
+      idle_ange_23: -2747329551543935171
+      idle_ange_24: 2700187300836704755
+      idle_ange_25: -6174694588947529907
+      idle_ange_26: 1430756957045282131
+      idle_ange_27: 639214579839993652
+      idle_ange_28: 1365925511538418451
+      idle_ange_29: 165598972803813044
+      idle_ange_3: 5488557856937786
+      idle_ange_30: 597123020144112498
+      idle_ange_31: 3488466563605117068
+      idle_ange_32: -3390063595004857242
+      idle_ange_33: 5440167109260716346
+      idle_ange_34: 5800673327163877984
+      idle_ange_35: -5808070018376570253
+      idle_ange_36: -1266349894508879905
+      idle_ange_37: -4632468103483382751
+      idle_ange_38: 2234109382777521936
+      idle_ange_39: 6621360375066421760
+      idle_ange_4: 4389951510793308015
+      idle_ange_40: -7816625011864264257
+      idle_ange_41: 1132721862679001550
+      idle_ange_42: -1094391132969285132
+      idle_ange_43: -5821200042976140563
+      idle_ange_44: -6089520686200935194
+      idle_ange_5: 8141952135396696147
+      idle_ange_6: 8380689273497641147
+      idle_ange_7: -6295965860388652554
+      idle_ange_8: -3127799160814514631
+      idle_ange_9: 3140102310431646084
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

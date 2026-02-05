@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7835ddd43f8d7774fb296bacbe87b6cf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5508308461392558266
+    second: course_guepard_0
+  - first:
+      213: -5004688088421795847
+    second: course_guepard_1
+  - first:
+      213: -5598073862295764920
+    second: course_guepard_2
+  - first:
+      213: 7172494984293954256
+    second: course_guepard_3
+  - first:
+      213: 5035659818549878761
+    second: course_guepard_4
+  - first:
+      213: 6766697243813716818
+    second: course_guepard_5
+  - first:
+      213: -6965411623997408934
+    second: course_guepard_6
+  - first:
+      213: 1055146988567189205
+    second: course_guepard_7
+  - first:
+      213: 8694449015530625651
+    second: course_guepard_8
+  - first:
+      213: -5408293399696041302
+    second: course_guepard_9
+  - first:
+      213: 4580138627828853066
+    second: course_guepard_10
+  - first:
+      213: -1254998155161589858
+    second: course_guepard_11
+  - first:
+      213: 509723808300270681
+    second: course_guepard_12
+  - first:
+      213: -7556422170256880622
+    second: course_guepard_13
+  - first:
+      213: -7527938723587452982
+    second: course_guepard_14
+  - first:
+      213: -239349316020790057
+    second: course_guepard_15
+  - first:
+      213: 4924889255114868315
+    second: course_guepard_16
+  - first:
+      213: 2804657603013512308
+    second: course_guepard_17
+  - first:
+      213: -8136458634030667886
+    second: course_guepard_18
+  - first:
+      213: -1778227767234876501
+    second: course_guepard_19
+  - first:
+      213: 2117759070122643676
+    second: course_guepard_20
+  - first:
+      213: -6345845744370836377
+    second: course_guepard_21
+  - first:
+      213: -4279280765743434633
+    second: course_guepard_22
+  - first:
+      213: -5459128920026594255
+    second: course_guepard_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: course_guepard_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2103
+        width: 1004
+        height: 1864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6470b6d73ae8e83b0800000000000000
+      internalID: -5508308461392558266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_1
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2104
+        width: 934
+        height: 1845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f77df513b6cb8ab0800000000000000
+      internalID: -5004688088421795847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_2
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 2104
+        width: 864
+        height: 1826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840467b6b75af42b0800000000000000
+      internalID: -5598073862295764920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_3
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 2103
+        width: 806
+        height: 1851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2bc1ccf22d98360800000000000000
+      internalID: 7172494984293954256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_4
+      rect:
+        serializedVersion: 2
+        x: 8813
+        y: 2103
+        width: 757
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef9f56cce142e540800000000000000
+      internalID: 5035659818549878761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_5
+      rect:
+        serializedVersion: 2
+        x: 10994
+        y: 2102
+        width: 584
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 253a120ba4328ed50800000000000000
+      internalID: 6766697243813716818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_6
+      rect:
+        serializedVersion: 2
+        x: 12978
+        y: 2102
+        width: 673
+        height: 1910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a59f1454803e55f90800000000000000
+      internalID: -6965411623997408934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_7
+      rect:
+        serializedVersion: 2
+        x: 14969
+        y: 2110
+        width: 758
+        height: 1909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6de5f7892a4ae00800000000000000
+      internalID: 1055146988567189205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_8
+      rect:
+        serializedVersion: 2
+        x: 16961
+        y: 2118
+        width: 849
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a92708053e8a870800000000000000
+      internalID: 8694449015530625651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_9
+      rect:
+        serializedVersion: 2
+        x: 19042
+        y: 2240
+        width: 846
+        height: 1786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaa170eaec1e1f4b0800000000000000
+      internalID: -5408293399696041302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_10
+      rect:
+        serializedVersion: 2
+        x: 21073
+        y: 2257
+        width: 895
+        height: 1771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49a8cdb0dbef8f30800000000000000
+      internalID: 4580138627828853066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_11
+      rect:
+        serializedVersion: 2
+        x: 23066
+        y: 2183
+        width: 974
+        height: 1832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97a2dfb3d9559ee0800000000000000
+      internalID: -1254998155161589858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 61
+        width: 1055
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9540c4f5a17e21700800000000000000
+      internalID: 509723808300270681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 57
+        width: 986
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cc3f06212322790800000000000000
+      internalID: -7556422170256880622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_14
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 52
+        width: 918
+        height: 1859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf89a99d93678790800000000000000
+      internalID: -7527938723587452982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_15
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 56
+        width: 850
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc1951b019adacf0800000000000000
+      internalID: -239349316020790057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_16
+      rect:
+        serializedVersion: 2
+        x: 8834
+        y: 60
+        width: 784
+        height: 1834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5682413fa8b85440800000000000000
+      internalID: 4924889255114868315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_17
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 62
+        width: 623
+        height: 1856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c0830fa352ce620800000000000000
+      internalID: 2804657603013512308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_18
+      rect:
+        serializedVersion: 2
+        x: 13010
+        y: 64
+        width: 676
+        height: 1878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29721fc2bfd751f80800000000000000
+      internalID: -8136458634030667886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_19
+      rect:
+        serializedVersion: 2
+        x: 15001
+        y: 77
+        width: 702
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babaa3464477257e0800000000000000
+      internalID: -1778227767234876501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_20
+      rect:
+        serializedVersion: 2
+        x: 16993
+        y: 90
+        width: 762
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd0958667aac36d10800000000000000
+      internalID: 2117759070122643676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_21
+      rect:
+        serializedVersion: 2
+        x: 19039
+        y: 203
+        width: 793
+        height: 1754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c1a5fcae60fe7a0800000000000000
+      internalID: -6345845744370836377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_22
+      rect:
+        serializedVersion: 2
+        x: 21034
+        y: 209
+        width: 883
+        height: 1739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77473bfe0d0fc94c0800000000000000
+      internalID: -4279280765743434633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_guepard_23
+      rect:
+        serializedVersion: 2
+        x: 23058
+        y: 133
+        width: 930
+        height: 1801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c0c2cb274d34b0800000000000000
+      internalID: -5459128920026594255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      course_guepard_0: -5508308461392558266
+      course_guepard_1: -5004688088421795847
+      course_guepard_10: 4580138627828853066
+      course_guepard_11: -1254998155161589858
+      course_guepard_12: 509723808300270681
+      course_guepard_13: -7556422170256880622
+      course_guepard_14: -7527938723587452982
+      course_guepard_15: -239349316020790057
+      course_guepard_16: 4924889255114868315
+      course_guepard_17: 2804657603013512308
+      course_guepard_18: -8136458634030667886
+      course_guepard_19: -1778227767234876501
+      course_guepard_2: -5598073862295764920
+      course_guepard_20: 2117759070122643676
+      course_guepard_21: -6345845744370836377
+      course_guepard_22: -4279280765743434633
+      course_guepard_23: -5459128920026594255
+      course_guepard_3: 7172494984293954256
+      course_guepard_4: 5035659818549878761
+      course_guepard_5: 6766697243813716818
+      course_guepard_6: -6965411623997408934
+      course_guepard_7: 1055146988567189205
+      course_guepard_8: 8694449015530625651
+      course_guepard_9: -5408293399696041302
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
