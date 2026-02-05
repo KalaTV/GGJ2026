@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 486f310d8267a1d4b854b4b711feef03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3877201239249502536
+    second: idle_gaz_0
+  - first:
+      213: -4410277484446192827
+    second: idle_gaz_1
+  - first:
+      213: 971610148354038540
+    second: idle_gaz_2
+  - first:
+      213: 8091645967298457579
+    second: idle_gaz_3
+  - first:
+      213: -1746825586739085643
+    second: idle_gaz_4
+  - first:
+      213: -134189452144445669
+    second: idle_gaz_5
+  - first:
+      213: -9111432697986125437
+    second: idle_gaz_6
+  - first:
+      213: 2218366539190235621
+    second: idle_gaz_7
+  - first:
+      213: -8805420053893353152
+    second: idle_gaz_8
+  - first:
+      213: -1426709338331940017
+    second: idle_gaz_9
+  - first:
+      213: -5957465551579469688
+    second: idle_gaz_10
+  - first:
+      213: 5807818440736394429
+    second: idle_gaz_11
+  - first:
+      213: 1884170053240064720
+    second: idle_gaz_12
+  - first:
+      213: 2284287859159164259
+    second: idle_gaz_13
+  - first:
+      213: 5478164353603638830
+    second: idle_gaz_14
+  - first:
+      213: 5422978992010445586
+    second: idle_gaz_15
+  - first:
+      213: 1484073615981630295
+    second: idle_gaz_16
+  - first:
+      213: -6123073731726961372
+    second: idle_gaz_17
+  - first:
+      213: 8525438682405247045
+    second: idle_gaz_18
+  - first:
+      213: 6987274083021036395
+    second: idle_gaz_19
+  - first:
+      213: 33977615695318202
+    second: idle_gaz_20
+  - first:
+      213: 1420520359732548004
+    second: idle_gaz_21
+  - first:
+      213: -2358127569033317208
+    second: idle_gaz_22
+  - first:
+      213: -2900512950674769522
+    second: idle_gaz_23
+  - first:
+      213: 1538113414143955340
+    second: idle_gaz_24
+  - first:
+      213: 4176366613776964456
+    second: idle_gaz_25
+  - first:
+      213: -2087352930304809765
+    second: idle_gaz_26
+  - first:
+      213: -8125775512787831730
+    second: idle_gaz_27
+  - first:
+      213: 3663713689065582642
+    second: idle_gaz_28
+  - first:
+      213: -3004834696807954671
+    second: idle_gaz_29
+  - first:
+      213: -9032976237220935222
+    second: idle_gaz_30
+  - first:
+      213: 5848689079407964324
+    second: idle_gaz_31
+  - first:
+      213: -2697562857888245154
+    second: idle_gaz_32
+  - first:
+      213: 1322248457563875508
+    second: idle_gaz_33
+  - first:
+      213: 4044393565166846127
+    second: idle_gaz_34
+  - first:
+      213: 6490927624014906089
+    second: idle_gaz_35
+  - first:
+      213: -6711393416349580908
+    second: idle_gaz_36
+  - first:
+      213: -3776337708793348367
+    second: idle_gaz_37
+  - first:
+      213: -8192401324057475873
+    second: idle_gaz_38
+  - first:
+      213: -2256685850240779395
+    second: idle_gaz_39
+  - first:
+      213: -4485852433601965347
+    second: idle_gaz_40
+  - first:
+      213: 8258734877101575140
+    second: idle_gaz_41
+  - first:
+      213: -7603493354329491107
+    second: idle_gaz_42
+  - first:
+      213: -5479770641599708720
+    second: idle_gaz_43
+  - first:
+      213: 9166753291005891479
+    second: idle_gaz_44
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: idle_gaz_0
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 6189
+        width: 517
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be34d3e30a613ac0800000000000000
+      internalID: -3877201239249502536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_1
+      rect:
+        serializedVersion: 2
+        x: 2862
+        y: 6188
+        width: 516
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b6eaa9efb8bc2c0800000000000000
+      internalID: -4410277484446192827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_2
+      rect:
+        serializedVersion: 2
+        x: 4911
+        y: 6188
+        width: 515
+        height: 1894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b9ec8384adb7d00800000000000000
+      internalID: 971610148354038540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_3
+      rect:
+        serializedVersion: 2
+        x: 6959
+        y: 6188
+        width: 515
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: befeb09c22d4b4070800000000000000
+      internalID: 8091645967298457579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_4
+      rect:
+        serializedVersion: 2
+        x: 9007
+        y: 6188
+        width: 515
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5be7ad9426702c7e0800000000000000
+      internalID: -1746825586739085643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_5
+      rect:
+        serializedVersion: 2
+        x: 11056
+        y: 6188
+        width: 514
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b17735c7763432ef0800000000000000
+      internalID: -134189452144445669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_6
+      rect:
+        serializedVersion: 2
+        x: 13104
+        y: 6188
+        width: 514
+        height: 1886
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38178a15c30bd8180800000000000000
+      internalID: -9111432697986125437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_7
+      rect:
+        serializedVersion: 2
+        x: 15152
+        y: 6188
+        width: 514
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e1fb0e2d9839ce10800000000000000
+      internalID: 2218366539190235621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_8
+      rect:
+        serializedVersion: 2
+        x: 17201
+        y: 6188
+        width: 513
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 041f5953d1ddcc580800000000000000
+      internalID: -8805420053893353152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_9
+      rect:
+        serializedVersion: 2
+        x: 19249
+        y: 6188
+        width: 513
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4bfdf27a6f433ce0800000000000000
+      internalID: -1426709338331940017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_10
+      rect:
+        serializedVersion: 2
+        x: 21297
+        y: 6188
+        width: 513
+        height: 1878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 888aa7415a4d25da0800000000000000
+      internalID: -5957465551579469688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_11
+      rect:
+        serializedVersion: 2
+        x: 23345
+        y: 6188
+        width: 513
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc4e08c914899050800000000000000
+      internalID: 5807818440736394429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_12
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 4140
+        width: 513
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da8dcf3eaae52a10800000000000000
+      internalID: 1884170053240064720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_13
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 4140
+        width: 514
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3656be984bb63bf10800000000000000
+      internalID: 2284287859159164259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_14
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 4140
+        width: 514
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2690cd7479560c40800000000000000
+      internalID: 5478164353603638830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_15
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 4140
+        width: 513
+        height: 1867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213403b39aa424b40800000000000000
+      internalID: 5422978992010445586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_16
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 4140
+        width: 513
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7535d1d371d789410800000000000000
+      internalID: 1484073615981630295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_17
+      rect:
+        serializedVersion: 2
+        x: 11058
+        y: 4140
+        width: 513
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42593e6e1e8760ba0800000000000000
+      internalID: -6123073731726961372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_18
+      rect:
+        serializedVersion: 2
+        x: 13106
+        y: 4140
+        width: 513
+        height: 1861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548932bdf41705670800000000000000
+      internalID: 8525438682405247045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_19
+      rect:
+        serializedVersion: 2
+        x: 15154
+        y: 4140
+        width: 513
+        height: 1859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b13c222c8c7f060800000000000000
+      internalID: 6987274083021036395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_20
+      rect:
+        serializedVersion: 2
+        x: 17202
+        y: 4140
+        width: 513
+        height: 1857
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abc85d12676b87000800000000000000
+      internalID: 33977615695318202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_21
+      rect:
+        serializedVersion: 2
+        x: 19250
+        y: 4140
+        width: 513
+        height: 1854
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1911eadb3b6b310800000000000000
+      internalID: 1420520359732548004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_22
+      rect:
+        serializedVersion: 2
+        x: 21298
+        y: 4140
+        width: 513
+        height: 1852
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a4b6b8487f364fd0800000000000000
+      internalID: -2358127569033317208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_23
+      rect:
+        serializedVersion: 2
+        x: 23346
+        y: 4140
+        width: 514
+        height: 1850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e893c94c6de4fb7d0800000000000000
+      internalID: -2900512950674769522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 2092
+        width: 514
+        height: 1848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81505a300a785510800000000000000
+      internalID: 1538113414143955340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_25
+      rect:
+        serializedVersion: 2
+        x: 2866
+        y: 2092
+        width: 514
+        height: 1851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86b1af1de4f65f930800000000000000
+      internalID: 4176366613776964456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_26
+      rect:
+        serializedVersion: 2
+        x: 4914
+        y: 2092
+        width: 513
+        height: 1853
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd4af44b19b3803e0800000000000000
+      internalID: -2087352930304809765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_27
+      rect:
+        serializedVersion: 2
+        x: 6962
+        y: 2092
+        width: 513
+        height: 1855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44b6bb29327b3f80800000000000000
+      internalID: -8125775512787831730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_28
+      rect:
+        serializedVersion: 2
+        x: 9010
+        y: 2092
+        width: 513
+        height: 1858
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2307d73603028d230800000000000000
+      internalID: 3663713689065582642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_29
+      rect:
+        serializedVersion: 2
+        x: 11058
+        y: 2092
+        width: 513
+        height: 1860
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1174ef773ceac46d0800000000000000
+      internalID: -3004834696807954671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_30
+      rect:
+        serializedVersion: 2
+        x: 13106
+        y: 2092
+        width: 513
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9c6e398fb64a280800000000000000
+      internalID: -9032976237220935222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_31
+      rect:
+        serializedVersion: 2
+        x: 15154
+        y: 2092
+        width: 513
+        height: 1865
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a071d3eab7ba2150800000000000000
+      internalID: 5848689079407964324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_32
+      rect:
+        serializedVersion: 2
+        x: 17202
+        y: 2092
+        width: 513
+        height: 1867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a98408fd4509ad0800000000000000
+      internalID: -2697562857888245154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_33
+      rect:
+        serializedVersion: 2
+        x: 19249
+        y: 2092
+        width: 514
+        height: 1870
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b827e177f1995210800000000000000
+      internalID: 1322248457563875508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_34
+      rect:
+        serializedVersion: 2
+        x: 21297
+        y: 2092
+        width: 514
+        height: 1872
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa045a7f482902830800000000000000
+      internalID: 4044393565166846127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_35
+      rect:
+        serializedVersion: 2
+        x: 23345
+        y: 2092
+        width: 513
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2cd2c9848641a50800000000000000
+      internalID: 6490927624014906089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_36
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 44
+        width: 513
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491869e0f375cd2a0800000000000000
+      internalID: -6711393416349580908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_37
+      rect:
+        serializedVersion: 2
+        x: 2865
+        y: 44
+        width: 513
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb57b9cd0c79bc0800000000000000
+      internalID: -3776337708793348367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_38
+      rect:
+        serializedVersion: 2
+        x: 4913
+        y: 44
+        width: 513
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd44d16a66ebe4e80800000000000000
+      internalID: -8192401324057475873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_39
+      rect:
+        serializedVersion: 2
+        x: 6960
+        y: 44
+        width: 514
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7b7fb6fc24aea0e0800000000000000
+      internalID: -2256685850240779395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_40
+      rect:
+        serializedVersion: 2
+        x: 9008
+        y: 44
+        width: 514
+        height: 1887
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2555c8afc0fb1c0800000000000000
+      internalID: -4485852433601965347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_41
+      rect:
+        serializedVersion: 2
+        x: 11056
+        y: 44
+        width: 514
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ebc4c33d9bec9270800000000000000
+      internalID: 8258734877101575140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_42
+      rect:
+        serializedVersion: 2
+        x: 13103
+        y: 44
+        width: 515
+        height: 1891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59b52b4417fa7690800000000000000
+      internalID: -7603493354329491107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_43
+      rect:
+        serializedVersion: 2
+        x: 15151
+        y: 44
+        width: 515
+        height: 1894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d1c5d072a1f3f3b0800000000000000
+      internalID: -5479770641599708720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: idle_gaz_44
+      rect:
+        serializedVersion: 2
+        x: 17199
+        y: 44
+        width: 515
+        height: 1896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7939c06fc89d63f70800000000000000
+      internalID: 9166753291005891479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      idle_gaz_0: -3877201239249502536
+      idle_gaz_1: -4410277484446192827
+      idle_gaz_10: -5957465551579469688
+      idle_gaz_11: 5807818440736394429
+      idle_gaz_12: 1884170053240064720
+      idle_gaz_13: 2284287859159164259
+      idle_gaz_14: 5478164353603638830
+      idle_gaz_15: 5422978992010445586
+      idle_gaz_16: 1484073615981630295
+      idle_gaz_17: -6123073731726961372
+      idle_gaz_18: 8525438682405247045
+      idle_gaz_19: 6987274083021036395
+      idle_gaz_2: 971610148354038540
+      idle_gaz_20: 33977615695318202
+      idle_gaz_21: 1420520359732548004
+      idle_gaz_22: -2358127569033317208
+      idle_gaz_23: -2900512950674769522
+      idle_gaz_24: 1538113414143955340
+      idle_gaz_25: 4176366613776964456
+      idle_gaz_26: -2087352930304809765
+      idle_gaz_27: -8125775512787831730
+      idle_gaz_28: 3663713689065582642
+      idle_gaz_29: -3004834696807954671
+      idle_gaz_3: 8091645967298457579
+      idle_gaz_30: -9032976237220935222
+      idle_gaz_31: 5848689079407964324
+      idle_gaz_32: -2697562857888245154
+      idle_gaz_33: 1322248457563875508
+      idle_gaz_34: 4044393565166846127
+      idle_gaz_35: 6490927624014906089
+      idle_gaz_36: -6711393416349580908
+      idle_gaz_37: -3776337708793348367
+      idle_gaz_38: -8192401324057475873
+      idle_gaz_39: -2256685850240779395
+      idle_gaz_4: -1746825586739085643
+      idle_gaz_40: -4485852433601965347
+      idle_gaz_41: 8258734877101575140
+      idle_gaz_42: -7603493354329491107
+      idle_gaz_43: -5479770641599708720
+      idle_gaz_44: 9166753291005891479
+      idle_gaz_5: -134189452144445669
+      idle_gaz_6: -9111432697986125437
+      idle_gaz_7: 2218366539190235621
+      idle_gaz_8: -8805420053893353152
+      idle_gaz_9: -1426709338331940017
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

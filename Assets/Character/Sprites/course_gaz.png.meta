@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: bf86e7ebdb7d7c545ba590504f9da367
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3460379411059291771
+    second: course_gaz_0
+  - first:
+      213: -1631530916103823147
+    second: course_gaz_1
+  - first:
+      213: -2530144233894222604
+    second: course_gaz_2
+  - first:
+      213: 8665306485746938893
+    second: course_gaz_3
+  - first:
+      213: 817978800460155005
+    second: course_gaz_4
+  - first:
+      213: -5909609081531802572
+    second: course_gaz_5
+  - first:
+      213: 3796277434788008872
+    second: course_gaz_6
+  - first:
+      213: -2129256472252705726
+    second: course_gaz_7
+  - first:
+      213: 3013387134016475497
+    second: course_gaz_8
+  - first:
+      213: 203165831279135125
+    second: course_gaz_9
+  - first:
+      213: 8119372135459383088
+    second: course_gaz_10
+  - first:
+      213: 827823538946900474
+    second: course_gaz_11
+  - first:
+      213: -490209493764899966
+    second: course_gaz_12
+  - first:
+      213: 7581400445852451100
+    second: course_gaz_13
+  - first:
+      213: 1017246650967494778
+    second: course_gaz_14
+  - first:
+      213: -5792189800452040073
+    second: course_gaz_15
+  - first:
+      213: -4776984786412395530
+    second: course_gaz_16
+  - first:
+      213: -1676075228955845627
+    second: course_gaz_17
+  - first:
+      213: 4772390574609227886
+    second: course_gaz_18
+  - first:
+      213: 7268274425155730617
+    second: course_gaz_19
+  - first:
+      213: 680953089089440080
+    second: course_gaz_20
+  - first:
+      213: -2631617732391892856
+    second: course_gaz_21
+  - first:
+      213: 2008192413847434534
+    second: course_gaz_22
+  - first:
+      213: -3371584931837924377
+    second: course_gaz_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: course_gaz_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 2103
+        width: 1004
+        height: 1864
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76b3409dbcb50030800000000000000
+      internalID: 3460379411059291771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_1
+      rect:
+        serializedVersion: 2
+        x: 2561
+        y: 2104
+        width: 934
+        height: 1845
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d06099a643ab59e0800000000000000
+      internalID: -1631530916103823147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_2
+      rect:
+        serializedVersion: 2
+        x: 4643
+        y: 2104
+        width: 864
+        height: 1826
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f46b3c793f13ecd0800000000000000
+      internalID: -2530144233894222604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_3
+      rect:
+        serializedVersion: 2
+        x: 6728
+        y: 2103
+        width: 818
+        height: 1851
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04b5d8865a514870800000000000000
+      internalID: 8665306485746938893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_4
+      rect:
+        serializedVersion: 2
+        x: 8813
+        y: 2103
+        width: 781
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784a3b926b0a5b00800000000000000
+      internalID: 817978800460155005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_5
+      rect:
+        serializedVersion: 2
+        x: 10994
+        y: 2102
+        width: 648
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43cdfddc9d9dcfda0800000000000000
+      internalID: -5909609081531802572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_6
+      rect:
+        serializedVersion: 2
+        x: 12978
+        y: 2102
+        width: 712
+        height: 1910
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3de51a6361fa430800000000000000
+      internalID: 3796277434788008872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_7
+      rect:
+        serializedVersion: 2
+        x: 14969
+        y: 2110
+        width: 769
+        height: 1909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2441daf058c5372e0800000000000000
+      internalID: -2129256472252705726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_8
+      rect:
+        serializedVersion: 2
+        x: 16961
+        y: 2118
+        width: 849
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961d8cdf1a3b1d920800000000000000
+      internalID: 3013387134016475497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_9
+      rect:
+        serializedVersion: 2
+        x: 19042
+        y: 2240
+        width: 846
+        height: 1786
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 599c3e34f3ac1d200800000000000000
+      internalID: 203165831279135125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_10
+      rect:
+        serializedVersion: 2
+        x: 21073
+        y: 2257
+        width: 895
+        height: 1771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037e24d50fdcda070800000000000000
+      internalID: 8119372135459383088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_11
+      rect:
+        serializedVersion: 2
+        x: 23066
+        y: 2183
+        width: 974
+        height: 1832
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af103a76f150d7b00800000000000000
+      internalID: 827823538946900474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_12
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 61
+        width: 1055
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28b7e9a001d6239f0800000000000000
+      internalID: -490209493764899966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_13
+      rect:
+        serializedVersion: 2
+        x: 2574
+        y: 57
+        width: 986
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11060b998b863960800000000000000
+      internalID: 7581400445852451100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_14
+      rect:
+        serializedVersion: 2
+        x: 4666
+        y: 52
+        width: 918
+        height: 1859
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a709fdf707cfd1e00800000000000000
+      internalID: 1017246650967494778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_15
+      rect:
+        serializedVersion: 2
+        x: 6750
+        y: 56
+        width: 850
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77a5a6890120e9fa0800000000000000
+      internalID: -5792189800452040073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_16
+      rect:
+        serializedVersion: 2
+        x: 8834
+        y: 60
+        width: 784
+        height: 1834
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3a17475adb4bdb0800000000000000
+      internalID: -4776984786412395530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_17
+      rect:
+        serializedVersion: 2
+        x: 11022
+        y: 62
+        width: 623
+        height: 1856
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50c5141a5726db8e0800000000000000
+      internalID: -1676075228955845627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_18
+      rect:
+        serializedVersion: 2
+        x: 13010
+        y: 64
+        width: 680
+        height: 1878
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60610141ffea3240800000000000000
+      internalID: 4772390574609227886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_19
+      rect:
+        serializedVersion: 2
+        x: 15001
+        y: 77
+        width: 737
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bcb679a4191ed460800000000000000
+      internalID: 7268274425155730617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_20
+      rect:
+        serializedVersion: 2
+        x: 16993
+        y: 90
+        width: 793
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05981e70a3b337900800000000000000
+      internalID: 680953089089440080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_21
+      rect:
+        serializedVersion: 2
+        x: 19039
+        y: 203
+        width: 795
+        height: 1754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88889248d9d9a7bd0800000000000000
+      internalID: -2631617732391892856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_22
+      rect:
+        serializedVersion: 2
+        x: 21034
+        y: 209
+        width: 883
+        height: 1739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625b20c4c588edb10800000000000000
+      internalID: 2008192413847434534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: course_gaz_23
+      rect:
+        serializedVersion: 2
+        x: 23058
+        y: 133
+        width: 930
+        height: 1801
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ebadbf2e59b531d0800000000000000
+      internalID: -3371584931837924377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      course_gaz_0: 3460379411059291771
+      course_gaz_1: -1631530916103823147
+      course_gaz_10: 8119372135459383088
+      course_gaz_11: 827823538946900474
+      course_gaz_12: -490209493764899966
+      course_gaz_13: 7581400445852451100
+      course_gaz_14: 1017246650967494778
+      course_gaz_15: -5792189800452040073
+      course_gaz_16: -4776984786412395530
+      course_gaz_17: -1676075228955845627
+      course_gaz_18: 4772390574609227886
+      course_gaz_19: 7268274425155730617
+      course_gaz_2: -2530144233894222604
+      course_gaz_20: 680953089089440080
+      course_gaz_21: -2631617732391892856
+      course_gaz_22: 2008192413847434534
+      course_gaz_23: -3371584931837924377
+      course_gaz_3: 8665306485746938893
+      course_gaz_4: 817978800460155005
+      course_gaz_5: -5909609081531802572
+      course_gaz_6: 3796277434788008872
+      course_gaz_7: -2129256472252705726
+      course_gaz_8: 3013387134016475497
+      course_gaz_9: 203165831279135125
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -21,14 +21,19 @@ namespace MaskSystem.Runtime
         [SerializeField] private Animator animator;
         [SerializeField] private MaskData baseMask;
         
+        [Header("Animator")]
         public AnimatorOverrideController gueparAnimator;
+        public AnimatorOverrideController HibouxAnimator;
+        public AnimatorOverrideController gazAnimator;
+        public AnimatorOverrideController shogunAnimator;
+        public AnimatorOverrideController baseAnimator;
         
         [Header("Réglages Dash")]
         public float dashForce = 25f;
         public float dashDuration = 0.2f;
         [SerializeField] ParticleSystem dashParticles;
         private Vector2 startParticlePos;
-        public AnimatorOverrideController shogunAnimator;
+        
         
         public AnimatorOverrideController AngeAnimator;
         [Header ("Réglages Cooldown")]
@@ -36,7 +41,7 @@ namespace MaskSystem.Runtime
         private bool isCooldown;
 
         
-        [SerializeField] AnimatorOverrideController baseAnimator;
+        
         
         
         void Awake()
@@ -72,6 +77,25 @@ namespace MaskSystem.Runtime
             {
                 if (health.IsAlive) health.Increment();
                 activeMask = baseMask;
+            }
+
+            if (activeMask.pouvoir == MaskData.TypePouvoir.SuperSaut)
+            {
+                movement.jumpTakeOffSpeed = 15f;
+                GetComponent<Animator>().runtimeAnimatorController = HibouxAnimator;
+            }
+            else
+            {
+                movement.jumpTakeOffSpeed = 9f;
+                GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
+            }
+            if (activeMask.pouvoir == MaskData.TypePouvoir.VisionGaz)
+            {
+                GetComponent<Animator>().runtimeAnimatorController = gazAnimator;
+            }
+            else
+            {
+                GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
             }
 
             if (activeMask.pouvoir == MaskData.TypePouvoir.Dash)
