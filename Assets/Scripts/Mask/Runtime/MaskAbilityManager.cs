@@ -21,6 +21,7 @@ namespace MaskSystem.Runtime
         [SerializeField] private Animator animator;
         [SerializeField] private MaskData baseMask;
         
+        public AnimatorOverrideController gueparAnimator;
         
         [Header("Réglages Dash")]
         public float dashForce = 25f;
@@ -29,6 +30,7 @@ namespace MaskSystem.Runtime
         private Vector2 startParticlePos;
         public AnimatorOverrideController shogunAnimator;
         
+        public AnimatorOverrideController AngeAnimator;
         [Header ("Réglages Cooldown")]
         public float cooldownDuration = 5f;
         private bool isCooldown;
@@ -55,12 +57,17 @@ namespace MaskSystem.Runtime
         private void Update()
         {
             if (activeMask.pouvoir == MaskData.TypePouvoir.Vitesse)
+            {
                 movement.maxSpeed = 15f;
+                GetComponent<Animator>().runtimeAnimatorController = gueparAnimator;
+            }
             else
             {
                 movement.maxSpeed = 6f;
+                GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
             }
 
+            
             if (activeMask.pouvoir == MaskData.TypePouvoir.Soin)
             {
                 if (health.IsAlive) health.Increment();
@@ -75,7 +82,16 @@ namespace MaskSystem.Runtime
             {
                GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
             }
-                
+
+            if (activeMask.pouvoir == MaskData.TypePouvoir.DoubleSaut)
+            {
+                GetComponent<Animator>().runtimeAnimatorController = AngeAnimator;    
+            }
+            else
+            {
+                GetComponent<Animator>().runtimeAnimatorController = baseAnimator;
+            }
+            
             
         }
 

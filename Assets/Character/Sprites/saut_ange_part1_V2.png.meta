@@ -1,0 +1,2171 @@
+fileFormatVersion: 2
+guid: 7bba0e10857ac2f49ba7f6b0eb2e6415
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8573289615903825520
+    second: saut_ange_part1_V2_0
+  - first:
+      213: -8205477561309422055
+    second: saut_ange_part1_V2_1
+  - first:
+      213: -6274823886446641961
+    second: saut_ange_part1_V2_2
+  - first:
+      213: 515560761194845325
+    second: saut_ange_part1_V2_3
+  - first:
+      213: 894971585898076292
+    second: saut_ange_part1_V2_4
+  - first:
+      213: 4176096910587949385
+    second: saut_ange_part1_V2_5
+  - first:
+      213: 3655729973185573715
+    second: saut_ange_part1_V2_6
+  - first:
+      213: 7513872911501238937
+    second: saut_ange_part1_V2_7
+  - first:
+      213: 5131789431821156959
+    second: saut_ange_part1_V2_8
+  - first:
+      213: 4180570608366808648
+    second: saut_ange_part1_V2_9
+  - first:
+      213: -6336414243862569255
+    second: saut_ange_part1_V2_10
+  - first:
+      213: -4155354227816328087
+    second: saut_ange_part1_V2_11
+  - first:
+      213: 9199050565209451370
+    second: saut_ange_part1_V2_12
+  - first:
+      213: 1479706093580129402
+    second: saut_ange_part1_V2_13
+  - first:
+      213: -1790413617146318273
+    second: saut_ange_part1_V2_14
+  - first:
+      213: 1223546511793657589
+    second: saut_ange_part1_V2_15
+  - first:
+      213: -6592692331377202227
+    second: saut_ange_part1_V2_16
+  - first:
+      213: -7225427111317533255
+    second: saut_ange_part1_V2_17
+  - first:
+      213: -362876399626432995
+    second: saut_ange_part1_V2_18
+  - first:
+      213: 1510855241112663328
+    second: saut_ange_part1_V2_19
+  - first:
+      213: 8754718380244555734
+    second: saut_ange_part1_V2_20
+  - first:
+      213: 3890469141396719589
+    second: saut_ange_part1_V2_21
+  - first:
+      213: -2062826076943319436
+    second: saut_ange_part1_V2_22
+  - first:
+      213: -8669983474517260034
+    second: saut_ange_part1_V2_23
+  - first:
+      213: -7273260482798084810
+    second: saut_ange_part1_V2_24
+  - first:
+      213: 1573942824440359173
+    second: saut_ange_part1_V2_25
+  - first:
+      213: 781927702951449396
+    second: saut_ange_part1_V2_26
+  - first:
+      213: 6965176502850120479
+    second: saut_ange_part1_V2_27
+  - first:
+      213: 7883270051191213911
+    second: saut_ange_part1_V2_28
+  - first:
+      213: -3910291809912630605
+    second: saut_ange_part1_V2_29
+  - first:
+      213: -1095337625572463777
+    second: saut_ange_part1_V2_30
+  - first:
+      213: 6984466385686250678
+    second: saut_ange_part1_V2_31
+  - first:
+      213: 1481989240032368452
+    second: saut_ange_part1_V2_32
+  - first:
+      213: 6532639968277727047
+    second: saut_ange_part1_V2_33
+  - first:
+      213: 7060164443963845685
+    second: saut_ange_part1_V2_34
+  - first:
+      213: 9080943518971474020
+    second: saut_ange_part1_V2_35
+  - first:
+      213: 6063649777181612013
+    second: saut_ange_part1_V2_36
+  - first:
+      213: 8351353827474381311
+    second: saut_ange_part1_V2_37
+  - first:
+      213: -2561358201094435034
+    second: saut_ange_part1_V2_38
+  - first:
+      213: -3569755448475639675
+    second: saut_ange_part1_V2_39
+  - first:
+      213: 7587803268107280358
+    second: saut_ange_part1_V2_40
+  - first:
+      213: 2851626021248399363
+    second: saut_ange_part1_V2_41
+  - first:
+      213: 2141941715831559790
+    second: saut_ange_part1_V2_42
+  - first:
+      213: 1265806240357768295
+    second: saut_ange_part1_V2_43
+  - first:
+      213: -7589401195447517436
+    second: saut_ange_part1_V2_44
+  - first:
+      213: 6306315310819468977
+    second: saut_ange_part1_V2_45
+  - first:
+      213: 1015129021961150339
+    second: saut_ange_part1_V2_46
+  - first:
+      213: 8577805841785335094
+    second: saut_ange_part1_V2_47
+  - first:
+      213: -5656212153673448066
+    second: saut_ange_part1_V2_48
+  - first:
+      213: -7324706723322657419
+    second: saut_ange_part1_V2_49
+  - first:
+      213: -8808741357334182071
+    second: saut_ange_part1_V2_50
+  - first:
+      213: -543600040142653464
+    second: saut_ange_part1_V2_51
+  - first:
+      213: -3214822969791650825
+    second: saut_ange_part1_V2_52
+  - first:
+      213: -8432939467152018616
+    second: saut_ange_part1_V2_53
+  - first:
+      213: -7571179885809923659
+    second: saut_ange_part1_V2_54
+  - first:
+      213: 8781656895604838496
+    second: saut_ange_part1_V2_55
+  - first:
+      213: 2892364546261525679
+    second: saut_ange_part1_V2_56
+  - first:
+      213: 7205133686278310699
+    second: saut_ange_part1_V2_57
+  - first:
+      213: 2302117454568496096
+    second: saut_ange_part1_V2_58
+  - first:
+      213: -6126683396362482038
+    second: saut_ange_part1_V2_59
+  - first:
+      213: -8949926957088509828
+    second: saut_ange_part1_V2_60
+  - first:
+      213: 3530974664172068140
+    second: saut_ange_part1_V2_61
+  - first:
+      213: 6531235423108217393
+    second: saut_ange_part1_V2_62
+  - first:
+      213: 7449908025730894933
+    second: saut_ange_part1_V2_63
+  - first:
+      213: -7991076406446406607
+    second: saut_ange_part1_V2_64
+  - first:
+      213: -8075408907716785748
+    second: saut_ange_part1_V2_65
+  - first:
+      213: -2428790657850404721
+    second: saut_ange_part1_V2_66
+  - first:
+      213: 1033008251424197413
+    second: saut_ange_part1_V2_67
+  - first:
+      213: -1221687798501047836
+    second: saut_ange_part1_V2_68
+  - first:
+      213: -6428904949503817440
+    second: saut_ange_part1_V2_69
+  - first:
+      213: -2779910375093984034
+    second: saut_ange_part1_V2_70
+  - first:
+      213: -4641130847221627846
+    second: saut_ange_part1_V2_71
+  - first:
+      213: 1784548939240798700
+    second: saut_ange_part1_V2_72
+  - first:
+      213: -6700198539030876367
+    second: saut_ange_part1_V2_73
+  - first:
+      213: 1544869863017126167
+    second: saut_ange_part1_V2_74
+  - first:
+      213: 2129672533712384958
+    second: saut_ange_part1_V2_75
+  - first:
+      213: -3622145352037250664
+    second: saut_ange_part1_V2_76
+  - first:
+      213: 4571280210445563375
+    second: saut_ange_part1_V2_77
+  - first:
+      213: 9009828168212577624
+    second: saut_ange_part1_V2_78
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8237
+        width: 571
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e1e708b717af670800000000000000
+      internalID: 8573289615903825520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_1
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 8238
+        width: 615
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e96b9e1a9402e80800000000000000
+      internalID: -8205477561309422055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_2
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 8239
+        width: 661
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc3634bbe85be8a0800000000000000
+      internalID: -6274823886446641961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_3
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 8240
+        width: 785
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84162fd7c3a72700800000000000000
+      internalID: 515560761194845325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_4
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 8241
+        width: 733
+        height: 1792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 488d5856ae39b6c00800000000000000
+      internalID: 894971585898076292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_5
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 8243
+        width: 762
+        height: 1789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9417337a30a74f930800000000000000
+      internalID: 4176096910587949385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_6
+      rect:
+        serializedVersion: 2
+        x: 11473
+        y: 10005
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 353797eaa03cbb230800000000000000
+      internalID: 3655729973185573715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_7
+      rect:
+        serializedVersion: 2
+        x: 11531
+        y: 9999
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99226715a93a64860800000000000000
+      internalID: 7513872911501238937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_8
+      rect:
+        serializedVersion: 2
+        x: 13415
+        y: 9948
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f52cdc18c47c73740800000000000000
+      internalID: 5131789431821156959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_9
+      rect:
+        serializedVersion: 2
+        x: 13497
+        y: 10005
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e642691de540a30800000000000000
+      internalID: 4180570608366808648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_10
+      rect:
+        serializedVersion: 2
+        x: 13579
+        y: 9999
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de98d421d88018a0800000000000000
+      internalID: -6336414243862569255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_11
+      rect:
+        serializedVersion: 2
+        x: 15463
+        y: 9948
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964171788573556c0800000000000000
+      internalID: -4155354227816328087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_12
+      rect:
+        serializedVersion: 2
+        x: 15545
+        y: 10005
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6b6a2a10c799af70800000000000000
+      internalID: 9199050565209451370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_13
+      rect:
+        serializedVersion: 2
+        x: 15627
+        y: 9999
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7413df2ad8f88410800000000000000
+      internalID: 1479706093580129402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_14
+      rect:
+        serializedVersion: 2
+        x: 17511
+        y: 9948
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32b8fc1d4c2727e0800000000000000
+      internalID: -1790413617146318273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_15
+      rect:
+        serializedVersion: 2
+        x: 17593
+        y: 10005
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f611a1e119eaf010800000000000000
+      internalID: 1223546511793657589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_16
+      rect:
+        serializedVersion: 2
+        x: 17675
+        y: 9999
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbe1d2114d0284a0800000000000000
+      internalID: -6592692331377202227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_17
+      rect:
+        serializedVersion: 2
+        x: 19559
+        y: 9948
+        width: 31
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bd017ff2502abb90800000000000000
+      internalID: -7225427111317533255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_18
+      rect:
+        serializedVersion: 2
+        x: 19641
+        y: 10005
+        width: 51
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ec4ee46ddc6faf0800000000000000
+      internalID: -362876399626432995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_19
+      rect:
+        serializedVersion: 2
+        x: 19723
+        y: 9999
+        width: 101
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 025be8146d2a7f410800000000000000
+      internalID: 1510855241112663328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_20
+      rect:
+        serializedVersion: 2
+        x: 21316
+        y: 8243
+        width: 746
+        height: 1789
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d75f0b7bf10f7970800000000000000
+      internalID: 8754718380244555734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_21
+      rect:
+        serializedVersion: 2
+        x: 21713
+        y: 10005
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e7029e4219bdf530800000000000000
+      internalID: 3890469141396719589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_22
+      rect:
+        serializedVersion: 2
+        x: 21771
+        y: 9999
+        width: 51
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e7162cc9e5f53e0800000000000000
+      internalID: -2062826076943319436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_23
+      rect:
+        serializedVersion: 2
+        x: 23339
+        y: 8242
+        width: 756
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef844e827f70ea780800000000000000
+      internalID: -8669983474517260034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_24
+      rect:
+        serializedVersion: 2
+        x: 13647
+        y: 9945
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d1fe35020301b90800000000000000
+      internalID: -7273260482798084810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_25
+      rect:
+        serializedVersion: 2
+        x: 15675
+        y: 9928
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 509ea83e8a4c7d510800000000000000
+      internalID: 1573942824440359173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_26
+      rect:
+        serializedVersion: 2
+        x: 17723
+        y: 9928
+        width: 44
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 433557e5a17f9da00800000000000000
+      internalID: 781927702951449396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_27
+      rect:
+        serializedVersion: 2
+        x: 19226
+        y: 8244
+        width: 803
+        height: 1709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1b6742502749a060800000000000000
+      internalID: 6965176502850120479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_28
+      rect:
+        serializedVersion: 2
+        x: 19801
+        y: 9950
+        width: 14
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f4abd1850076d60800000000000000
+      internalID: 7883270051191213911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_29
+      rect:
+        serializedVersion: 2
+        x: 13022
+        y: 8244
+        width: 806
+        height: 1692
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2d906015adbb9c0800000000000000
+      internalID: -3910291809912630605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_30
+      rect:
+        serializedVersion: 2
+        x: 13415
+        y: 9922
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b22ae9b349cc0f0800000000000000
+      internalID: -1095337625572463777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_31
+      rect:
+        serializedVersion: 2
+        x: 15463
+        y: 9922
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b44c782c2fcde060800000000000000
+      internalID: 6984466385686250678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_32
+      rect:
+        serializedVersion: 2
+        x: 17511
+        y: 9922
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4479415ac55119410800000000000000
+      internalID: 1481989240032368452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_33
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 8245
+        width: 850
+        height: 1658
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74786b2907998aa50800000000000000
+      internalID: 6532639968277727047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_34
+      rect:
+        serializedVersion: 2
+        x: 15694
+        y: 9898
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cee4ac72ebaf160800000000000000
+      internalID: 7060164443963845685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_35
+      rect:
+        serializedVersion: 2
+        x: 17136
+        y: 8245
+        width: 785
+        height: 1668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4603ea1840ef50e70800000000000000
+      internalID: 9080943518971474020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_36
+      rect:
+        serializedVersion: 2
+        x: 17742
+        y: 9898
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de759438859662450800000000000000
+      internalID: 6063649777181612013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_37
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6193
+        width: 764
+        height: 1830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff995380f08f5e370800000000000000
+      internalID: 8351353827474381311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_38
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 6192
+        width: 789
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f8b39694a347cd0800000000000000
+      internalID: -2561358201094435034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_39
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 6197
+        width: 805
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 580289e355ea57ec0800000000000000
+      internalID: -3569755448475639675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_40
+      rect:
+        serializedVersion: 2
+        x: 6899
+        y: 6201
+        width: 816
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ef1515deda4d4960800000000000000
+      internalID: 7587803268107280358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_41
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 6206
+        width: 822
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30875ccf1c2039720800000000000000
+      internalID: 2851626021248399363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_42
+      rect:
+        serializedVersion: 2
+        x: 10988
+        y: 6211
+        width: 824
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e661bbd54a4b9bd10800000000000000
+      internalID: 2141941715831559790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_43
+      rect:
+        serializedVersion: 2
+        x: 13033
+        y: 6216
+        width: 825
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c5ffea11c019110800000000000000
+      internalID: 1265806240357768295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_44
+      rect:
+        serializedVersion: 2
+        x: 15078
+        y: 6221
+        width: 826
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40ffc67b2d70da690800000000000000
+      internalID: -7589401195447517436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_45
+      rect:
+        serializedVersion: 2
+        x: 17122
+        y: 6225
+        width: 828
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b66007ec58848750800000000000000
+      internalID: 6306315310819468977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_46
+      rect:
+        serializedVersion: 2
+        x: 19167
+        y: 6230
+        width: 829
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f1f239776761e00800000000000000
+      internalID: 1015129021961150339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_47
+      rect:
+        serializedVersion: 2
+        x: 21211
+        y: 6235
+        width: 831
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63da2e747fc7a0770800000000000000
+      internalID: 8577805841785335094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_48
+      rect:
+        serializedVersion: 2
+        x: 23256
+        y: 6240
+        width: 832
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e750c0e93091181b0800000000000000
+      internalID: -5656212153673448066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_49
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4196
+        width: 833
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57500780b0a695a90800000000000000
+      internalID: -7324706723322657419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_50
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 4201
+        width: 835
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947cdcdf76011c580800000000000000
+      internalID: -8808741357334182071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_51
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 4206
+        width: 835
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e7b863c4aeb478f0800000000000000
+      internalID: -543600040142653464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_52
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 4211
+        width: 837
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f36dc5ba87a263d0800000000000000
+      internalID: -3214822969791650825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_53
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8433808fb3e28fa80800000000000000
+      internalID: -8432939467152018616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_54
+      rect:
+        serializedVersion: 2
+        x: 10951
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b987b7f104cde690800000000000000
+      internalID: -7571179885809923659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_55
+      rect:
+        serializedVersion: 2
+        x: 12999
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060d2e95b66bed970800000000000000
+      internalID: 8781656895604838496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_56
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42adcfa3eb32820800000000000000
+      internalID: 2892364546261525679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_57
+      rect:
+        serializedVersion: 2
+        x: 17095
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2bc1d9c9e6cdf360800000000000000
+      internalID: 7205133686278310699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_58
+      rect:
+        serializedVersion: 2
+        x: 19143
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eb18c6b0a3c2ff10800000000000000
+      internalID: 2302117454568496096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_59
+      rect:
+        serializedVersion: 2
+        x: 21191
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8ec78c59e5a9faa0800000000000000
+      internalID: -6126683396362482038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_60
+      rect:
+        serializedVersion: 2
+        x: 23239
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c70fb0de9d87bc380800000000000000
+      internalID: -8949926957088509828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_61
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2d51e8cfba800130800000000000000
+      internalID: 3530974664172068140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_62
+      rect:
+        serializedVersion: 2
+        x: 2759
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a30da630c93aa50800000000000000
+      internalID: 6531235423108217393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_63
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c850bc0e3636760800000000000000
+      internalID: 7449908025730894933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_64
+      rect:
+        serializedVersion: 2
+        x: 6855
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 134c1ccc85ef91190800000000000000
+      internalID: -7991076406446406607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_65
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 2168
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9048f32626eef80800000000000000
+      internalID: -8075408907716785748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_66
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f801a05d3c33b4ed0800000000000000
+      internalID: -2428790657850404721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_67
+      rect:
+        serializedVersion: 2
+        x: 12996
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52bcf24188bf55e00800000000000000
+      internalID: 1033008251424197413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_68
+      rect:
+        serializedVersion: 2
+        x: 15044
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e18ae78b61bb0fe0800000000000000
+      internalID: -1221687798501047836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_69
+      rect:
+        serializedVersion: 2
+        x: 17092
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029031e9201f7c6a0800000000000000
+      internalID: -6428904949503817440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_70
+      rect:
+        serializedVersion: 2
+        x: 19140
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4a9111e36cb69d0800000000000000
+      internalID: -2779910375093984034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_71
+      rect:
+        serializedVersion: 2
+        x: 21188
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a344f3f8514679fb0800000000000000
+      internalID: -4641130847221627846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_72
+      rect:
+        serializedVersion: 2
+        x: 23236
+        y: 2172
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce97fb72ecdf3c810800000000000000
+      internalID: 1784548939240798700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_73
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f297c8dec1403a0800000000000000
+      internalID: -6700198539030876367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_74
+      rect:
+        serializedVersion: 2
+        x: 2756
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719975194fa707510800000000000000
+      internalID: 1544869863017126167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_75
+      rect:
+        serializedVersion: 2
+        x: 4804
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb335dbc2ed1e8d10800000000000000
+      internalID: 2129672533712384958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_76
+      rect:
+        serializedVersion: 2
+        x: 6852
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 899ccf64efd8bbdc0800000000000000
+      internalID: -3622145352037250664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_77
+      rect:
+        serializedVersion: 2
+        x: 8900
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe57168b123707f30800000000000000
+      internalID: 4571280210445563375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_ange_part1_V2_78
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 124
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d7e9d9bf6590d70800000000000000
+      internalID: 9009828168212577624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      saut_ange_part1_V2_0: 8573289615903825520
+      saut_ange_part1_V2_1: -8205477561309422055
+      saut_ange_part1_V2_10: -6336414243862569255
+      saut_ange_part1_V2_11: -4155354227816328087
+      saut_ange_part1_V2_12: 9199050565209451370
+      saut_ange_part1_V2_13: 1479706093580129402
+      saut_ange_part1_V2_14: -1790413617146318273
+      saut_ange_part1_V2_15: 1223546511793657589
+      saut_ange_part1_V2_16: -6592692331377202227
+      saut_ange_part1_V2_17: -7225427111317533255
+      saut_ange_part1_V2_18: -362876399626432995
+      saut_ange_part1_V2_19: 1510855241112663328
+      saut_ange_part1_V2_2: -6274823886446641961
+      saut_ange_part1_V2_20: 8754718380244555734
+      saut_ange_part1_V2_21: 3890469141396719589
+      saut_ange_part1_V2_22: -2062826076943319436
+      saut_ange_part1_V2_23: -8669983474517260034
+      saut_ange_part1_V2_24: -7273260482798084810
+      saut_ange_part1_V2_25: 1573942824440359173
+      saut_ange_part1_V2_26: 781927702951449396
+      saut_ange_part1_V2_27: 6965176502850120479
+      saut_ange_part1_V2_28: 7883270051191213911
+      saut_ange_part1_V2_29: -3910291809912630605
+      saut_ange_part1_V2_3: 515560761194845325
+      saut_ange_part1_V2_30: -1095337625572463777
+      saut_ange_part1_V2_31: 6984466385686250678
+      saut_ange_part1_V2_32: 1481989240032368452
+      saut_ange_part1_V2_33: 6532639968277727047
+      saut_ange_part1_V2_34: 7060164443963845685
+      saut_ange_part1_V2_35: 9080943518971474020
+      saut_ange_part1_V2_36: 6063649777181612013
+      saut_ange_part1_V2_37: 8351353827474381311
+      saut_ange_part1_V2_38: -2561358201094435034
+      saut_ange_part1_V2_39: -3569755448475639675
+      saut_ange_part1_V2_4: 894971585898076292
+      saut_ange_part1_V2_40: 7587803268107280358
+      saut_ange_part1_V2_41: 2851626021248399363
+      saut_ange_part1_V2_42: 2141941715831559790
+      saut_ange_part1_V2_43: 1265806240357768295
+      saut_ange_part1_V2_44: -7589401195447517436
+      saut_ange_part1_V2_45: 6306315310819468977
+      saut_ange_part1_V2_46: 1015129021961150339
+      saut_ange_part1_V2_47: 8577805841785335094
+      saut_ange_part1_V2_48: -5656212153673448066
+      saut_ange_part1_V2_49: -7324706723322657419
+      saut_ange_part1_V2_5: 4176096910587949385
+      saut_ange_part1_V2_50: -8808741357334182071
+      saut_ange_part1_V2_51: -543600040142653464
+      saut_ange_part1_V2_52: -3214822969791650825
+      saut_ange_part1_V2_53: -8432939467152018616
+      saut_ange_part1_V2_54: -7571179885809923659
+      saut_ange_part1_V2_55: 8781656895604838496
+      saut_ange_part1_V2_56: 2892364546261525679
+      saut_ange_part1_V2_57: 7205133686278310699
+      saut_ange_part1_V2_58: 2302117454568496096
+      saut_ange_part1_V2_59: -6126683396362482038
+      saut_ange_part1_V2_6: 3655729973185573715
+      saut_ange_part1_V2_60: -8949926957088509828
+      saut_ange_part1_V2_61: 3530974664172068140
+      saut_ange_part1_V2_62: 6531235423108217393
+      saut_ange_part1_V2_63: 7449908025730894933
+      saut_ange_part1_V2_64: -7991076406446406607
+      saut_ange_part1_V2_65: -8075408907716785748
+      saut_ange_part1_V2_66: -2428790657850404721
+      saut_ange_part1_V2_67: 1033008251424197413
+      saut_ange_part1_V2_68: -1221687798501047836
+      saut_ange_part1_V2_69: -6428904949503817440
+      saut_ange_part1_V2_7: 7513872911501238937
+      saut_ange_part1_V2_70: -2779910375093984034
+      saut_ange_part1_V2_71: -4641130847221627846
+      saut_ange_part1_V2_72: 1784548939240798700
+      saut_ange_part1_V2_73: -6700198539030876367
+      saut_ange_part1_V2_74: 1544869863017126167
+      saut_ange_part1_V2_75: 2129672533712384958
+      saut_ange_part1_V2_76: -3622145352037250664
+      saut_ange_part1_V2_77: 4571280210445563375
+      saut_ange_part1_V2_78: 9009828168212577624
+      saut_ange_part1_V2_8: 5131789431821156959
+      saut_ange_part1_V2_9: 4180570608366808648
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
