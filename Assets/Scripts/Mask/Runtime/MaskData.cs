@@ -7,7 +7,7 @@ namespace MaskSystem.Runtime
     {
         public string nom;
         public Sprite sprite;
-        public enum TypePouvoir { Aucun, Dash, DoubleSaut, Vitesse, SuperSaut, TraverserMur, VisionGaz, VisionNoir, Soin }
+        public enum TypePouvoir { Aucun, Dash, DoubleSaut, Vitesse, SuperSaut, VisionGaz, Soin }
         public TypePouvoir pouvoir;
     }
 }

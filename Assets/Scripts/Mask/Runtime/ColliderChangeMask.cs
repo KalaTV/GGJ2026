@@ -15,7 +15,6 @@ namespace MaskSystem.Runtime
             if (other.CompareTag("Player"))
             {
                 inventory.EquipMask(mask);
-                
             }
         }
     }

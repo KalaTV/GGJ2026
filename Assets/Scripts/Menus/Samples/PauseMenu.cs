@@ -13,7 +13,11 @@ public class PauseMenu : MonoBehaviour
         SaveVolume();
         LoadVolume();
     }
- 
+
+    public void QuitGame()
+    {
+        LevelManager.Instance.LoadScene("MainMenu", "CrossFade");
+    }
     public void UpdateMusicVolume(float volume)
     {
         volume = musicSlider.value;

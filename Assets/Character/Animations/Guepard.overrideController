@@ -7,5 +7,11 @@ AnimatorOverrideController:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: Guepard
-  m_Controller: {fileID: 0}
-  m_Clips: []
+  m_Controller: {fileID: 9100000, guid: b09e60546065cf9448b36ebb7f759a91, type: 2}
+  m_Clips:
+  - m_OriginalClip: {fileID: 7400000, guid: 5581db4b56ad1b14782d823c4988ebf3, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f6be3d3a687cac24f9918da86fbae037, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: 188620cf328c7074eb15c4a581bba2bd, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: 030cb657156273b42bf74fda46bcd8bf, type: 2}
+  - m_OriginalClip: {fileID: 7400000, guid: aed95d721beb47242991e99feeace0d5, type: 2}
+    m_OverrideClip: {fileID: 7400000, guid: f2a817db6b39dd648bcacba1c2b6011c, type: 2}

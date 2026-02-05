@@ -1,0 +1,2249 @@
+fileFormatVersion: 2
+guid: 5ab1cf65885a94b41829fdb13d685e5c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8501265597346222430
+    second: saut_hibou_0
+  - first:
+      213: -2036710171569048332
+    second: saut_hibou_1
+  - first:
+      213: -4585141134634220512
+    second: saut_hibou_2
+  - first:
+      213: 5676276434709555991
+    second: saut_hibou_3
+  - first:
+      213: -8694215186848878439
+    second: saut_hibou_4
+  - first:
+      213: 7165460072462071929
+    second: saut_hibou_5
+  - first:
+      213: -2897475048211929733
+    second: saut_hibou_6
+  - first:
+      213: 7608440942372685771
+    second: saut_hibou_7
+  - first:
+      213: -8100952885745700503
+    second: saut_hibou_8
+  - first:
+      213: 3130879245187021053
+    second: saut_hibou_9
+  - first:
+      213: 5273238415045727936
+    second: saut_hibou_10
+  - first:
+      213: 7588330091942985967
+    second: saut_hibou_11
+  - first:
+      213: 1879068133317795782
+    second: saut_hibou_12
+  - first:
+      213: -6506109672285785191
+    second: saut_hibou_13
+  - first:
+      213: -4742313718729246289
+    second: saut_hibou_14
+  - first:
+      213: 1344225961931640434
+    second: saut_hibou_15
+  - first:
+      213: 3708216884344815525
+    second: saut_hibou_16
+  - first:
+      213: 7589860933071564139
+    second: saut_hibou_17
+  - first:
+      213: 5052525243250038992
+    second: saut_hibou_18
+  - first:
+      213: -1403252089835207360
+    second: saut_hibou_19
+  - first:
+      213: 2442203205914410147
+    second: saut_hibou_20
+  - first:
+      213: 8176327992254218459
+    second: saut_hibou_21
+  - first:
+      213: 4548574913139409410
+    second: saut_hibou_22
+  - first:
+      213: 3934053025915949665
+    second: saut_hibou_23
+  - first:
+      213: 1113569956668896500
+    second: saut_hibou_24
+  - first:
+      213: 866095416056945529
+    second: saut_hibou_25
+  - first:
+      213: -7469291378346812169
+    second: saut_hibou_26
+  - first:
+      213: -9013280497166688535
+    second: saut_hibou_27
+  - first:
+      213: -5029213968018264135
+    second: saut_hibou_28
+  - first:
+      213: -1906685370842950991
+    second: saut_hibou_29
+  - first:
+      213: 947686066822117121
+    second: saut_hibou_30
+  - first:
+      213: 5505263691194576621
+    second: saut_hibou_31
+  - first:
+      213: 749990384985979998
+    second: saut_hibou_32
+  - first:
+      213: -345416785098353323
+    second: saut_hibou_33
+  - first:
+      213: 4846938505928560924
+    second: saut_hibou_34
+  - first:
+      213: 7064987705266112931
+    second: saut_hibou_35
+  - first:
+      213: 8614153107495140935
+    second: saut_hibou_36
+  - first:
+      213: -5534588031786725999
+    second: saut_hibou_37
+  - first:
+      213: 6747539275613476766
+    second: saut_hibou_38
+  - first:
+      213: 142871486998243368
+    second: saut_hibou_39
+  - first:
+      213: -8402319064654730404
+    second: saut_hibou_40
+  - first:
+      213: 2456036415759480776
+    second: saut_hibou_41
+  - first:
+      213: 530948894219281519
+    second: saut_hibou_42
+  - first:
+      213: -1535060387290752394
+    second: saut_hibou_43
+  - first:
+      213: -373003704137827166
+    second: saut_hibou_44
+  - first:
+      213: 8785823529562733498
+    second: saut_hibou_45
+  - first:
+      213: -808081982677685090
+    second: saut_hibou_46
+  - first:
+      213: -7189875966224641973
+    second: saut_hibou_47
+  - first:
+      213: -1319117838867801031
+    second: saut_hibou_48
+  - first:
+      213: 8874103067946285916
+    second: saut_hibou_49
+  - first:
+      213: -3433946016143801450
+    second: saut_hibou_50
+  - first:
+      213: 4745304051991731284
+    second: saut_hibou_51
+  - first:
+      213: -7493266337902883712
+    second: saut_hibou_52
+  - first:
+      213: 8150597258659470268
+    second: saut_hibou_53
+  - first:
+      213: -5225511849913074175
+    second: saut_hibou_54
+  - first:
+      213: 2990075592621169765
+    second: saut_hibou_55
+  - first:
+      213: 1307400772550892638
+    second: saut_hibou_56
+  - first:
+      213: -8795554828921522806
+    second: saut_hibou_57
+  - first:
+      213: -8502340637081850702
+    second: saut_hibou_58
+  - first:
+      213: -8955168685700284767
+    second: saut_hibou_59
+  - first:
+      213: 4721599630858927224
+    second: saut_hibou_60
+  - first:
+      213: -589780670654735618
+    second: saut_hibou_61
+  - first:
+      213: 5954995645508880376
+    second: saut_hibou_62
+  - first:
+      213: 7083939071291796972
+    second: saut_hibou_63
+  - first:
+      213: -3855205611799631615
+    second: saut_hibou_64
+  - first:
+      213: 6892425765691435759
+    second: saut_hibou_65
+  - first:
+      213: 3615004585895839676
+    second: saut_hibou_66
+  - first:
+      213: -4482598118548173228
+    second: saut_hibou_67
+  - first:
+      213: -8230925888858643963
+    second: saut_hibou_68
+  - first:
+      213: -1174376418119694422
+    second: saut_hibou_69
+  - first:
+      213: -8350708635488542419
+    second: saut_hibou_70
+  - first:
+      213: 8754576756324230337
+    second: saut_hibou_71
+  - first:
+      213: -2337243572943557506
+    second: saut_hibou_72
+  - first:
+      213: 3312711986839988243
+    second: saut_hibou_73
+  - first:
+      213: 8933612313773928666
+    second: saut_hibou_74
+  - first:
+      213: -7507695220218737822
+    second: saut_hibou_75
+  - first:
+      213: -1207751692827330558
+    second: saut_hibou_76
+  - first:
+      213: -5860738557635284548
+    second: saut_hibou_77
+  - first:
+      213: 367273786358813817
+    second: saut_hibou_78
+  - first:
+      213: -4437818141676466735
+    second: saut_hibou_79
+  - first:
+      213: -4095206368052504126
+    second: saut_hibou_80
+  - first:
+      213: -2421620510086614305
+    second: saut_hibou_81
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saut_hibou_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8237
+        width: 484
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeede81bff650a80800000000000000
+      internalID: -8501265597346222430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_1
+      rect:
+        serializedVersion: 2
+        x: 1358
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4b331d3e62cb3e0800000000000000
+      internalID: -2036710171569048332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_2
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 8238
+        width: 528
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02488116e6e4e50c0800000000000000
+      internalID: -4585141134634220512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_3
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ba8c9d75f26ce40800000000000000
+      internalID: 5676276434709555991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_4
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 8239
+        width: 640
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990f01bf951f75780800000000000000
+      internalID: -8694215186848878439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_5
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 8240
+        width: 785
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978b85fb8f3d07360800000000000000
+      internalID: 7165460072462071929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_6
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 8241
+        width: 733
+        height: 1808
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7525cd8bc91ac7d0800000000000000
+      internalID: -2897475048211929733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_7
+      rect:
+        serializedVersion: 2
+        x: 9550
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc789a0d9bc969960800000000000000
+      internalID: 7608440942372685771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_8
+      rect:
+        serializedVersion: 2
+        x: 11426
+        y: 10022
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961b3f66542a39f80800000000000000
+      internalID: -8100952885745700503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_9
+      rect:
+        serializedVersion: 2
+        x: 11598
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8f30cd51e137b20800000000000000
+      internalID: 3130879245187021053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_10
+      rect:
+        serializedVersion: 2
+        x: 13407
+        y: 9998
+        width: 178
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c69eb0566e4e2940800000000000000
+      internalID: 5273238415045727936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_11
+      rect:
+        serializedVersion: 2
+        x: 13646
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe04ba0930a2f4960800000000000000
+      internalID: 7588330091942985967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_12
+      rect:
+        serializedVersion: 2
+        x: 15455
+        y: 9941
+        width: 178
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfd923f28ac31a10800000000000000
+      internalID: 1879068133317795782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_13
+      rect:
+        serializedVersion: 2
+        x: 15694
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9933ca159b7a5b5a0800000000000000
+      internalID: -6506109672285785191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_14
+      rect:
+        serializedVersion: 2
+        x: 17503
+        y: 9998
+        width: 178
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa97ea57ccaef2eb0800000000000000
+      internalID: -4742313718729246289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_15
+      rect:
+        serializedVersion: 2
+        x: 17742
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e0bcee366a7a210800000000000000
+      internalID: 1344225961931640434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_16
+      rect:
+        serializedVersion: 2
+        x: 19618
+        y: 10022
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5af7a7dfb9b367330800000000000000
+      internalID: 3708216884344815525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_17
+      rect:
+        serializedVersion: 2
+        x: 19790
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d685a4e4a945960800000000000000
+      internalID: 7589860933071564139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_18
+      rect:
+        serializedVersion: 2
+        x: 21666
+        y: 10022
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8dc9670fc2e1640800000000000000
+      internalID: 5052525243250038992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_19
+      rect:
+        serializedVersion: 2
+        x: 21838
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0454c07b8a5a68ce0800000000000000
+      internalID: -1403252089835207360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_20
+      rect:
+        serializedVersion: 2
+        x: 23339
+        y: 8242
+        width: 756
+        height: 1807
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac39dd50e274e120800000000000000
+      internalID: 2442203205914410147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_21
+      rect:
+        serializedVersion: 2
+        x: 23886
+        y: 10031
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd045692df6287170800000000000000
+      internalID: 8176327992254218459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_22
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 8243
+        width: 702
+        height: 1772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2028debb8c8cf1f30800000000000000
+      internalID: 4548574913139409410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_23
+      rect:
+        serializedVersion: 2
+        x: 13022
+        y: 8244
+        width: 740
+        height: 1700
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16255413260989630800000000000000
+      internalID: 3934053025915949665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_24
+      rect:
+        serializedVersion: 2
+        x: 15495
+        y: 9880
+        width: 27
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4fbc3c9f1347f00800000000000000
+      internalID: 1113569956668896500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_25
+      rect:
+        serializedVersion: 2
+        x: 17136
+        y: 8245
+        width: 785
+        height: 1699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97b1baf213df40c00800000000000000
+      internalID: 866095416056945529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_26
+      rect:
+        serializedVersion: 2
+        x: 19226
+        y: 8244
+        width: 803
+        height: 1771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc10cdb01fb75890800000000000000
+      internalID: -7469291378346812169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_27
+      rect:
+        serializedVersion: 2
+        x: 21316
+        y: 8243
+        width: 746
+        height: 1772
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee5c6964256ae280800000000000000
+      internalID: -9013280497166688535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_28
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 8245
+        width: 779
+        height: 1628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bfa6d0ca84a43ab0800000000000000
+      internalID: -5029213968018264135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_29
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6193
+        width: 764
+        height: 1830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2d87cd1c71a85e0800000000000000
+      internalID: -1906685370842950991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_30
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 6192
+        width: 789
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 107f48be47bd62d00800000000000000
+      internalID: 947686066822117121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_31
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 6197
+        width: 805
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee2284b820a66c40800000000000000
+      internalID: 5505263691194576621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_32
+      rect:
+        serializedVersion: 2
+        x: 6899
+        y: 6201
+        width: 816
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c3c021840886a00800000000000000
+      internalID: 749990384985979998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_33
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 6206
+        width: 822
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55551c89345d43bf0800000000000000
+      internalID: -345416785098353323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_34
+      rect:
+        serializedVersion: 2
+        x: 10988
+        y: 6211
+        width: 824
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d80614e8c34340800000000000000
+      internalID: 4846938505928560924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_35
+      rect:
+        serializedVersion: 2
+        x: 13033
+        y: 6216
+        width: 825
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a983e2d2e0eb0260800000000000000
+      internalID: 7064987705266112931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_36
+      rect:
+        serializedVersion: 2
+        x: 15078
+        y: 6221
+        width: 826
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e331d8c9e9b8770800000000000000
+      internalID: 8614153107495140935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_37
+      rect:
+        serializedVersion: 2
+        x: 17122
+        y: 6225
+        width: 828
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19d493332813133b0800000000000000
+      internalID: -5534588031786725999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_38
+      rect:
+        serializedVersion: 2
+        x: 19167
+        y: 6230
+        width: 829
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9710fe983314ad50800000000000000
+      internalID: 6747539275613476766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_39
+      rect:
+        serializedVersion: 2
+        x: 21211
+        y: 6235
+        width: 831
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828ef074cd49bf100800000000000000
+      internalID: 142871486998243368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_40
+      rect:
+        serializedVersion: 2
+        x: 23256
+        y: 6240
+        width: 832
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b23cdf357f46b80800000000000000
+      internalID: -8402319064654730404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_41
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4196
+        width: 833
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c774c48b18951220800000000000000
+      internalID: 2456036415759480776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_42
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 4201
+        width: 835
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64a3d9c43f4e5700800000000000000
+      internalID: 530948894219281519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_43
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 4206
+        width: 835
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ad2caf5be52bae0800000000000000
+      internalID: -1535060387290752394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_44
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 4211
+        width: 837
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2acb5fa7b13d2daf0800000000000000
+      internalID: -373003704137827166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_45
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbfada63f38de970800000000000000
+      internalID: 8785823529562733498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_46
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 4220
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c6a19d7bd19c4f0800000000000000
+      internalID: -808081982677685090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_47
+      rect:
+        serializedVersion: 2
+        x: 12992
+        y: 4225
+        width: 849
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b40df0ef6ed683c90800000000000000
+      internalID: -7189875966224641973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_48
+      rect:
+        serializedVersion: 2
+        x: 15066
+        y: 4223
+        width: 824
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c5765805d81bde0800000000000000
+      internalID: -1319117838867801031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_49
+      rect:
+        serializedVersion: 2
+        x: 17139
+        y: 4220
+        width: 800
+        height: 1899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5b742929b5272b70800000000000000
+      internalID: 8874103067946285916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_50
+      rect:
+        serializedVersion: 2
+        x: 19213
+        y: 4217
+        width: 775
+        height: 1901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69381e9ca4c2850d0800000000000000
+      internalID: -3433946016143801450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_51
+      rect:
+        serializedVersion: 2
+        x: 21287
+        y: 4213
+        width: 751
+        height: 1903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c5032c4e4bad140800000000000000
+      internalID: 4745304051991731284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_52
+      rect:
+        serializedVersion: 2
+        x: 23361
+        y: 4210
+        width: 726
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08c08e977f1920890800000000000000
+      internalID: -7493266337902883712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_53
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2159
+        width: 702
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb9ba5e50dbc1170800000000000000
+      internalID: 8150597258659470268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_54
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 2156
+        width: 681
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e365098a04b77b0800000000000000
+      internalID: -5225511849913074175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_55
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 2150
+        width: 683
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c10cdc8e1ee7920800000000000000
+      internalID: 2990075592621169765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_56
+      rect:
+        serializedVersion: 2
+        x: 7025
+        y: 2143
+        width: 684
+        height: 1903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c97f26312d42210800000000000000
+      internalID: 1307400772550892638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_57
+      rect:
+        serializedVersion: 2
+        x: 9073
+        y: 2137
+        width: 686
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8539a3eb79efe580800000000000000
+      internalID: -8795554828921522806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_58
+      rect:
+        serializedVersion: 2
+        x: 11121
+        y: 2131
+        width: 687
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc2e57ec3e910a80800000000000000
+      internalID: -8502340637081850702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_59
+      rect:
+        serializedVersion: 2
+        x: 13170
+        y: 2124
+        width: 687
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aef121e689d8b380800000000000000
+      internalID: -8955168685700284767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_60
+      rect:
+        serializedVersion: 2
+        x: 15218
+        y: 2118
+        width: 689
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87c36f029dd768140800000000000000
+      internalID: 4721599630858927224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_61
+      rect:
+        serializedVersion: 2
+        x: 17266
+        y: 2112
+        width: 690
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efa9b36da9da0d7f0800000000000000
+      internalID: -589780670654735618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_62
+      rect:
+        serializedVersion: 2
+        x: 19314
+        y: 2106
+        width: 692
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f70e891df464a250800000000000000
+      internalID: 5954995645508880376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_63
+      rect:
+        serializedVersion: 2
+        x: 21363
+        y: 2099
+        width: 693
+        height: 1883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedabd29d053f4260800000000000000
+      internalID: 7083939071291796972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_64
+      rect:
+        serializedVersion: 2
+        x: 23410
+        y: 2093
+        width: 678
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 109279cfbee8f7ac0800000000000000
+      internalID: -3855205611799631615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_65
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 46
+        width: 702
+        height: 1868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaa9cc57b0d6af50800000000000000
+      internalID: 6892425765691435759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_66
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 47
+        width: 740
+        height: 1855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7cabb84831b2230800000000000000
+      internalID: 3615004585895839676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_67
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 49
+        width: 706
+        height: 1841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e0a11d2cc9ac1c0800000000000000
+      internalID: -4482598118548173228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_68
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 50
+        width: 671
+        height: 1828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 502a30e6380e5cd80800000000000000
+      internalID: -8230925888858643963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_69
+      rect:
+        serializedVersion: 2
+        x: 9044
+        y: 52
+        width: 635
+        height: 1813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7416daed6c3bfe0800000000000000
+      internalID: -1174376418119694422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_70
+      rect:
+        serializedVersion: 2
+        x: 11070
+        y: 53
+        width: 617
+        height: 1804
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d212bee6db25c1c80800000000000000
+      internalID: -8350708635488542419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_71
+      rect:
+        serializedVersion: 2
+        x: 13121
+        y: 41
+        width: 587
+        height: 1816
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c4e8971d218e7970800000000000000
+      internalID: 8754576756324230337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_72
+      rect:
+        serializedVersion: 2
+        x: 13646
+        y: 1839
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c62298a51709fd0800000000000000
+      internalID: -2337243572943557506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_73
+      rect:
+        serializedVersion: 2
+        x: 15172
+        y: 42
+        width: 556
+        height: 1815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 318a6c2200e19fd20800000000000000
+      internalID: 3312711986839988243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_74
+      rect:
+        serializedVersion: 2
+        x: 17223
+        y: 43
+        width: 526
+        height: 1831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad0fc8b21119afb70800000000000000
+      internalID: 8933612313773928666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_75
+      rect:
+        serializedVersion: 2
+        x: 17742
+        y: 1839
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26bc6f489fe4fc790800000000000000
+      internalID: -7507695220218737822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_76
+      rect:
+        serializedVersion: 2
+        x: 19275
+        y: 45
+        width: 512
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208762cfb343d3fe0800000000000000
+      internalID: -1207751692827330558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_77
+      rect:
+        serializedVersion: 2
+        x: 19790
+        y: 1839
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1b6b655597aaea0800000000000000
+      internalID: -5860738557635284548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_78
+      rect:
+        serializedVersion: 2
+        x: 21326
+        y: 46
+        width: 501
+        height: 1862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974da331091d81500800000000000000
+      internalID: 367273786358813817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_79
+      rect:
+        serializedVersion: 2
+        x: 21838
+        y: 1839
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd0797a9e3b962c0800000000000000
+      internalID: -4437818141676466735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_80
+      rect:
+        serializedVersion: 2
+        x: 23376
+        y: 46
+        width: 490
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9105e6187ea27c0800000000000000
+      internalID: -4095206368052504126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_hibou_81
+      rect:
+        serializedVersion: 2
+        x: 23886
+        y: 1839
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd2bc73f9fca46ed0800000000000000
+      internalID: -2421620510086614305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      saut_hibou_0: -8501265597346222430
+      saut_hibou_1: -2036710171569048332
+      saut_hibou_10: 5273238415045727936
+      saut_hibou_11: 7588330091942985967
+      saut_hibou_12: 1879068133317795782
+      saut_hibou_13: -6506109672285785191
+      saut_hibou_14: -4742313718729246289
+      saut_hibou_15: 1344225961931640434
+      saut_hibou_16: 3708216884344815525
+      saut_hibou_17: 7589860933071564139
+      saut_hibou_18: 5052525243250038992
+      saut_hibou_19: -1403252089835207360
+      saut_hibou_2: -4585141134634220512
+      saut_hibou_20: 2442203205914410147
+      saut_hibou_21: 8176327992254218459
+      saut_hibou_22: 4548574913139409410
+      saut_hibou_23: 3934053025915949665
+      saut_hibou_24: 1113569956668896500
+      saut_hibou_25: 866095416056945529
+      saut_hibou_26: -7469291378346812169
+      saut_hibou_27: -9013280497166688535
+      saut_hibou_28: -5029213968018264135
+      saut_hibou_29: -1906685370842950991
+      saut_hibou_3: 5676276434709555991
+      saut_hibou_30: 947686066822117121
+      saut_hibou_31: 5505263691194576621
+      saut_hibou_32: 749990384985979998
+      saut_hibou_33: -345416785098353323
+      saut_hibou_34: 4846938505928560924
+      saut_hibou_35: 7064987705266112931
+      saut_hibou_36: 8614153107495140935
+      saut_hibou_37: -5534588031786725999
+      saut_hibou_38: 6747539275613476766
+      saut_hibou_39: 142871486998243368
+      saut_hibou_4: -8694215186848878439
+      saut_hibou_40: -8402319064654730404
+      saut_hibou_41: 2456036415759480776
+      saut_hibou_42: 530948894219281519
+      saut_hibou_43: -1535060387290752394
+      saut_hibou_44: -373003704137827166
+      saut_hibou_45: 8785823529562733498
+      saut_hibou_46: -808081982677685090
+      saut_hibou_47: -7189875966224641973
+      saut_hibou_48: -1319117838867801031
+      saut_hibou_49: 8874103067946285916
+      saut_hibou_5: 7165460072462071929
+      saut_hibou_50: -3433946016143801450
+      saut_hibou_51: 4745304051991731284
+      saut_hibou_52: -7493266337902883712
+      saut_hibou_53: 8150597258659470268
+      saut_hibou_54: -5225511849913074175
+      saut_hibou_55: 2990075592621169765
+      saut_hibou_56: 1307400772550892638
+      saut_hibou_57: -8795554828921522806
+      saut_hibou_58: -8502340637081850702
+      saut_hibou_59: -8955168685700284767
+      saut_hibou_6: -2897475048211929733
+      saut_hibou_60: 4721599630858927224
+      saut_hibou_61: -589780670654735618
+      saut_hibou_62: 5954995645508880376
+      saut_hibou_63: 7083939071291796972
+      saut_hibou_64: -3855205611799631615
+      saut_hibou_65: 6892425765691435759
+      saut_hibou_66: 3615004585895839676
+      saut_hibou_67: -4482598118548173228
+      saut_hibou_68: -8230925888858643963
+      saut_hibou_69: -1174376418119694422
+      saut_hibou_7: 7608440942372685771
+      saut_hibou_70: -8350708635488542419
+      saut_hibou_71: 8754576756324230337
+      saut_hibou_72: -2337243572943557506
+      saut_hibou_73: 3312711986839988243
+      saut_hibou_74: 8933612313773928666
+      saut_hibou_75: -7507695220218737822
+      saut_hibou_76: -1207751692827330558
+      saut_hibou_77: -5860738557635284548
+      saut_hibou_78: 367273786358813817
+      saut_hibou_79: -4437818141676466735
+      saut_hibou_8: -8100952885745700503
+      saut_hibou_80: -4095206368052504126
+      saut_hibou_81: -2421620510086614305
+      saut_hibou_9: 3130879245187021053
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1677 @@
+fileFormatVersion: 2
+guid: 8ea7e081910975d4a9955d4cbef29228
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 985128384072436542
+    second: saut_gaz_0
+  - first:
+      213: -7786879160201308012
+    second: saut_gaz_1
+  - first:
+      213: -3196454195288863066
+    second: saut_gaz_2
+  - first:
+      213: -1914953511556260163
+    second: saut_gaz_3
+  - first:
+      213: -9081402895855646274
+    second: saut_gaz_4
+  - first:
+      213: -6856631151398932568
+    second: saut_gaz_5
+  - first:
+      213: -6573051187069699173
+    second: saut_gaz_6
+  - first:
+      213: 4098479960687651796
+    second: saut_gaz_7
+  - first:
+      213: 8309519303955261303
+    second: saut_gaz_8
+  - first:
+      213: 8462763120265628397
+    second: saut_gaz_9
+  - first:
+      213: 2546467004916196150
+    second: saut_gaz_10
+  - first:
+      213: -4177153186849759681
+    second: saut_gaz_11
+  - first:
+      213: 1575812667358283699
+    second: saut_gaz_12
+  - first:
+      213: -735169200181156376
+    second: saut_gaz_13
+  - first:
+      213: 4887164905809436300
+    second: saut_gaz_14
+  - first:
+      213: -3112169117823411803
+    second: saut_gaz_15
+  - first:
+      213: 8692256562566424704
+    second: saut_gaz_16
+  - first:
+      213: -5392144303582351014
+    second: saut_gaz_17
+  - first:
+      213: 7503323979701906198
+    second: saut_gaz_18
+  - first:
+      213: -6700596414732430412
+    second: saut_gaz_19
+  - first:
+      213: -32242020278943759
+    second: saut_gaz_20
+  - first:
+      213: 3971700335832069567
+    second: saut_gaz_21
+  - first:
+      213: 3350824055194547455
+    second: saut_gaz_22
+  - first:
+      213: 499293025010527962
+    second: saut_gaz_23
+  - first:
+      213: -3779969780964244862
+    second: saut_gaz_24
+  - first:
+      213: -9135791602811022466
+    second: saut_gaz_25
+  - first:
+      213: -8168753129150445151
+    second: saut_gaz_26
+  - first:
+      213: -6648823571880012329
+    second: saut_gaz_27
+  - first:
+      213: -6890223982192915819
+    second: saut_gaz_28
+  - first:
+      213: 1461509223015480162
+    second: saut_gaz_29
+  - first:
+      213: 4776588835568451596
+    second: saut_gaz_30
+  - first:
+      213: -4481040233265344559
+    second: saut_gaz_31
+  - first:
+      213: 3297022504865402002
+    second: saut_gaz_32
+  - first:
+      213: 8804519091413937455
+    second: saut_gaz_33
+  - first:
+      213: -4695646606140148771
+    second: saut_gaz_34
+  - first:
+      213: 930550264865423841
+    second: saut_gaz_35
+  - first:
+      213: -5982285815998180543
+    second: saut_gaz_36
+  - first:
+      213: -2011300648097011701
+    second: saut_gaz_37
+  - first:
+      213: 2525230260483503028
+    second: saut_gaz_38
+  - first:
+      213: -6812660202372015391
+    second: saut_gaz_39
+  - first:
+      213: -1299972978229683701
+    second: saut_gaz_40
+  - first:
+      213: -7251701503127669054
+    second: saut_gaz_41
+  - first:
+      213: 1015037516483716000
+    second: saut_gaz_42
+  - first:
+      213: -2199047773710219441
+    second: saut_gaz_43
+  - first:
+      213: -4382129744120390154
+    second: saut_gaz_44
+  - first:
+      213: 4304972519005124920
+    second: saut_gaz_45
+  - first:
+      213: 5742047279417346517
+    second: saut_gaz_46
+  - first:
+      213: 3777749434928281419
+    second: saut_gaz_47
+  - first:
+      213: 5786415296175939005
+    second: saut_gaz_48
+  - first:
+      213: 6177358176724604506
+    second: saut_gaz_49
+  - first:
+      213: 756933331017546259
+    second: saut_gaz_50
+  - first:
+      213: -3936634168489067007
+    second: saut_gaz_51
+  - first:
+      213: 2278062964799421438
+    second: saut_gaz_52
+  - first:
+      213: -6085052585895073337
+    second: saut_gaz_53
+  - first:
+      213: -4760029703549439346
+    second: saut_gaz_54
+  - first:
+      213: -8308209782721733657
+    second: saut_gaz_55
+  - first:
+      213: 3803022092167631842
+    second: saut_gaz_56
+  - first:
+      213: -603242246448384015
+    second: saut_gaz_57
+  - first:
+      213: 3566929064871429968
+    second: saut_gaz_58
+  - first:
+      213: 8523816754754351654
+    second: saut_gaz_59
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: saut_gaz_0
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 8237
+        width: 484
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3bcacebb01ebad00800000000000000
+      internalID: 985128384072436542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_1
+      rect:
+        serializedVersion: 2
+        x: 2870
+        y: 8238
+        width: 528
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4981f4319a27fe390800000000000000
+      internalID: -7786879160201308012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_2
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 8239
+        width: 640
+        height: 1863
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ae000d48d9e3a3d0800000000000000
+      internalID: -3196454195288863066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_3
+      rect:
+        serializedVersion: 2
+        x: 6911
+        y: 8240
+        width: 785
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe5d465de7bc65e0800000000000000
+      internalID: -1914953511556260163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_4
+      rect:
+        serializedVersion: 2
+        x: 8963
+        y: 8241
+        width: 733
+        height: 1792
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9025a7e2068f180800000000000000
+      internalID: -9081402895855646274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_5
+      rect:
+        serializedVersion: 2
+        x: 10997
+        y: 8243
+        width: 702
+        height: 1737
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af2df8bb4a58d0a0800000000000000
+      internalID: -6856631151398932568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_6
+      rect:
+        serializedVersion: 2
+        x: 13022
+        y: 8244
+        width: 740
+        height: 1682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9b304855c4d7c4a0800000000000000
+      internalID: -6573051187069699173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_7
+      rect:
+        serializedVersion: 2
+        x: 15047
+        y: 8245
+        width: 779
+        height: 1648
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db28df3fc9b0e830800000000000000
+      internalID: 4098479960687651796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_8
+      rect:
+        serializedVersion: 2
+        x: 17136
+        y: 8245
+        width: 785
+        height: 1668
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 777218ef7c7515370800000000000000
+      internalID: 8309519303955261303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_9
+      rect:
+        serializedVersion: 2
+        x: 19226
+        y: 8244
+        width: 803
+        height: 1709
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dea85b16836c17570800000000000000
+      internalID: 8462763120265628397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_10
+      rect:
+        serializedVersion: 2
+        x: 21316
+        y: 8243
+        width: 746
+        height: 1749
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 633684ccf3ed65320800000000000000
+      internalID: 2546467004916196150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_11
+      rect:
+        serializedVersion: 2
+        x: 23339
+        y: 8242
+        width: 756
+        height: 1790
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3edd6dde45c706c0800000000000000
+      internalID: -4177153186849759681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_12
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 6193
+        width: 764
+        height: 1830
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b7837e95496ed510800000000000000
+      internalID: 1575812667358283699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_13
+      rect:
+        serializedVersion: 2
+        x: 2810
+        y: 6192
+        width: 789
+        height: 1869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5e46de1872cc5f0800000000000000
+      internalID: -735169200181156376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_14
+      rect:
+        serializedVersion: 2
+        x: 4855
+        y: 6197
+        width: 805
+        height: 1871
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8ed689a692b2d340800000000000000
+      internalID: 4887164905809436300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_15
+      rect:
+        serializedVersion: 2
+        x: 6899
+        y: 6201
+        width: 816
+        height: 1873
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d1332daa5fc4d0800000000000000
+      internalID: -3112169117823411803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_16
+      rect:
+        serializedVersion: 2
+        x: 8944
+        y: 6206
+        width: 822
+        height: 1875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08864544a4911a870800000000000000
+      internalID: 8692256562566424704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_17
+      rect:
+        serializedVersion: 2
+        x: 10988
+        y: 6211
+        width: 824
+        height: 1876
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51f35f13514b25b0800000000000000
+      internalID: -5392144303582351014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_18
+      rect:
+        serializedVersion: 2
+        x: 13033
+        y: 6216
+        width: 825
+        height: 1877
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b6dccb769212860800000000000000
+      internalID: 7503323979701906198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_19
+      rect:
+        serializedVersion: 2
+        x: 15078
+        y: 6221
+        width: 826
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b31e94ef03b203a0800000000000000
+      internalID: -6700596414732430412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_20
+      rect:
+        serializedVersion: 2
+        x: 17122
+        y: 6225
+        width: 828
+        height: 1881
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ffbe6aad047d8ff0800000000000000
+      internalID: -32242020278943759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_21
+      rect:
+        serializedVersion: 2
+        x: 19167
+        y: 6230
+        width: 829
+        height: 1882
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb5f19799605e1730800000000000000
+      internalID: 3971700335832069567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_22
+      rect:
+        serializedVersion: 2
+        x: 21211
+        y: 6235
+        width: 831
+        height: 1884
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff474ba89b4808e20800000000000000
+      internalID: 3350824055194547455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_23
+      rect:
+        serializedVersion: 2
+        x: 23256
+        y: 6240
+        width: 832
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade25926c58dde600800000000000000
+      internalID: 499293025010527962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_24
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 4196
+        width: 833
+        height: 1888
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2824ae7e289da8bc0800000000000000
+      internalID: -3779969780964244862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_25
+      rect:
+        serializedVersion: 2
+        x: 2769
+        y: 4201
+        width: 835
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d374d0f5273180800000000000000
+      internalID: -9135791602811022466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_26
+      rect:
+        serializedVersion: 2
+        x: 4814
+        y: 4206
+        width: 835
+        height: 1890
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a980271f42c2ae80800000000000000
+      internalID: -8168753129150445151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_27
+      rect:
+        serializedVersion: 2
+        x: 6858
+        y: 4211
+        width: 837
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d519d73032aab3a0800000000000000
+      internalID: -6648823571880012329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_28
+      rect:
+        serializedVersion: 2
+        x: 8903
+        y: 4216
+        width: 839
+        height: 1893
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a838e4bc10160a0800000000000000
+      internalID: -6890223982192915819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_29
+      rect:
+        serializedVersion: 2
+        x: 10948
+        y: 4220
+        width: 843
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26b7bc915e2584410800000000000000
+      internalID: 1461509223015480162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_30
+      rect:
+        serializedVersion: 2
+        x: 12992
+        y: 4225
+        width: 849
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00872e0d3ad94240800000000000000
+      internalID: 4776588835568451596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_31
+      rect:
+        serializedVersion: 2
+        x: 15066
+        y: 4223
+        width: 824
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1df4cff36a520d1c0800000000000000
+      internalID: -4481040233265344559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_32
+      rect:
+        serializedVersion: 2
+        x: 17139
+        y: 4220
+        width: 800
+        height: 1899
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c88f2ff7061cd20800000000000000
+      internalID: 3297022504865402002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_33
+      rect:
+        serializedVersion: 2
+        x: 19213
+        y: 4217
+        width: 775
+        height: 1901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d6fdd177fef2a70800000000000000
+      internalID: 8804519091413937455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_34
+      rect:
+        serializedVersion: 2
+        x: 21287
+        y: 4213
+        width: 751
+        height: 1903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd37f325a46b5deb0800000000000000
+      internalID: -4695646606140148771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_35
+      rect:
+        serializedVersion: 2
+        x: 23361
+        y: 4210
+        width: 726
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e103fe198af9ec00800000000000000
+      internalID: 930550264865423841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_36
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 2159
+        width: 702
+        height: 1907
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1431290feb6aafca0800000000000000
+      internalID: -5982285815998180543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_37
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 2156
+        width: 681
+        height: 1908
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b082aa587bc6614e0800000000000000
+      internalID: -2011300648097011701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_38
+      rect:
+        serializedVersion: 2
+        x: 4977
+        y: 2150
+        width: 683
+        height: 1905
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3bf2cea8b6b0320800000000000000
+      internalID: 2525230260483503028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_39
+      rect:
+        serializedVersion: 2
+        x: 7025
+        y: 2143
+        width: 684
+        height: 1903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eadc2614a19471a0800000000000000
+      internalID: -6812660202372015391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_40
+      rect:
+        serializedVersion: 2
+        x: 9073
+        y: 2137
+        width: 686
+        height: 1900
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a530fb67195fde0800000000000000
+      internalID: -1299972978229683701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_41
+      rect:
+        serializedVersion: 2
+        x: 11121
+        y: 2131
+        width: 687
+        height: 1897
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6b8e077e7cc5b90800000000000000
+      internalID: -7251701503127669054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_42
+      rect:
+        serializedVersion: 2
+        x: 13170
+        y: 2124
+        width: 687
+        height: 1895
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3e4bb4e33261e00800000000000000
+      internalID: 1015037516483716000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_43
+      rect:
+        serializedVersion: 2
+        x: 15218
+        y: 2118
+        width: 689
+        height: 1892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4783eb63b96b71e0800000000000000
+      internalID: -2199047773710219441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_44
+      rect:
+        serializedVersion: 2
+        x: 17266
+        y: 2112
+        width: 690
+        height: 1889
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdd70a173c8f23c0800000000000000
+      internalID: -4382129744120390154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_45
+      rect:
+        serializedVersion: 2
+        x: 19314
+        y: 2106
+        width: 692
+        height: 1885
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8397e1382b55ebb30800000000000000
+      internalID: 4304972519005124920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_46
+      rect:
+        serializedVersion: 2
+        x: 21363
+        y: 2099
+        width: 693
+        height: 1883
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d94b25f399dfaf40800000000000000
+      internalID: 5742047279417346517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_47
+      rect:
+        serializedVersion: 2
+        x: 23410
+        y: 2093
+        width: 678
+        height: 1880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47355f78134d6430800000000000000
+      internalID: 3777749434928281419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_48
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 46
+        width: 702
+        height: 1868
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd147bdd0a7d4050800000000000000
+      internalID: 5786415296175939005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_49
+      rect:
+        serializedVersion: 2
+        x: 2919
+        y: 47
+        width: 740
+        height: 1855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56560e58826ab550800000000000000
+      internalID: 6177358176724604506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_50
+      rect:
+        serializedVersion: 2
+        x: 4960
+        y: 49
+        width: 706
+        height: 1841
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31a34f9aada218a00800000000000000
+      internalID: 756933331017546259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_51
+      rect:
+        serializedVersion: 2
+        x: 7002
+        y: 50
+        width: 671
+        height: 1828
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e3b88b4144e59c0800000000000000
+      internalID: -3936634168489067007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_52
+      rect:
+        serializedVersion: 2
+        x: 9044
+        y: 52
+        width: 635
+        height: 1813
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efbb7d0623e4d9f10800000000000000
+      internalID: 2278062964799421438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_53
+      rect:
+        serializedVersion: 2
+        x: 11070
+        y: 53
+        width: 617
+        height: 1800
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c9e622c9ec8d8ba0800000000000000
+      internalID: -6085052585895073337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_54
+      rect:
+        serializedVersion: 2
+        x: 13121
+        y: 41
+        width: 587
+        height: 1799
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82b0af443af0fdb0800000000000000
+      internalID: -4760029703549439346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_55
+      rect:
+        serializedVersion: 2
+        x: 15172
+        y: 42
+        width: 556
+        height: 1815
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7eb127da83f43bc80800000000000000
+      internalID: -8308209782721733657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_56
+      rect:
+        serializedVersion: 2
+        x: 17223
+        y: 43
+        width: 526
+        height: 1831
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e35d9c817c07c430800000000000000
+      internalID: 3803022092167631842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_57
+      rect:
+        serializedVersion: 2
+        x: 19275
+        y: 45
+        width: 512
+        height: 1846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f77fea7f5ad0a7f0800000000000000
+      internalID: -603242246448384015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_58
+      rect:
+        serializedVersion: 2
+        x: 21326
+        y: 46
+        width: 501
+        height: 1862
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578daa0617408130800000000000000
+      internalID: 3566929064871429968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: saut_gaz_59
+      rect:
+        serializedVersion: 2
+        x: 23376
+        y: 46
+        width: 490
+        height: 1879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622f7a56d2eaa4670800000000000000
+      internalID: 8523816754754351654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      saut_gaz_0: 985128384072436542
+      saut_gaz_1: -7786879160201308012
+      saut_gaz_10: 2546467004916196150
+      saut_gaz_11: -4177153186849759681
+      saut_gaz_12: 1575812667358283699
+      saut_gaz_13: -735169200181156376
+      saut_gaz_14: 4887164905809436300
+      saut_gaz_15: -3112169117823411803
+      saut_gaz_16: 8692256562566424704
+      saut_gaz_17: -5392144303582351014
+      saut_gaz_18: 7503323979701906198
+      saut_gaz_19: -6700596414732430412
+      saut_gaz_2: -3196454195288863066
+      saut_gaz_20: -32242020278943759
+      saut_gaz_21: 3971700335832069567
+      saut_gaz_22: 3350824055194547455
+      saut_gaz_23: 499293025010527962
+      saut_gaz_24: -3779969780964244862
+      saut_gaz_25: -9135791602811022466
+      saut_gaz_26: -8168753129150445151
+      saut_gaz_27: -6648823571880012329
+      saut_gaz_28: -6890223982192915819
+      saut_gaz_29: 1461509223015480162
+      saut_gaz_3: -1914953511556260163
+      saut_gaz_30: 4776588835568451596
+      saut_gaz_31: -4481040233265344559
+      saut_gaz_32: 3297022504865402002
+      saut_gaz_33: 8804519091413937455
+      saut_gaz_34: -4695646606140148771
+      saut_gaz_35: 930550264865423841
+      saut_gaz_36: -5982285815998180543
+      saut_gaz_37: -2011300648097011701
+      saut_gaz_38: 2525230260483503028
+      saut_gaz_39: -6812660202372015391
+      saut_gaz_4: -9081402895855646274
+      saut_gaz_40: -1299972978229683701
+      saut_gaz_41: -7251701503127669054
+      saut_gaz_42: 1015037516483716000
+      saut_gaz_43: -2199047773710219441
+      saut_gaz_44: -4382129744120390154
+      saut_gaz_45: 4304972519005124920
+      saut_gaz_46: 5742047279417346517
+      saut_gaz_47: 3777749434928281419
+      saut_gaz_48: 5786415296175939005
+      saut_gaz_49: 6177358176724604506
+      saut_gaz_5: -6856631151398932568
+      saut_gaz_50: 756933331017546259
+      saut_gaz_51: -3936634168489067007
+      saut_gaz_52: 2278062964799421438
+      saut_gaz_53: -6085052585895073337
+      saut_gaz_54: -4760029703549439346
+      saut_gaz_55: -8308209782721733657
+      saut_gaz_56: 3803022092167631842
+      saut_gaz_57: -603242246448384015
+      saut_gaz_58: 3566929064871429968
+      saut_gaz_59: 8523816754754351654
+      saut_gaz_6: -6573051187069699173
+      saut_gaz_7: 4098479960687651796
+      saut_gaz_8: 8309519303955261303
+      saut_gaz_9: 8462763120265628397
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
