@@ -1,16 +1,39 @@
-using System;
-using MaskSystem.Runtime;
+using System.Collections;
+using System.Collections.Generic;
+using Platformer.Gameplay;
 using UnityEngine;
-using UnityEngine.UI;
+using static Platformer.Core.Simulation; 
+using MaskSystem.Runtime;
+using Platformer.Mechanics;
 
-public class FogCollider : MonoBehaviour
+namespace Platformer.Mechanics
 {
-    [SerializeField] private MaskAbilityManager abilityManager;
-    private void OnTriggerEnter2D(Collider2D other)
+    public class FogCollider : MonoBehaviour
     {
-        if (other.tag == "Player" && abilityManager.activeMask.pouvoir != MaskData.TypePouvoir.DoubleSaut)
+        [Header("Protection")]
+        [SerializeField] private MaskAbilityManager abilityManager;
+
+        void OnTriggerEnter2D(Collider2D collider)
         {
-            
+            var p = collider.gameObject.GetComponent<PlayerController>();
+
+            if (p != null)
+            {
+
+                if (abilityManager != null && abilityManager.activeMask != null && abilityManager.activeMask.pouvoir != MaskData.TypePouvoir.VisionGaz)
+                {
+                  
+                    var ev = Schedule<PlayerEnteredDeathZone>();
+                    
+                    ev.deathzone = this.gameObject.GetComponent<DeathZone>(); 
+                    
+                    Debug.Log("Le brouillard a déclenché l'événement de mort !");
+                }
+                else
+                {
+                    Debug.Log("Le joueur traverse le brouillard grâce au masque !");
+                }
+            }
         }
     }
 }
