@@ -50,6 +50,7 @@ namespace Platformer.Mechanics
         public void Die()
         {
             while (currentHP > 0) Decrement();
+            SoundManager.Instance.PlaySound2D("Die");
         }
 
         void Awake()
