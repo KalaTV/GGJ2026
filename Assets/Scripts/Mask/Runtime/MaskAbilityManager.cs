@@ -151,6 +151,7 @@ namespace MaskSystem.Runtime
                 yield return null;
             }
             isCooldown = false;
+            cooldownDuration = 2;
         }
         
         IEnumerator DashRoutine() 

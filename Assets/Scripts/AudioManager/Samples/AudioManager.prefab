@@ -340,6 +340,9 @@ MonoBehaviour:
     clips:
     - {fileID: 8300000, guid: c81ed2ff2d1e012439cb4b6437fa6def, type: 3}
     - {fileID: 8300000, guid: 22cf9994edc5d284cbabbf1ddc6524bb, type: 3}
+  - groupID: Die
+    clips:
+    - {fileID: 8300000, guid: 44d48b7505af1e944bb1bb12c3ef125e, type: 3}
 --- !u!114 &119645474626266707
 MonoBehaviour:
   m_ObjectHideFlags: 0
